@@ -1,0 +1,3355 @@
+"Team","Map Id","Map","Condition","Attacking Wins","Attacking Losses","Defending Wins","Defending Losses"
+"ややーず",8,"Breeze","bomb",1,0,0,1
+"ややーず",8,"Breeze","defuse",0,2,4,0
+"ややーず",8,"Breeze","kills (post-plant)",1,0,0,3
+"ややーず",8,"Breeze","kills (pre-plant)",1,5,2,0
+"ややーず",8,"Breeze","time",0,2,0,0
+"ややーず",2,"Split","bomb",2,0,0,0
+"ややーず",2,"Split","defuse",0,3,2,0
+"ややーず",2,"Split","kills (post-plant)",5,0,0,7
+"ややーず",2,"Split","kills (pre-plant)",0,2,1,1
+"ややーず",2,"Split","time",0,0,1,0
+"100 Thieves",1,"Ascent","bomb",4,0,0,0
+"100 Thieves",1,"Ascent","defuse",0,14,14,0
+"100 Thieves",1,"Ascent","kills (post-plant)",15,0,0,19
+"100 Thieves",1,"Ascent","kills (pre-plant)",4,34,17,3
+"100 Thieves",1,"Ascent","time",0,3,5,0
+"100 Thieves",3,"Bind","bomb",10,0,0,7
+"100 Thieves",3,"Bind","defuse",0,4,11,0
+"100 Thieves",3,"Bind","kills (post-plant)",21,0,0,14
+"100 Thieves",3,"Bind","kills (pre-plant)",4,18,15,5
+"100 Thieves",3,"Bind","time",0,4,3,0
+"100 Thieves",8,"Breeze","bomb",8,0,0,13
+"100 Thieves",8,"Breeze","defuse",0,15,33,0
+"100 Thieves",8,"Breeze","kills (post-plant)",31,0,0,40
+"100 Thieves",8,"Breeze","kills (pre-plant)",19,39,34,10
+"100 Thieves",8,"Breeze","time",0,3,4,0
+"100 Thieves",9,"Fracture","bomb",13,0,0,6
+"100 Thieves",9,"Fracture","defuse",0,15,18,0
+"100 Thieves",9,"Fracture","kills (post-plant)",27,0,0,29
+"100 Thieves",9,"Fracture","kills (pre-plant)",13,29,34,16
+"100 Thieves",9,"Fracture","time",0,0,1,0
+"100 Thieves",7,"Haven","bomb",8,0,0,13
+"100 Thieves",7,"Haven","defuse",0,12,19,0
+"100 Thieves",7,"Haven","kills (post-plant)",22,0,0,26
+"100 Thieves",7,"Haven","kills (pre-plant)",17,11,10,17
+"100 Thieves",7,"Haven","time",0,0,1,0
+"100 Thieves",4,"Icebox","bomb",13,0,0,1
+"100 Thieves",4,"Icebox","defuse",0,22,18,0
+"100 Thieves",4,"Icebox","kills (post-plant)",20,0,0,25
+"100 Thieves",4,"Icebox","kills (pre-plant)",8,13,16,14
+"100 Thieves",4,"Icebox","time",0,1,4,0
+"100 Thieves",10,"Pearl","bomb",2,0,0,1
+"100 Thieves",10,"Pearl","defuse",0,3,5,0
+"100 Thieves",10,"Pearl","kills (post-plant)",4,0,0,5
+"100 Thieves",10,"Pearl","kills (pre-plant)",1,1,1,0
+"100 Thieves",2,"Split","bomb",4,0,0,4
+"100 Thieves",2,"Split","defuse",0,12,14,0
+"100 Thieves",2,"Split","kills (post-plant)",20,0,0,17
+"100 Thieves",2,"Split","kills (pre-plant)",3,39,30,1
+"100 Thieves",2,"Split","time",0,7,2,0
+"9z Team",1,"Ascent","bomb",5,0,0,6
+"9z Team",1,"Ascent","defuse",0,15,14,0
+"9z Team",1,"Ascent","kills (post-plant)",20,0,0,34
+"9z Team",1,"Ascent","kills (pre-plant)",8,25,26,13
+"9z Team",1,"Ascent","time",0,5,2,0
+"9z Team",3,"Bind","bomb",4,0,0,7
+"9z Team",3,"Bind","defuse",0,6,8,0
+"9z Team",3,"Bind","kills (post-plant)",22,0,0,37
+"9z Team",3,"Bind","kills (pre-plant)",7,20,14,6
+"9z Team",3,"Bind","time",0,2,2,0
+"9z Team",8,"Breeze","bomb",2,0,0,4
+"9z Team",8,"Breeze","defuse",0,5,3,0
+"9z Team",8,"Breeze","kills (post-plant)",3,0,0,12
+"9z Team",8,"Breeze","kills (pre-plant)",1,9,13,4
+"9z Team",8,"Breeze","time",0,1,0,0
+"9z Team",9,"Fracture","bomb",4,0,0,1
+"9z Team",9,"Fracture","defuse",0,0,1,0
+"9z Team",9,"Fracture","kills (post-plant)",3,0,0,5
+"9z Team",9,"Fracture","kills (pre-plant)",2,4,4,2
+"9z Team",7,"Haven","bomb",19,0,0,15
+"9z Team",7,"Haven","defuse",0,28,27,0
+"9z Team",7,"Haven","kills (post-plant)",39,0,0,39
+"9z Team",7,"Haven","kills (pre-plant)",20,47,39,16
+"9z Team",7,"Haven","time",0,6,4,0
+"9z Team",4,"Icebox","bomb",2,0,0,3
+"9z Team",4,"Icebox","defuse",0,2,2,0
+"9z Team",4,"Icebox","kills (post-plant)",13,0,0,8
+"9z Team",4,"Icebox","kills (pre-plant)",0,4,6,4
+"9z Team",4,"Icebox","time",0,1,0,0
+"9z Team",2,"Split","bomb",2,0,0,6
+"9z Team",2,"Split","defuse",0,4,3,0
+"9z Team",2,"Split","kills (post-plant)",10,0,0,20
+"9z Team",2,"Split","kills (pre-plant)",1,15,7,2
+"9z Team",2,"Split","time",0,1,3,0
+"Acend",1,"Ascent","bomb",5,0,0,6
+"Acend",1,"Ascent","defuse",0,12,5,0
+"Acend",1,"Ascent","kills (post-plant)",19,0,0,25
+"Acend",1,"Ascent","kills (pre-plant)",13,18,18,6
+"Acend",1,"Ascent","time",0,1,0,0
+"Acend",3,"Bind","bomb",9,0,0,3
+"Acend",3,"Bind","defuse",0,18,7,0
+"Acend",3,"Bind","kills (post-plant)",29,0,0,22
+"Acend",3,"Bind","kills (pre-plant)",4,22,16,6
+"Acend",3,"Bind","time",0,2,0,0
+"Acend",8,"Breeze","bomb",3,0,0,6
+"Acend",8,"Breeze","defuse",0,6,9,0
+"Acend",8,"Breeze","kills (post-plant)",16,0,0,23
+"Acend",8,"Breeze","kills (pre-plant)",2,24,11,8
+"Acend",8,"Breeze","time",0,1,4,0
+"Acend",9,"Fracture","bomb",0,0,0,1
+"Acend",9,"Fracture","defuse",0,7,5,0
+"Acend",9,"Fracture","kills (post-plant)",8,0,0,9
+"Acend",9,"Fracture","kills (pre-plant)",6,13,4,2
+"Acend",9,"Fracture","time",0,2,0,0
+"Acend",7,"Haven","bomb",2,0,0,1
+"Acend",7,"Haven","defuse",0,10,3,0
+"Acend",7,"Haven","kills (post-plant)",9,0,0,13
+"Acend",7,"Haven","kills (pre-plant)",3,9,15,7
+"Acend",7,"Haven","time",0,2,2,0
+"Acend",4,"Icebox","bomb",9,0,0,1
+"Acend",4,"Icebox","defuse",0,17,7,0
+"Acend",4,"Icebox","kills (post-plant)",20,0,0,20
+"Acend",4,"Icebox","kills (pre-plant)",4,7,17,5
+"Acend",4,"Icebox","time",0,2,1,0
+"Acend",2,"Split","bomb",5,0,0,5
+"Acend",2,"Split","defuse",0,11,9,0
+"Acend",2,"Split","kills (post-plant)",22,0,0,21
+"Acend",2,"Split","kills (pre-plant)",9,29,33,3
+"Acend",2,"Split","time",0,2,4,0
+"Alter Ego",1,"Ascent","bomb",2,0,0,0
+"Alter Ego",1,"Ascent","defuse",0,7,3,0
+"Alter Ego",1,"Ascent","kills (post-plant)",4,0,0,8
+"Alter Ego",1,"Ascent","kills (pre-plant)",4,10,7,4
+"Alter Ego",3,"Bind","bomb",7,0,0,4
+"Alter Ego",3,"Bind","defuse",0,11,10,0
+"Alter Ego",3,"Bind","kills (post-plant)",28,0,0,22
+"Alter Ego",3,"Bind","kills (pre-plant)",4,24,26,10
+"Alter Ego",3,"Bind","time",0,0,2,0
+"Alter Ego",9,"Fracture","bomb",4,0,0,1
+"Alter Ego",9,"Fracture","defuse",0,4,7,0
+"Alter Ego",9,"Fracture","kills (post-plant)",16,0,0,13
+"Alter Ego",9,"Fracture","kills (pre-plant)",7,12,15,6
+"Alter Ego",7,"Haven","bomb",4,0,0,1
+"Alter Ego",7,"Haven","defuse",0,10,11,0
+"Alter Ego",7,"Haven","kills (post-plant)",9,0,0,14
+"Alter Ego",7,"Haven","kills (pre-plant)",3,19,19,5
+"Alter Ego",7,"Haven","time",0,1,1,0
+"Alter Ego",4,"Icebox","bomb",0,0,0,1
+"Alter Ego",4,"Icebox","defuse",0,1,10,0
+"Alter Ego",4,"Icebox","kills (post-plant)",4,0,0,12
+"Alter Ego",4,"Icebox","kills (pre-plant)",3,11,8,5
+"Alter Ego",4,"Icebox","time",0,1,0,0
+"Alter Ego",2,"Split","bomb",0,0,0,1
+"Alter Ego",2,"Split","defuse",0,2,4,0
+"Alter Ego",2,"Split","kills (post-plant)",4,0,0,7
+"Alter Ego",2,"Split","kills (pre-plant)",4,6,12,0
+"AWS",1,"Ascent","bomb",1,0,0,1
+"AWS",1,"Ascent","defuse",0,0,2,0
+"AWS",1,"Ascent","kills (post-plant)",2,0,0,5
+"AWS",1,"Ascent","kills (pre-plant)",0,3,0,4
+"AWS",7,"Haven","defuse",0,5,0,0
+"AWS",7,"Haven","kills (post-plant)",1,0,0,2
+"AWS",7,"Haven","kills (pre-plant)",0,6,0,0
+"BBL Esports",1,"Ascent","bomb",6,0,0,14
+"BBL Esports",1,"Ascent","defuse",0,12,15,0
+"BBL Esports",1,"Ascent","kills (post-plant)",22,0,0,18
+"BBL Esports",1,"Ascent","kills (pre-plant)",5,9,11,8
+"BBL Esports",1,"Ascent","time",0,3,4,0
+"BBL Esports",3,"Bind","bomb",4,0,0,4
+"BBL Esports",3,"Bind","defuse",0,3,2,0
+"BBL Esports",3,"Bind","kills (post-plant)",1,0,0,2
+"BBL Esports",3,"Bind","kills (pre-plant)",2,3,2,2
+"BBL Esports",3,"Bind","time",0,0,1,0
+"BBL Esports",8,"Breeze","bomb",3,0,0,2
+"BBL Esports",8,"Breeze","defuse",0,1,3,0
+"BBL Esports",8,"Breeze","kills (post-plant)",3,0,0,7
+"BBL Esports",8,"Breeze","kills (pre-plant)",0,12,2,4
+"BBL Esports",9,"Fracture","bomb",5,0,0,6
+"BBL Esports",9,"Fracture","defuse",0,7,10,0
+"BBL Esports",9,"Fracture","kills (post-plant)",15,0,0,12
+"BBL Esports",9,"Fracture","kills (pre-plant)",6,16,6,6
+"BBL Esports",9,"Fracture","time",0,1,3,0
+"BBL Esports",7,"Haven","bomb",2,0,0,3
+"BBL Esports",7,"Haven","defuse",0,15,8,0
+"BBL Esports",7,"Haven","kills (post-plant)",17,0,0,7
+"BBL Esports",7,"Haven","kills (pre-plant)",2,9,8,5
+"BBL Esports",7,"Haven","time",0,3,1,0
+"BBL Esports",4,"Icebox","bomb",5,0,0,9
+"BBL Esports",4,"Icebox","defuse",0,18,15,0
+"BBL Esports",4,"Icebox","kills (post-plant)",14,0,0,23
+"BBL Esports",4,"Icebox","kills (pre-plant)",3,9,7,5
+"BBL Esports",4,"Icebox","time",0,1,1,0
+"BBL Esports",2,"Split","bomb",7,0,0,6
+"BBL Esports",2,"Split","defuse",0,9,4,0
+"BBL Esports",2,"Split","kills (post-plant)",14,0,0,16
+"BBL Esports",2,"Split","kills (pre-plant)",3,11,5,2
+"BBL Esports",2,"Split","time",0,2,3,0
+"BIG",1,"Ascent","bomb",3,0,0,4
+"BIG",1,"Ascent","defuse",0,12,4,0
+"BIG",1,"Ascent","kills (post-plant)",11,0,0,10
+"BIG",1,"Ascent","kills (pre-plant)",4,15,12,6
+"BIG",1,"Ascent","time",0,1,4,0
+"BIG",3,"Bind","bomb",13,0,0,4
+"BIG",3,"Bind","defuse",0,7,7,0
+"BIG",3,"Bind","kills (post-plant)",20,0,0,15
+"BIG",3,"Bind","kills (pre-plant)",4,19,20,11
+"BIG",3,"Bind","time",0,1,3,0
+"BIG",8,"Breeze","bomb",3,0,0,2
+"BIG",8,"Breeze","defuse",0,5,2,0
+"BIG",8,"Breeze","kills (post-plant)",3,0,0,7
+"BIG",8,"Breeze","kills (pre-plant)",3,7,1,5
+"BIG",9,"Fracture","bomb",1,0,0,1
+"BIG",9,"Fracture","defuse",0,3,1,0
+"BIG",9,"Fracture","kills (post-plant)",4,0,0,2
+"BIG",9,"Fracture","kills (pre-plant)",1,1,5,2
+"BIG",9,"Fracture","time",0,2,1,0
+"BIG",7,"Haven","bomb",2,0,0,6
+"BIG",7,"Haven","defuse",0,10,11,0
+"BIG",7,"Haven","kills (post-plant)",8,0,0,23
+"BIG",7,"Haven","kills (pre-plant)",1,22,10,3
+"BIG",7,"Haven","time",0,1,3,0
+"BIG",4,"Icebox","bomb",8,0,0,4
+"BIG",4,"Icebox","defuse",0,8,1,0
+"BIG",4,"Icebox","kills (post-plant)",5,0,0,10
+"BIG",4,"Icebox","kills (pre-plant)",2,7,11,2
+"BIG",4,"Icebox","time",0,1,1,0
+"BIG",2,"Split","bomb",1,0,0,4
+"BIG",2,"Split","defuse",0,8,7,0
+"BIG",2,"Split","kills (post-plant)",5,0,0,13
+"BIG",2,"Split","kills (pre-plant)",6,29,19,6
+"BIG",2,"Split","time",0,2,3,0
+"Bleed Esports",1,"Ascent","bomb",8,0,0,5
+"Bleed Esports",1,"Ascent","defuse",0,11,16,0
+"Bleed Esports",1,"Ascent","kills (post-plant)",35,0,0,21
+"Bleed Esports",1,"Ascent","kills (pre-plant)",6,15,21,10
+"Bleed Esports",1,"Ascent","time",0,1,3,0
+"Bleed Esports",3,"Bind","bomb",7,0,0,9
+"Bleed Esports",3,"Bind","defuse",0,6,5,0
+"Bleed Esports",3,"Bind","kills (post-plant)",19,0,0,12
+"Bleed Esports",3,"Bind","kills (pre-plant)",5,11,12,7
+"Bleed Esports",3,"Bind","time",0,0,1,0
+"Bleed Esports",8,"Breeze","bomb",4,0,0,2
+"Bleed Esports",8,"Breeze","defuse",0,5,4,0
+"Bleed Esports",8,"Breeze","kills (post-plant)",13,0,0,12
+"Bleed Esports",8,"Breeze","kills (pre-plant)",3,8,12,1
+"Bleed Esports",8,"Breeze","time",0,0,1,0
+"Bleed Esports",9,"Fracture","defuse",0,4,0,0
+"Bleed Esports",9,"Fracture","kills (post-plant)",4,0,0,5
+"Bleed Esports",9,"Fracture","kills (pre-plant)",3,12,2,4
+"Bleed Esports",9,"Fracture","time",0,1,0,0
+"Bleed Esports",7,"Haven","bomb",16,0,0,8
+"Bleed Esports",7,"Haven","defuse",0,23,18,0
+"Bleed Esports",7,"Haven","kills (post-plant)",32,0,0,24
+"Bleed Esports",7,"Haven","kills (pre-plant)",13,36,29,20
+"Bleed Esports",7,"Haven","time",0,1,4,0
+"Bleed Esports",4,"Icebox","bomb",6,0,0,6
+"Bleed Esports",4,"Icebox","defuse",0,11,10,0
+"Bleed Esports",4,"Icebox","kills (post-plant)",25,0,0,21
+"Bleed Esports",4,"Icebox","kills (pre-plant)",9,23,16,10
+"Bleed Esports",4,"Icebox","time",0,1,2,0
+"Bleed Esports",2,"Split","bomb",6,0,0,5
+"Bleed Esports",2,"Split","defuse",0,6,7,0
+"Bleed Esports",2,"Split","kills (post-plant)",12,0,0,11
+"Bleed Esports",2,"Split","kills (pre-plant)",7,10,10,7
+"Bleed Esports",2,"Split","time",0,0,1,0
+"BLUE BEES.ESP",1,"Ascent","bomb",2,0,0,2
+"BLUE BEES.ESP",1,"Ascent","defuse",0,9,6,0
+"BLUE BEES.ESP",1,"Ascent","kills (post-plant)",5,0,0,2
+"BLUE BEES.ESP",1,"Ascent","kills (pre-plant)",3,3,7,2
+"BLUE BEES.ESP",1,"Ascent","time",0,1,0,0
+"BLUE BEES.ESP",3,"Bind","bomb",3,0,0,4
+"BLUE BEES.ESP",3,"Bind","defuse",0,10,17,0
+"BLUE BEES.ESP",3,"Bind","kills (post-plant)",12,0,0,9
+"BLUE BEES.ESP",3,"Bind","kills (pre-plant)",2,11,6,2
+"BLUE BEES.ESP",8,"Breeze","bomb",1,0,0,2
+"BLUE BEES.ESP",8,"Breeze","defuse",0,5,0,0
+"BLUE BEES.ESP",8,"Breeze","kills (post-plant)",4,0,0,4
+"BLUE BEES.ESP",8,"Breeze","kills (pre-plant)",0,2,6,0
+"BLUE BEES.ESP",7,"Haven","bomb",2,0,0,2
+"BLUE BEES.ESP",7,"Haven","defuse",0,6,7,0
+"BLUE BEES.ESP",7,"Haven","kills (post-plant)",8,0,0,11
+"BLUE BEES.ESP",7,"Haven","kills (pre-plant)",6,5,10,4
+"BLUE BEES.ESP",7,"Haven","time",0,2,0,0
+"BLUE BEES.ESP",2,"Split","defuse",0,10,3,0
+"BLUE BEES.ESP",2,"Split","kills (post-plant)",17,0,0,6
+"BLUE BEES.ESP",2,"Split","kills (pre-plant)",5,15,13,3
+"BLUE BEES.ESP",2,"Split","time",0,1,0,0
+"Bonkers(OCE)",3,"Bind","bomb",1,0,0,1
+"Bonkers(OCE)",3,"Bind","defuse",0,6,1,0
+"Bonkers(OCE)",3,"Bind","kills (post-plant)",10,0,0,10
+"Bonkers(OCE)",3,"Bind","kills (pre-plant)",0,11,6,0
+"Bonkers(OCE)",3,"Bind","time",0,0,1,0
+"Bonkers(OCE)",8,"Breeze","bomb",0,0,0,1
+"Bonkers(OCE)",8,"Breeze","defuse",0,3,1,0
+"Bonkers(OCE)",8,"Breeze","kills (post-plant)",2,0,0,2
+"Bonkers(OCE)",8,"Breeze","kills (pre-plant)",0,7,0,0
+"Bonkers(OCE)",9,"Fracture","defuse",0,2,1,0
+"Bonkers(OCE)",9,"Fracture","kills (post-plant)",6,0,0,8
+"Bonkers(OCE)",9,"Fracture","kills (pre-plant)",3,2,3,2
+"Bonkers(OCE)",9,"Fracture","time",0,1,0,0
+"Bonkers(OCE)",7,"Haven","bomb",4,0,0,2
+"Bonkers(OCE)",7,"Haven","defuse",0,8,8,0
+"Bonkers(OCE)",7,"Haven","kills (post-plant)",8,0,0,10
+"Bonkers(OCE)",7,"Haven","kills (pre-plant)",4,9,14,3
+"Bonkers(OCE)",7,"Haven","time",0,0,1,0
+"Bonkers(OCE)",2,"Split","defuse",0,0,3,0
+"Bonkers(OCE)",2,"Split","kills (post-plant)",2,0,0,2
+"Bonkers(OCE)",2,"Split","kills (pre-plant)",1,1,7,0
+"BOOM Esports",1,"Ascent","bomb",2,0,0,5
+"BOOM Esports",1,"Ascent","defuse",0,11,13,0
+"BOOM Esports",1,"Ascent","kills (post-plant)",13,0,0,19
+"BOOM Esports",1,"Ascent","kills (pre-plant)",5,25,23,2
+"BOOM Esports",1,"Ascent","time",0,2,0,0
+"BOOM Esports",3,"Bind","bomb",10,0,0,9
+"BOOM Esports",3,"Bind","defuse",0,10,12,0
+"BOOM Esports",3,"Bind","kills (post-plant)",7,0,0,17
+"BOOM Esports",3,"Bind","kills (pre-plant)",7,29,17,2
+"BOOM Esports",3,"Bind","time",0,3,1,0
+"BOOM Esports",8,"Breeze","bomb",6,0,0,7
+"BOOM Esports",8,"Breeze","defuse",0,15,15,0
+"BOOM Esports",8,"Breeze","kills (post-plant)",25,0,0,17
+"BOOM Esports",8,"Breeze","kills (pre-plant)",6,10,17,7
+"BOOM Esports",8,"Breeze","time",0,0,1,0
+"BOOM Esports",9,"Fracture","bomb",11,0,0,11
+"BOOM Esports",9,"Fracture","defuse",0,18,14,0
+"BOOM Esports",9,"Fracture","kills (post-plant)",33,0,0,23
+"BOOM Esports",9,"Fracture","kills (pre-plant)",18,33,20,11
+"BOOM Esports",9,"Fracture","time",0,2,1,0
+"BOOM Esports",7,"Haven","bomb",11,0,0,13
+"BOOM Esports",7,"Haven","defuse",0,18,29,0
+"BOOM Esports",7,"Haven","kills (post-plant)",18,0,0,30
+"BOOM Esports",7,"Haven","kills (pre-plant)",21,25,32,12
+"BOOM Esports",7,"Haven","time",0,2,0,0
+"BOOM Esports",4,"Icebox","bomb",1,0,0,5
+"BOOM Esports",4,"Icebox","defuse",0,7,5,0
+"BOOM Esports",4,"Icebox","kills (post-plant)",17,0,0,13
+"BOOM Esports",4,"Icebox","kills (pre-plant)",5,5,15,3
+"BOOM Esports",4,"Icebox","time",0,0,2,0
+"BOOM Esports",10,"Pearl","bomb",0,0,0,3
+"BOOM Esports",10,"Pearl","defuse",0,2,1,0
+"BOOM Esports",10,"Pearl","kills (post-plant)",5,0,0,5
+"BOOM Esports",10,"Pearl","kills (pre-plant)",2,2,3,0
+"BOOM Esports",10,"Pearl","time",0,1,0,0
+"BOOM Esports",2,"Split","bomb",2,0,0,3
+"BOOM Esports",2,"Split","defuse",0,10,10,0
+"BOOM Esports",2,"Split","kills (post-plant)",12,0,0,10
+"BOOM Esports",2,"Split","kills (pre-plant)",5,15,7,1
+"BOOM Esports",2,"Split","time",0,4,1,0
+"Brimstone",1,"Ascent","defuse",0,0,2,0
+"Brimstone",1,"Ascent","kills (post-plant)",2,0,0,2
+"Brimstone",1,"Ascent","kills (pre-plant)",2,3,6,1
+"Brimstone",1,"Ascent","time",0,0,1,0
+"Brimstone",3,"Bind","bomb",1,0,0,0
+"Brimstone",3,"Bind","defuse",0,4,2,0
+"Brimstone",3,"Bind","kills (post-plant)",3,0,0,3
+"Brimstone",3,"Bind","kills (pre-plant)",1,3,6,1
+"Brimstone",8,"Breeze","bomb",4,0,0,4
+"Brimstone",8,"Breeze","defuse",0,5,8,0
+"Brimstone",8,"Breeze","kills (post-plant)",8,0,0,6
+"Brimstone",8,"Breeze","kills (pre-plant)",2,12,11,1
+"Brimstone",7,"Haven","bomb",0,0,0,2
+"Brimstone",7,"Haven","defuse",0,3,0,0
+"Brimstone",7,"Haven","kills (post-plant)",3,0,0,2
+"Brimstone",7,"Haven","kills (pre-plant)",0,6,2,0
+"Brimstone",7,"Haven","time",0,0,1,0
+"Brimstone",2,"Split","bomb",5,0,0,0
+"Brimstone",2,"Split","defuse",0,0,2,0
+"Brimstone",2,"Split","kills (post-plant)",4,0,0,8
+"Brimstone",2,"Split","kills (pre-plant)",0,2,1,0
+"Brimstone",2,"Split","time",0,0,1,0
+"CERBERUS Esports",1,"Ascent","bomb",3,0,0,0
+"CERBERUS Esports",1,"Ascent","defuse",0,13,4,0
+"CERBERUS Esports",1,"Ascent","kills (post-plant)",3,0,0,6
+"CERBERUS Esports",1,"Ascent","kills (pre-plant)",1,15,6,4
+"CERBERUS Esports",1,"Ascent","time",0,1,1,0
+"CERBERUS Esports",3,"Bind","bomb",0,0,0,7
+"CERBERUS Esports",3,"Bind","defuse",0,7,8,0
+"CERBERUS Esports",3,"Bind","kills (post-plant)",6,0,0,17
+"CERBERUS Esports",3,"Bind","kills (pre-plant)",5,10,10,5
+"CERBERUS Esports",3,"Bind","time",0,0,1,0
+"CERBERUS Esports",8,"Breeze","bomb",1,0,0,1
+"CERBERUS Esports",8,"Breeze","defuse",0,3,5,0
+"CERBERUS Esports",8,"Breeze","kills (post-plant)",5,0,0,10
+"CERBERUS Esports",8,"Breeze","kills (pre-plant)",2,6,4,3
+"CERBERUS Esports",8,"Breeze","time",0,1,1,0
+"CERBERUS Esports",7,"Haven","bomb",2,0,0,2
+"CERBERUS Esports",7,"Haven","defuse",0,4,9,0
+"CERBERUS Esports",7,"Haven","kills (post-plant)",9,0,0,10
+"CERBERUS Esports",7,"Haven","kills (pre-plant)",9,12,14,8
+"CERBERUS Esports",4,"Icebox","bomb",0,0,0,2
+"CERBERUS Esports",4,"Icebox","defuse",0,3,1,0
+"CERBERUS Esports",4,"Icebox","kills (post-plant)",4,0,0,3
+"CERBERUS Esports",4,"Icebox","kills (pre-plant)",2,3,6,0
+"CERBERUS Esports",2,"Split","defuse",0,2,3,0
+"CERBERUS Esports",2,"Split","kills (post-plant)",0,0,0,2
+"CERBERUS Esports",2,"Split","kills (pre-plant)",0,7,4,1
+"CERBERUS Esports",2,"Split","time",0,1,2,0
+"Cloud9",1,"Ascent","bomb",8,0,0,10
+"Cloud9",1,"Ascent","defuse",0,30,23,0
+"Cloud9",1,"Ascent","kills (post-plant)",36,0,0,30
+"Cloud9",1,"Ascent","kills (pre-plant)",13,20,37,7
+"Cloud9",1,"Ascent","time",0,2,6,0
+"Cloud9",3,"Bind","bomb",3,0,0,2
+"Cloud9",3,"Bind","defuse",0,6,9,0
+"Cloud9",3,"Bind","kills (post-plant)",6,0,0,9
+"Cloud9",3,"Bind","kills (pre-plant)",0,14,11,7
+"Cloud9",3,"Bind","time",0,1,0,0
+"Cloud9",8,"Breeze","bomb",7,0,0,0
+"Cloud9",8,"Breeze","defuse",0,15,7,0
+"Cloud9",8,"Breeze","kills (post-plant)",24,0,0,18
+"Cloud9",8,"Breeze","kills (pre-plant)",6,18,19,7
+"Cloud9",8,"Breeze","time",0,1,2,0
+"Cloud9",9,"Fracture","bomb",6,0,0,7
+"Cloud9",9,"Fracture","defuse",0,18,18,0
+"Cloud9",9,"Fracture","kills (post-plant)",32,0,0,29
+"Cloud9",9,"Fracture","kills (pre-plant)",8,25,26,6
+"Cloud9",9,"Fracture","time",0,3,1,0
+"Cloud9",7,"Haven","bomb",11,0,0,3
+"Cloud9",7,"Haven","defuse",0,20,25,0
+"Cloud9",7,"Haven","kills (post-plant)",34,0,0,20
+"Cloud9",7,"Haven","kills (pre-plant)",14,21,28,10
+"Cloud9",7,"Haven","time",0,1,1,0
+"Cloud9",4,"Icebox","bomb",7,0,0,2
+"Cloud9",4,"Icebox","defuse",0,17,24,0
+"Cloud9",4,"Icebox","kills (post-plant)",34,0,0,21
+"Cloud9",4,"Icebox","kills (pre-plant)",2,13,10,10
+"Cloud9",4,"Icebox","time",0,2,1,0
+"Cloud9",2,"Split","bomb",4,0,0,2
+"Cloud9",2,"Split","defuse",0,9,6,0
+"Cloud9",2,"Split","kills (post-plant)",6,0,0,9
+"Cloud9",2,"Split","kills (pre-plant)",0,14,15,1
+"Cloud9",2,"Split","time",0,1,3,0
+"CNJ Esports",1,"Ascent","bomb",8,0,0,7
+"CNJ Esports",1,"Ascent","defuse",0,13,13,0
+"CNJ Esports",1,"Ascent","kills (post-plant)",19,0,0,16
+"CNJ Esports",1,"Ascent","kills (pre-plant)",3,28,23,5
+"CNJ Esports",1,"Ascent","time",0,2,2,0
+"CNJ Esports",3,"Bind","bomb",0,0,0,1
+"CNJ Esports",3,"Bind","defuse",0,2,4,0
+"CNJ Esports",3,"Bind","kills (post-plant)",3,0,0,3
+"CNJ Esports",3,"Bind","kills (pre-plant)",1,6,3,1
+"CNJ Esports",8,"Breeze","bomb",6,0,0,7
+"CNJ Esports",8,"Breeze","defuse",0,10,10,0
+"CNJ Esports",8,"Breeze","kills (post-plant)",9,0,0,14
+"CNJ Esports",8,"Breeze","kills (pre-plant)",2,21,12,6
+"CNJ Esports",8,"Breeze","time",0,0,1,0
+"CNJ Esports",9,"Fracture","bomb",2,0,0,0
+"CNJ Esports",9,"Fracture","defuse",0,6,7,0
+"CNJ Esports",9,"Fracture","kills (post-plant)",5,0,0,11
+"CNJ Esports",9,"Fracture","kills (pre-plant)",0,8,9,3
+"CNJ Esports",9,"Fracture","time",0,1,0,0
+"CNJ Esports",7,"Haven","bomb",1,0,0,2
+"CNJ Esports",7,"Haven","defuse",0,5,8,0
+"CNJ Esports",7,"Haven","kills (post-plant)",8,0,0,7
+"CNJ Esports",7,"Haven","kills (pre-plant)",2,7,4,1
+"CNJ Esports",7,"Haven","time",0,1,0,0
+"CNJ Esports",4,"Icebox","bomb",5,0,0,2
+"CNJ Esports",4,"Icebox","defuse",0,5,8,0
+"CNJ Esports",4,"Icebox","kills (post-plant)",12,0,0,4
+"CNJ Esports",4,"Icebox","kills (pre-plant)",2,10,9,3
+"CNJ Esports",4,"Icebox","time",0,2,1,0
+"CNJ Esports",2,"Split","bomb",2,0,0,4
+"CNJ Esports",2,"Split","defuse",0,8,5,0
+"CNJ Esports",2,"Split","kills (post-plant)",12,0,0,21
+"CNJ Esports",2,"Split","kills (pre-plant)",8,14,7,2
+"CNJ Esports",2,"Split","time",0,3,3,0
+"Crazy Raccoon",1,"Ascent","bomb",4,0,0,4
+"Crazy Raccoon",1,"Ascent","defuse",0,10,27,0
+"Crazy Raccoon",1,"Ascent","kills (post-plant)",16,0,0,20
+"Crazy Raccoon",1,"Ascent","kills (pre-plant)",10,24,26,3
+"Crazy Raccoon",1,"Ascent","time",0,3,4,0
+"Crazy Raccoon",3,"Bind","bomb",6,0,0,4
+"Crazy Raccoon",3,"Bind","defuse",0,9,9,0
+"Crazy Raccoon",3,"Bind","kills (post-plant)",29,0,0,26
+"Crazy Raccoon",3,"Bind","kills (pre-plant)",5,9,18,7
+"Crazy Raccoon",3,"Bind","time",0,1,4,0
+"Crazy Raccoon",8,"Breeze","bomb",1,0,0,3
+"Crazy Raccoon",8,"Breeze","defuse",0,6,10,0
+"Crazy Raccoon",8,"Breeze","kills (post-plant)",8,0,0,12
+"Crazy Raccoon",8,"Breeze","kills (pre-plant)",4,9,8,2
+"Crazy Raccoon",8,"Breeze","time",0,0,1,0
+"Crazy Raccoon",9,"Fracture","bomb",0,0,0,3
+"Crazy Raccoon",9,"Fracture","defuse",0,3,3,0
+"Crazy Raccoon",9,"Fracture","kills (post-plant)",4,0,0,4
+"Crazy Raccoon",9,"Fracture","kills (pre-plant)",1,3,2,0
+"Crazy Raccoon",7,"Haven","bomb",12,0,0,18
+"Crazy Raccoon",7,"Haven","defuse",0,16,30,0
+"Crazy Raccoon",7,"Haven","kills (post-plant)",38,0,0,32
+"Crazy Raccoon",7,"Haven","kills (pre-plant)",16,24,34,10
+"Crazy Raccoon",7,"Haven","time",0,3,2,0
+"Crazy Raccoon",4,"Icebox","bomb",8,0,0,7
+"Crazy Raccoon",4,"Icebox","defuse",0,21,14,0
+"Crazy Raccoon",4,"Icebox","kills (post-plant)",24,0,0,21
+"Crazy Raccoon",4,"Icebox","kills (pre-plant)",10,15,24,7
+"Crazy Raccoon",4,"Icebox","time",0,0,2,0
+"Crazy Raccoon",2,"Split","bomb",1,0,0,3
+"Crazy Raccoon",2,"Split","defuse",0,3,6,0
+"Crazy Raccoon",2,"Split","kills (post-plant)",10,0,0,11
+"Crazy Raccoon",2,"Split","kills (pre-plant)",4,7,10,5
+"Crazy Raccoon",2,"Split","time",0,0,1,0
+"Crest Gaming ZST",1,"Ascent","bomb",1,0,0,2
+"Crest Gaming ZST",1,"Ascent","defuse",0,9,6,0
+"Crest Gaming ZST",1,"Ascent","kills (post-plant)",14,0,0,11
+"Crest Gaming ZST",1,"Ascent","kills (pre-plant)",2,3,5,5
+"Crest Gaming ZST",1,"Ascent","time",0,2,2,0
+"Crest Gaming ZST",3,"Bind","bomb",0,0,0,1
+"Crest Gaming ZST",3,"Bind","defuse",0,3,2,0
+"Crest Gaming ZST",3,"Bind","kills (post-plant)",1,0,0,2
+"Crest Gaming ZST",3,"Bind","kills (pre-plant)",1,6,1,0
+"Crest Gaming ZST",3,"Bind","time",0,1,0,0
+"Crest Gaming ZST",8,"Breeze","bomb",1,0,0,4
+"Crest Gaming ZST",8,"Breeze","defuse",0,8,5,0
+"Crest Gaming ZST",8,"Breeze","kills (post-plant)",5,0,0,5
+"Crest Gaming ZST",8,"Breeze","kills (pre-plant)",3,7,6,2
+"Crest Gaming ZST",8,"Breeze","time",0,1,1,0
+"Crest Gaming ZST",9,"Fracture","bomb",1,0,0,0
+"Crest Gaming ZST",9,"Fracture","defuse",0,2,2,0
+"Crest Gaming ZST",9,"Fracture","kills (post-plant)",6,0,0,7
+"Crest Gaming ZST",9,"Fracture","kills (pre-plant)",1,0,3,0
+"Crest Gaming ZST",7,"Haven","bomb",0,0,0,1
+"Crest Gaming ZST",7,"Haven","defuse",0,2,2,0
+"Crest Gaming ZST",7,"Haven","kills (post-plant)",0,0,0,3
+"Crest Gaming ZST",7,"Haven","kills (pre-plant)",0,3,2,4
+"Crest Gaming ZST",4,"Icebox","bomb",0,0,0,1
+"Crest Gaming ZST",4,"Icebox","defuse",0,7,3,0
+"Crest Gaming ZST",4,"Icebox","kills (post-plant)",5,0,0,13
+"Crest Gaming ZST",4,"Icebox","kills (pre-plant)",3,3,6,5
+"Crest Gaming ZST",4,"Icebox","time",0,1,0,0
+"DAMWON Gaming",1,"Ascent","bomb",14,0,0,4
+"DAMWON Gaming",1,"Ascent","defuse",0,26,20,0
+"DAMWON Gaming",1,"Ascent","kills (post-plant)",45,0,0,31
+"DAMWON Gaming",1,"Ascent","kills (pre-plant)",10,29,38,10
+"DAMWON Gaming",1,"Ascent","time",0,4,5,0
+"DAMWON Gaming",3,"Bind","bomb",12,0,0,16
+"DAMWON Gaming",3,"Bind","defuse",0,21,23,0
+"DAMWON Gaming",3,"Bind","kills (post-plant)",52,0,0,44
+"DAMWON Gaming",3,"Bind","kills (pre-plant)",11,28,23,9
+"DAMWON Gaming",3,"Bind","time",0,6,3,0
+"DAMWON Gaming",8,"Breeze","bomb",8,0,0,5
+"DAMWON Gaming",8,"Breeze","defuse",0,17,13,0
+"DAMWON Gaming",8,"Breeze","kills (post-plant)",26,0,0,14
+"DAMWON Gaming",8,"Breeze","kills (pre-plant)",5,17,23,3
+"DAMWON Gaming",8,"Breeze","time",0,2,2,0
+"DAMWON Gaming",9,"Fracture","bomb",4,0,0,8
+"DAMWON Gaming",9,"Fracture","defuse",0,12,10,0
+"DAMWON Gaming",9,"Fracture","kills (post-plant)",25,0,0,26
+"DAMWON Gaming",9,"Fracture","kills (pre-plant)",5,11,17,4
+"DAMWON Gaming",9,"Fracture","time",0,2,4,0
+"DAMWON Gaming",7,"Haven","bomb",7,0,0,19
+"DAMWON Gaming",7,"Haven","defuse",0,23,27,0
+"DAMWON Gaming",7,"Haven","kills (post-plant)",32,0,0,22
+"DAMWON Gaming",7,"Haven","kills (pre-plant)",17,35,29,11
+"DAMWON Gaming",7,"Haven","time",0,4,6,0
+"DAMWON Gaming",4,"Icebox","bomb",2,0,0,3
+"DAMWON Gaming",4,"Icebox","defuse",0,5,7,0
+"DAMWON Gaming",4,"Icebox","kills (post-plant)",5,0,0,7
+"DAMWON Gaming",4,"Icebox","kills (pre-plant)",1,6,6,1
+"DAMWON Gaming",2,"Split","bomb",6,0,0,6
+"DAMWON Gaming",2,"Split","defuse",0,16,10,0
+"DAMWON Gaming",2,"Split","kills (post-plant)",37,0,0,25
+"DAMWON Gaming",2,"Split","kills (pre-plant)",9,25,30,5
+"DAMWON Gaming",2,"Split","time",0,4,5,0
+"Desperado",1,"Ascent","bomb",3,0,0,3
+"Desperado",1,"Ascent","defuse",0,9,8,0
+"Desperado",1,"Ascent","kills (post-plant)",12,0,0,19
+"Desperado",1,"Ascent","kills (pre-plant)",6,22,21,9
+"Desperado",1,"Ascent","time",0,2,2,0
+"Desperado",3,"Bind","bomb",5,0,0,2
+"Desperado",3,"Bind","defuse",0,14,7,0
+"Desperado",3,"Bind","kills (post-plant)",32,0,0,26
+"Desperado",3,"Bind","kills (pre-plant)",0,18,17,7
+"Desperado",3,"Bind","time",0,2,1,0
+"Desperado",8,"Breeze","bomb",1,0,0,0
+"Desperado",8,"Breeze","defuse",0,7,4,0
+"Desperado",8,"Breeze","kills (post-plant)",2,0,0,14
+"Desperado",8,"Breeze","kills (pre-plant)",1,5,3,0
+"Desperado",8,"Breeze","time",0,0,1,0
+"Desperado",7,"Haven","bomb",9,0,0,5
+"Desperado",7,"Haven","defuse",0,14,13,0
+"Desperado",7,"Haven","kills (post-plant)",11,0,0,28
+"Desperado",7,"Haven","kills (pre-plant)",6,20,19,1
+"Desperado",7,"Haven","time",0,1,1,0
+"Desperado",2,"Split","defuse",0,2,3,0
+"Desperado",2,"Split","kills (post-plant)",2,0,0,6
+"Desperado",2,"Split","kills (pre-plant)",2,3,2,0
+"Desperado",2,"Split","time",0,2,1,0
+"DetonatioN Gaming White",1,"Ascent","bomb",0,0,0,2
+"DetonatioN Gaming White",1,"Ascent","defuse",0,2,1,0
+"DetonatioN Gaming White",1,"Ascent","kills (post-plant)",3,0,0,3
+"DetonatioN Gaming White",1,"Ascent","kills (pre-plant)",3,3,3,2
+"DetonatioN Gaming White",1,"Ascent","time",0,1,0,0
+"DetonatioN Gaming White",8,"Breeze","bomb",1,0,0,1
+"DetonatioN Gaming White",8,"Breeze","defuse",0,0,2,0
+"DetonatioN Gaming White",8,"Breeze","kills (post-plant)",5,0,0,2
+"DetonatioN Gaming White",8,"Breeze","kills (pre-plant)",0,2,5,2
+"DetonatioN Gaming White",8,"Breeze","time",0,1,0,0
+"DetonatioN Gaming White",9,"Fracture","bomb",1,0,0,5
+"DetonatioN Gaming White",9,"Fracture","defuse",0,4,3,0
+"DetonatioN Gaming White",9,"Fracture","kills (post-plant)",1,0,0,1
+"DetonatioN Gaming White",9,"Fracture","kills (pre-plant)",0,2,3,0
+"DetonatioN Gaming White",9,"Fracture","time",0,1,0,0
+"DetonatioN Gaming White",7,"Haven","kills (post-plant)",9,0,0,0
+"DetonatioN Gaming White",7,"Haven","kills (pre-plant)",3,0,1,0
+"DeToNator",1,"Ascent","bomb",2,0,0,1
+"DeToNator",1,"Ascent","defuse",0,4,4,0
+"DeToNator",1,"Ascent","kills (post-plant)",2,0,0,3
+"DeToNator",1,"Ascent","kills (pre-plant)",1,2,3,0
+"DeToNator",1,"Ascent","time",0,1,1,0
+"DeToNator",8,"Breeze","bomb",2,0,0,0
+"DeToNator",8,"Breeze","defuse",0,4,4,0
+"DeToNator",8,"Breeze","kills (post-plant)",2,0,0,6
+"DeToNator",8,"Breeze","kills (pre-plant)",1,3,2,0
+"DeToNator",7,"Haven","bomb",1,0,0,1
+"DeToNator",7,"Haven","defuse",0,2,2,0
+"DeToNator",7,"Haven","kills (post-plant)",2,0,0,3
+"DeToNator",7,"Haven","kills (pre-plant)",2,5,3,2
+"DRX",1,"Ascent","bomb",23,0,0,16
+"DRX",1,"Ascent","defuse",0,31,32,0
+"DRX",1,"Ascent","kills (post-plant)",85,0,0,45
+"DRX",1,"Ascent","kills (pre-plant)",26,61,99,10
+"DRX",1,"Ascent","time",0,11,11,0
+"DRX",3,"Bind","bomb",10,0,0,7
+"DRX",3,"Bind","defuse",0,16,18,0
+"DRX",3,"Bind","kills (post-plant)",49,0,0,29
+"DRX",3,"Bind","kills (pre-plant)",7,27,24,8
+"DRX",3,"Bind","time",0,2,5,0
+"DRX",8,"Breeze","bomb",21,0,0,17
+"DRX",8,"Breeze","defuse",0,34,23,0
+"DRX",8,"Breeze","kills (post-plant)",88,0,0,39
+"DRX",8,"Breeze","kills (pre-plant)",24,27,44,15
+"DRX",8,"Breeze","time",0,0,7,0
+"DRX",9,"Fracture","bomb",17,0,0,11
+"DRX",9,"Fracture","defuse",0,16,15,0
+"DRX",9,"Fracture","kills (post-plant)",40,0,0,23
+"DRX",9,"Fracture","kills (pre-plant)",13,11,20,4
+"DRX",9,"Fracture","time",0,0,4,0
+"DRX",7,"Haven","bomb",28,0,0,5
+"DRX",7,"Haven","defuse",0,34,29,0
+"DRX",7,"Haven","kills (post-plant)",59,0,0,28
+"DRX",7,"Haven","kills (pre-plant)",25,36,47,18
+"DRX",7,"Haven","time",0,0,3,0
+"DRX",4,"Icebox","bomb",11,0,0,5
+"DRX",4,"Icebox","defuse",0,13,11,0
+"DRX",4,"Icebox","kills (post-plant)",19,0,0,22
+"DRX",4,"Icebox","kills (pre-plant)",10,18,15,10
+"DRX",4,"Icebox","time",0,1,5,0
+"DRX",2,"Split","bomb",8,0,0,4
+"DRX",2,"Split","defuse",0,17,19,0
+"DRX",2,"Split","kills (post-plant)",47,0,0,23
+"DRX",2,"Split","kills (pre-plant)",13,29,44,9
+"DRX",2,"Split","time",0,1,3,0
+"EBRO Gaming",1,"Ascent","bomb",2,0,0,2
+"EBRO Gaming",1,"Ascent","defuse",0,8,9,0
+"EBRO Gaming",1,"Ascent","kills (post-plant)",7,0,0,5
+"EBRO Gaming",1,"Ascent","kills (pre-plant)",3,10,7,6
+"EBRO Gaming",1,"Ascent","time",0,2,1,0
+"EBRO Gaming",3,"Bind","defuse",0,1,0,0
+"EBRO Gaming",3,"Bind","kills (post-plant)",3,0,0,3
+"EBRO Gaming",3,"Bind","kills (pre-plant)",0,7,0,1
+"EBRO Gaming",3,"Bind","time",0,1,0,0
+"EBRO Gaming",8,"Breeze","bomb",3,0,0,2
+"EBRO Gaming",8,"Breeze","defuse",0,3,11,0
+"EBRO Gaming",8,"Breeze","kills (post-plant)",8,0,0,5
+"EBRO Gaming",8,"Breeze","kills (pre-plant)",4,17,7,2
+"EBRO Gaming",8,"Breeze","time",0,1,0,0
+"EBRO Gaming",9,"Fracture","defuse",0,2,2,0
+"EBRO Gaming",9,"Fracture","kills (post-plant)",5,0,0,5
+"EBRO Gaming",9,"Fracture","kills (pre-plant)",1,4,0,2
+"EBRO Gaming",7,"Haven","bomb",5,0,0,4
+"EBRO Gaming",7,"Haven","defuse",0,6,3,0
+"EBRO Gaming",7,"Haven","kills (post-plant)",10,0,0,10
+"EBRO Gaming",7,"Haven","kills (pre-plant)",1,13,3,5
+"EBRO Gaming",7,"Haven","time",0,1,1,0
+"EDward Gaming",3,"Bind","bomb",2,0,0,0
+"EDward Gaming",3,"Bind","defuse",0,3,0,0
+"EDward Gaming",3,"Bind","kills (post-plant)",1,0,0,3
+"EDward Gaming",3,"Bind","kills (pre-plant)",1,3,0,2
+"EDward Gaming",3,"Bind","time",0,2,1,0
+"EDward Gaming",8,"Breeze","bomb",1,0,0,0
+"EDward Gaming",8,"Breeze","defuse",0,1,2,0
+"EDward Gaming",8,"Breeze","kills (post-plant)",3,0,0,6
+"EDward Gaming",8,"Breeze","kills (pre-plant)",1,5,4,0
+"EDward Gaming",8,"Breeze","time",0,2,1,0
+"EDward Gaming",7,"Haven","bomb",1,0,0,1
+"EDward Gaming",7,"Haven","defuse",0,3,1,0
+"EDward Gaming",7,"Haven","kills (post-plant)",3,0,0,4
+"EDward Gaming",7,"Haven","kills (pre-plant)",1,4,1,1
+"EDward Gaming",7,"Haven","time",0,0,1,0
+"EDward Gaming",4,"Icebox","bomb",2,0,0,0
+"EDward Gaming",4,"Icebox","kills (post-plant)",6,0,0,1
+"EDward Gaming",4,"Icebox","kills (pre-plant)",2,2,3,2
+"EDward Gaming",10,"Pearl","bomb",1,0,0,0
+"EDward Gaming",10,"Pearl","defuse",0,1,3,0
+"EDward Gaming",10,"Pearl","kills (post-plant)",1,0,0,6
+"EDward Gaming",10,"Pearl","kills (pre-plant)",3,5,3,0
+"EDward Gaming",10,"Pearl","time",0,1,0,0
+"EVA:e",8,"Breeze","bomb",2,0,0,5
+"EVA:e",8,"Breeze","defuse",0,2,2,0
+"EVA:e",8,"Breeze","kills (post-plant)",4,0,0,4
+"EVA:e",8,"Breeze","kills (pre-plant)",0,2,0,0
+"EVA:e",8,"Breeze","time",0,0,1,0
+"EVA:e",7,"Haven","bomb",1,0,0,0
+"EVA:e",7,"Haven","defuse",0,3,5,0
+"EVA:e",7,"Haven","kills (post-plant)",3,0,0,4
+"EVA:e",7,"Haven","kills (pre-plant)",1,3,4,0
+"EVA:e",7,"Haven","time",0,2,0,0
+"EVA:e",2,"Split","bomb",0,0,0,2
+"EVA:e",2,"Split","defuse",0,4,3,0
+"EVA:e",2,"Split","kills (post-plant)",3,0,0,4
+"EVA:e",2,"Split","kills (pre-plant)",0,3,2,0
+"EVA:e",2,"Split","time",0,0,1,0
+"Evil Geniuses",1,"Ascent","bomb",6,0,0,6
+"Evil Geniuses",1,"Ascent","defuse",0,13,9,0
+"Evil Geniuses",1,"Ascent","kills (post-plant)",17,0,0,21
+"Evil Geniuses",1,"Ascent","kills (pre-plant)",1,16,17,10
+"Evil Geniuses",1,"Ascent","time",0,1,3,0
+"Evil Geniuses",3,"Bind","bomb",5,0,0,3
+"Evil Geniuses",3,"Bind","defuse",0,8,8,0
+"Evil Geniuses",3,"Bind","kills (post-plant)",19,0,0,19
+"Evil Geniuses",3,"Bind","kills (pre-plant)",4,15,15,7
+"Evil Geniuses",3,"Bind","time",0,0,3,0
+"Evil Geniuses",8,"Breeze","bomb",3,0,0,4
+"Evil Geniuses",8,"Breeze","defuse",0,28,20,0
+"Evil Geniuses",8,"Breeze","kills (post-plant)",24,0,0,24
+"Evil Geniuses",8,"Breeze","kills (pre-plant)",5,29,29,12
+"Evil Geniuses",8,"Breeze","time",0,0,4,0
+"Evil Geniuses",9,"Fracture","defuse",0,2,2,0
+"Evil Geniuses",9,"Fracture","kills (post-plant)",3,0,0,7
+"Evil Geniuses",9,"Fracture","kills (pre-plant)",1,4,3,0
+"Evil Geniuses",7,"Haven","bomb",3,0,0,4
+"Evil Geniuses",7,"Haven","defuse",0,8,5,0
+"Evil Geniuses",7,"Haven","kills (post-plant)",7,0,0,21
+"Evil Geniuses",7,"Haven","kills (pre-plant)",6,8,8,11
+"Evil Geniuses",7,"Haven","time",0,1,0,0
+"Evil Geniuses",4,"Icebox","bomb",6,0,0,4
+"Evil Geniuses",4,"Icebox","defuse",0,27,19,0
+"Evil Geniuses",4,"Icebox","kills (post-plant)",36,0,0,32
+"Evil Geniuses",4,"Icebox","kills (pre-plant)",12,16,28,11
+"Evil Geniuses",4,"Icebox","time",0,4,0,0
+"Evil Geniuses",2,"Split","bomb",5,0,0,2
+"Evil Geniuses",2,"Split","defuse",0,4,5,0
+"Evil Geniuses",2,"Split","kills (post-plant)",9,0,0,13
+"Evil Geniuses",2,"Split","kills (pre-plant)",1,14,14,1
+"Evil Geniuses",2,"Split","time",0,3,1,0
+"E-Xolos LAZER",1,"Ascent","bomb",0,0,0,1
+"E-Xolos LAZER",1,"Ascent","defuse",0,1,2,0
+"E-Xolos LAZER",1,"Ascent","kills (post-plant)",3,0,0,2
+"E-Xolos LAZER",1,"Ascent","kills (pre-plant)",1,1,6,0
+"E-Xolos LAZER",1,"Ascent","time",0,0,1,0
+"E-Xolos LAZER",3,"Bind","bomb",2,0,0,7
+"E-Xolos LAZER",3,"Bind","defuse",0,12,17,0
+"E-Xolos LAZER",3,"Bind","kills (post-plant)",11,0,0,24
+"E-Xolos LAZER",3,"Bind","kills (pre-plant)",9,26,21,6
+"E-Xolos LAZER",3,"Bind","time",0,4,2,0
+"E-Xolos LAZER",9,"Fracture","bomb",1,0,0,1
+"E-Xolos LAZER",9,"Fracture","defuse",0,9,10,0
+"E-Xolos LAZER",9,"Fracture","kills (post-plant)",6,0,0,8
+"E-Xolos LAZER",9,"Fracture","kills (pre-plant)",2,18,4,0
+"E-Xolos LAZER",7,"Haven","bomb",6,0,0,3
+"E-Xolos LAZER",7,"Haven","defuse",0,11,8,0
+"E-Xolos LAZER",7,"Haven","kills (post-plant)",7,0,0,12
+"E-Xolos LAZER",7,"Haven","kills (pre-plant)",3,8,4,2
+"E-Xolos LAZER",7,"Haven","time",0,1,0,0
+"E-Xolos LAZER",4,"Icebox","bomb",1,0,0,2
+"E-Xolos LAZER",4,"Icebox","defuse",0,4,6,0
+"E-Xolos LAZER",4,"Icebox","kills (post-plant)",5,0,0,9
+"E-Xolos LAZER",4,"Icebox","kills (pre-plant)",4,9,2,1
+"E-Xolos LAZER",4,"Icebox","time",0,1,1,0
+"E-Xolos LAZER",2,"Split","defuse",0,1,1,0
+"E-Xolos LAZER",2,"Split","kills (post-plant)",3,0,0,4
+"E-Xolos LAZER",2,"Split","kills (pre-plant)",1,5,2,1
+"E-Xolos LAZER",2,"Split","time",0,2,1,0
+"Fancy United Esports",1,"Ascent","bomb",1,0,0,2
+"Fancy United Esports",1,"Ascent","defuse",0,5,9,0
+"Fancy United Esports",1,"Ascent","kills (post-plant)",8,0,0,13
+"Fancy United Esports",1,"Ascent","kills (pre-plant)",7,18,7,4
+"Fancy United Esports",1,"Ascent","time",0,2,2,0
+"Fancy United Esports",3,"Bind","bomb",1,0,0,2
+"Fancy United Esports",3,"Bind","defuse",0,2,2,0
+"Fancy United Esports",3,"Bind","kills (post-plant)",4,0,0,6
+"Fancy United Esports",3,"Bind","kills (pre-plant)",3,1,0,1
+"Fancy United Esports",3,"Bind","time",0,1,0,0
+"Fancy United Esports",8,"Breeze","bomb",0,0,0,2
+"Fancy United Esports",8,"Breeze","defuse",0,2,2,0
+"Fancy United Esports",8,"Breeze","kills (post-plant)",6,0,0,3
+"Fancy United Esports",8,"Breeze","kills (pre-plant)",2,2,3,1
+"Fancy United Esports",9,"Fracture","defuse",0,6,1,0
+"Fancy United Esports",9,"Fracture","kills (post-plant)",5,0,0,3
+"Fancy United Esports",9,"Fracture","kills (pre-plant)",2,10,4,6
+"Fancy United Esports",9,"Fracture","time",0,1,0,0
+"Fancy United Esports",7,"Haven","bomb",4,0,0,5
+"Fancy United Esports",7,"Haven","defuse",0,12,10,0
+"Fancy United Esports",7,"Haven","kills (post-plant)",12,0,0,11
+"Fancy United Esports",7,"Haven","kills (pre-plant)",3,20,11,11
+"Fancy United Esports",7,"Haven","time",0,1,0,0
+"Fancy United Esports",4,"Icebox","bomb",2,0,0,0
+"Fancy United Esports",4,"Icebox","defuse",0,4,8,0
+"Fancy United Esports",4,"Icebox","kills (post-plant)",15,0,0,13
+"Fancy United Esports",4,"Icebox","kills (pre-plant)",2,7,7,6
+"Fancy United Esports",4,"Icebox","time",0,0,1,0
+"Fancy United Esports",2,"Split","bomb",1,0,0,3
+"Fancy United Esports",2,"Split","defuse",0,5,3,0
+"Fancy United Esports",2,"Split","kills (post-plant)",2,0,0,5
+"Fancy United Esports",2,"Split","kills (pre-plant)",3,10,2,3
+"FAV gaming",1,"Ascent","bomb",2,0,0,1
+"FAV gaming",1,"Ascent","defuse",0,8,4,0
+"FAV gaming",1,"Ascent","kills (post-plant)",10,0,0,9
+"FAV gaming",1,"Ascent","kills (pre-plant)",6,5,12,1
+"FAV gaming",1,"Ascent","time",0,0,2,0
+"FAV gaming",3,"Bind","bomb",1,0,0,8
+"FAV gaming",3,"Bind","defuse",0,6,15,0
+"FAV gaming",3,"Bind","kills (post-plant)",14,0,0,19
+"FAV gaming",3,"Bind","kills (pre-plant)",5,14,9,5
+"FAV gaming",3,"Bind","time",0,1,3,0
+"FAV gaming",8,"Breeze","bomb",5,0,0,0
+"FAV gaming",8,"Breeze","defuse",0,4,12,0
+"FAV gaming",8,"Breeze","kills (post-plant)",4,0,0,2
+"FAV gaming",8,"Breeze","kills (pre-plant)",0,8,5,1
+"FAV gaming",8,"Breeze","time",0,3,0,0
+"FAV gaming",9,"Fracture","bomb",0,0,0,2
+"FAV gaming",9,"Fracture","defuse",0,0,3,0
+"FAV gaming",9,"Fracture","kills (post-plant)",1,0,0,5
+"FAV gaming",9,"Fracture","kills (pre-plant)",1,4,0,1
+"FAV gaming",9,"Fracture","time",0,1,1,0
+"FAV gaming",7,"Haven","bomb",5,0,0,2
+"FAV gaming",7,"Haven","defuse",0,14,11,0
+"FAV gaming",7,"Haven","kills (post-plant)",18,0,0,11
+"FAV gaming",7,"Haven","kills (pre-plant)",3,10,12,11
+"FAV gaming",7,"Haven","time",0,0,1,0
+"FAV gaming",4,"Icebox","bomb",4,0,0,0
+"FAV gaming",4,"Icebox","defuse",0,10,11,0
+"FAV gaming",4,"Icebox","kills (post-plant)",18,0,0,11
+"FAV gaming",4,"Icebox","kills (pre-plant)",4,10,8,3
+"FAV gaming",2,"Split","bomb",3,0,0,1
+"FAV gaming",2,"Split","defuse",0,7,4,0
+"FAV gaming",2,"Split","kills (post-plant)",9,0,0,17
+"FAV gaming",2,"Split","kills (pre-plant)",2,11,8,2
+"FAV gaming",2,"Split","time",0,2,1,0
+"FaZe Clan",1,"Ascent","bomb",6,0,0,7
+"FaZe Clan",1,"Ascent","defuse",0,13,9,0
+"FaZe Clan",1,"Ascent","kills (post-plant)",23,0,0,18
+"FaZe Clan",1,"Ascent","kills (pre-plant)",4,24,18,3
+"FaZe Clan",1,"Ascent","time",0,8,0,0
+"FaZe Clan",8,"Breeze","bomb",7,0,0,7
+"FaZe Clan",8,"Breeze","defuse",0,19,16,0
+"FaZe Clan",8,"Breeze","kills (post-plant)",18,0,0,18
+"FaZe Clan",8,"Breeze","kills (pre-plant)",12,27,24,9
+"FaZe Clan",8,"Breeze","time",0,4,2,0
+"FaZe Clan",9,"Fracture","bomb",4,0,0,10
+"FaZe Clan",9,"Fracture","defuse",0,9,16,0
+"FaZe Clan",9,"Fracture","kills (post-plant)",25,0,0,18
+"FaZe Clan",9,"Fracture","kills (pre-plant)",17,21,21,6
+"FaZe Clan",9,"Fracture","time",0,0,2,0
+"FaZe Clan",7,"Haven","bomb",3,0,0,4
+"FaZe Clan",7,"Haven","defuse",0,14,13,0
+"FaZe Clan",7,"Haven","kills (post-plant)",18,0,0,10
+"FaZe Clan",7,"Haven","kills (pre-plant)",10,17,11,8
+"FaZe Clan",7,"Haven","time",0,1,0,0
+"FaZe Clan",4,"Icebox","bomb",7,0,0,9
+"FaZe Clan",4,"Icebox","defuse",0,27,26,0
+"FaZe Clan",4,"Icebox","kills (post-plant)",29,0,0,34
+"FaZe Clan",4,"Icebox","kills (pre-plant)",12,22,18,10
+"FaZe Clan",4,"Icebox","time",0,4,1,0
+"FaZe Clan",2,"Split","bomb",2,0,0,1
+"FaZe Clan",2,"Split","defuse",0,14,9,0
+"FaZe Clan",2,"Split","kills (post-plant)",10,0,0,15
+"FaZe Clan",2,"Split","kills (pre-plant)",1,17,20,2
+"FaZe Clan",2,"Split","time",0,2,2,0
+"FENNEL",8,"Breeze","bomb",0,0,0,1
+"FENNEL",8,"Breeze","defuse",0,4,5,0
+"FENNEL",8,"Breeze","kills (post-plant)",0,0,0,4
+"FENNEL",8,"Breeze","kills (pre-plant)",0,3,1,1
+"FENNEL",9,"Fracture","bomb",1,0,0,2
+"FENNEL",9,"Fracture","defuse",0,7,8,0
+"FENNEL",9,"Fracture","kills (post-plant)",3,0,0,7
+"FENNEL",9,"Fracture","kills (pre-plant)",1,5,4,1
+"FENNEL",7,"Haven","bomb",3,0,0,0
+"FENNEL",7,"Haven","defuse",0,0,1,0
+"FENNEL",7,"Haven","kills (post-plant)",4,0,0,4
+"FENNEL",7,"Haven","kills (pre-plant)",2,2,3,4
+"FENNEL",4,"Icebox","defuse",0,0,4,0
+"FENNEL",4,"Icebox","kills (post-plant)",7,0,0,5
+"FENNEL",4,"Icebox","kills (pre-plant)",1,2,1,2
+"FENNEL",2,"Split","bomb",1,0,0,5
+"FENNEL",2,"Split","defuse",0,1,10,0
+"FENNEL",2,"Split","kills (post-plant)",8,0,0,3
+"FENNEL",2,"Split","kills (pre-plant)",1,3,7,0
+"FNATIC",1,"Ascent","bomb",16,0,0,10
+"FNATIC",1,"Ascent","defuse",0,15,32,0
+"FNATIC",1,"Ascent","kills (post-plant)",35,0,0,39
+"FNATIC",1,"Ascent","kills (pre-plant)",8,49,46,21
+"FNATIC",1,"Ascent","time",0,7,6,0
+"FNATIC",3,"Bind","bomb",18,0,0,7
+"FNATIC",3,"Bind","defuse",0,18,24,0
+"FNATIC",3,"Bind","kills (post-plant)",42,0,0,37
+"FNATIC",3,"Bind","kills (pre-plant)",14,29,29,7
+"FNATIC",3,"Bind","time",0,3,6,0
+"FNATIC",8,"Breeze","bomb",4,0,0,1
+"FNATIC",8,"Breeze","defuse",0,2,3,0
+"FNATIC",8,"Breeze","kills (post-plant)",7,0,0,8
+"FNATIC",8,"Breeze","kills (pre-plant)",2,6,5,2
+"FNATIC",8,"Breeze","time",0,1,1,0
+"FNATIC",9,"Fracture","bomb",9,0,0,8
+"FNATIC",9,"Fracture","defuse",0,21,24,0
+"FNATIC",9,"Fracture","kills (post-plant)",23,0,0,21
+"FNATIC",9,"Fracture","kills (pre-plant)",7,23,17,10
+"FNATIC",9,"Fracture","time",0,4,5,0
+"FNATIC",7,"Haven","bomb",10,0,0,15
+"FNATIC",7,"Haven","defuse",0,20,29,0
+"FNATIC",7,"Haven","kills (post-plant)",36,0,0,26
+"FNATIC",7,"Haven","kills (pre-plant)",16,23,20,7
+"FNATIC",7,"Haven","time",0,2,4,0
+"FNATIC",4,"Icebox","bomb",11,0,0,10
+"FNATIC",4,"Icebox","defuse",0,30,39,0
+"FNATIC",4,"Icebox","kills (post-plant)",64,0,0,31
+"FNATIC",4,"Icebox","kills (pre-plant)",12,30,35,9
+"FNATIC",4,"Icebox","time",0,7,4,0
+"FNATIC",10,"Pearl","bomb",2,0,0,2
+"FNATIC",10,"Pearl","defuse",0,9,6,0
+"FNATIC",10,"Pearl","kills (post-plant)",7,0,0,7
+"FNATIC",10,"Pearl","kills (pre-plant)",0,3,3,2
+"FNATIC",10,"Pearl","time",0,3,0,0
+"FNATIC",2,"Split","bomb",15,0,0,11
+"FNATIC",2,"Split","defuse",0,18,17,0
+"FNATIC",2,"Split","kills (post-plant)",32,0,0,32
+"FNATIC",2,"Split","kills (pre-plant)",5,34,33,6
+"FNATIC",2,"Split","time",0,5,8,0
+"Focus e-Sports",3,"Bind","defuse",0,2,1,0
+"Focus e-Sports",3,"Bind","kills (post-plant)",0,0,0,9
+"Focus e-Sports",3,"Bind","kills (pre-plant)",0,2,2,0
+"Focus e-Sports",4,"Icebox","defuse",0,4,2,0
+"Focus e-Sports",4,"Icebox","kills (post-plant)",4,0,0,5
+"Focus e-Sports",4,"Icebox","kills (pre-plant)",1,3,0,1
+"FOKUS",1,"Ascent","bomb",3,0,0,0
+"FOKUS",1,"Ascent","defuse",0,5,4,0
+"FOKUS",1,"Ascent","kills (post-plant)",4,0,0,4
+"FOKUS",1,"Ascent","kills (pre-plant)",3,9,5,6
+"FOKUS",1,"Ascent","time",0,0,2,0
+"FOKUS",3,"Bind","bomb",2,0,0,3
+"FOKUS",3,"Bind","defuse",0,2,2,0
+"FOKUS",3,"Bind","kills (post-plant)",6,0,0,9
+"FOKUS",3,"Bind","kills (pre-plant)",1,2,6,4
+"FOKUS",8,"Breeze","bomb",3,0,0,3
+"FOKUS",8,"Breeze","defuse",0,5,3,0
+"FOKUS",8,"Breeze","kills (post-plant)",6,0,0,6
+"FOKUS",8,"Breeze","kills (pre-plant)",2,8,4,4
+"FOKUS",9,"Fracture","bomb",3,0,0,2
+"FOKUS",9,"Fracture","defuse",0,13,7,0
+"FOKUS",9,"Fracture","kills (post-plant)",8,0,0,8
+"FOKUS",9,"Fracture","kills (pre-plant)",1,14,10,3
+"FOKUS",9,"Fracture","time",0,2,1,0
+"FOKUS",4,"Icebox","bomb",1,0,0,2
+"FOKUS",4,"Icebox","defuse",0,1,9,0
+"FOKUS",4,"Icebox","kills (post-plant)",3,0,0,4
+"FOKUS",4,"Icebox","kills (pre-plant)",2,15,4,4
+"FOKUS",4,"Icebox","time",0,0,1,0
+"FOKUS",2,"Split","bomb",1,0,0,3
+"FOKUS",2,"Split","defuse",0,1,2,0
+"FOKUS",2,"Split","kills (post-plant)",1,0,0,3
+"FOKUS",2,"Split","kills (pre-plant)",0,5,3,1
+"FULL SENSE",1,"Ascent","bomb",3,0,0,4
+"FULL SENSE",1,"Ascent","defuse",0,5,5,0
+"FULL SENSE",1,"Ascent","kills (post-plant)",6,0,0,7
+"FULL SENSE",1,"Ascent","kills (pre-plant)",0,12,14,6
+"FULL SENSE",1,"Ascent","time",0,1,0,0
+"FULL SENSE",3,"Bind","bomb",3,0,0,0
+"FULL SENSE",3,"Bind","defuse",0,2,8,0
+"FULL SENSE",3,"Bind","kills (post-plant)",7,0,0,6
+"FULL SENSE",3,"Bind","kills (pre-plant)",3,8,5,0
+"FULL SENSE",3,"Bind","time",0,1,0,0
+"FULL SENSE",8,"Breeze","bomb",1,0,0,2
+"FULL SENSE",8,"Breeze","defuse",0,4,5,0
+"FULL SENSE",8,"Breeze","kills (post-plant)",7,0,0,7
+"FULL SENSE",8,"Breeze","kills (pre-plant)",4,4,5,3
+"FULL SENSE",8,"Breeze","time",0,1,0,0
+"FULL SENSE",7,"Haven","bomb",2,0,0,4
+"FULL SENSE",7,"Haven","defuse",0,11,7,0
+"FULL SENSE",7,"Haven","kills (post-plant)",14,0,0,13
+"FULL SENSE",7,"Haven","kills (pre-plant)",5,3,9,3
+"FULL SENSE",7,"Haven","time",0,1,1,0
+"FULL SENSE",2,"Split","defuse",0,1,3,0
+"FULL SENSE",2,"Split","kills (post-plant)",5,0,0,0
+"FULL SENSE",2,"Split","kills (pre-plant)",4,2,1,0
+"FunPlus Phoenix",1,"Ascent","bomb",17,0,0,9
+"FunPlus Phoenix",1,"Ascent","defuse",0,23,27,0
+"FunPlus Phoenix",1,"Ascent","kills (post-plant)",64,0,0,57
+"FunPlus Phoenix",1,"Ascent","kills (pre-plant)",24,61,68,13
+"FunPlus Phoenix",1,"Ascent","time",0,4,7,0
+"FunPlus Phoenix",3,"Bind","bomb",6,0,0,14
+"FunPlus Phoenix",3,"Bind","defuse",0,20,20,0
+"FunPlus Phoenix",3,"Bind","kills (post-plant)",39,0,0,35
+"FunPlus Phoenix",3,"Bind","kills (pre-plant)",15,23,32,4
+"FunPlus Phoenix",3,"Bind","time",0,5,5,0
+"FunPlus Phoenix",8,"Breeze","bomb",11,0,0,6
+"FunPlus Phoenix",8,"Breeze","defuse",0,24,16,0
+"FunPlus Phoenix",8,"Breeze","kills (post-plant)",32,0,0,38
+"FunPlus Phoenix",8,"Breeze","kills (pre-plant)",16,34,24,12
+"FunPlus Phoenix",8,"Breeze","time",0,2,2,0
+"FunPlus Phoenix",9,"Fracture","bomb",11,0,0,11
+"FunPlus Phoenix",9,"Fracture","defuse",0,27,23,0
+"FunPlus Phoenix",9,"Fracture","kills (post-plant)",57,0,0,36
+"FunPlus Phoenix",9,"Fracture","kills (pre-plant)",19,20,61,11
+"FunPlus Phoenix",9,"Fracture","time",0,9,7,0
+"FunPlus Phoenix",7,"Haven","bomb",19,0,0,8
+"FunPlus Phoenix",7,"Haven","defuse",0,30,35,0
+"FunPlus Phoenix",7,"Haven","kills (post-plant)",47,0,0,55
+"FunPlus Phoenix",7,"Haven","kills (pre-plant)",15,50,46,17
+"FunPlus Phoenix",7,"Haven","time",0,1,2,0
+"FunPlus Phoenix",4,"Icebox","bomb",13,0,0,16
+"FunPlus Phoenix",4,"Icebox","defuse",0,34,36,0
+"FunPlus Phoenix",4,"Icebox","kills (post-plant)",53,0,0,65
+"FunPlus Phoenix",4,"Icebox","kills (pre-plant)",16,37,41,9
+"FunPlus Phoenix",4,"Icebox","time",0,5,4,0
+"FunPlus Phoenix",10,"Pearl","bomb",2,0,0,2
+"FunPlus Phoenix",10,"Pearl","defuse",0,8,4,0
+"FunPlus Phoenix",10,"Pearl","kills (post-plant)",2,0,0,8
+"FunPlus Phoenix",10,"Pearl","kills (pre-plant)",1,6,9,1
+"FunPlus Phoenix",10,"Pearl","time",0,1,0,0
+"FunPlus Phoenix",2,"Split","bomb",20,0,0,8
+"FunPlus Phoenix",2,"Split","defuse",0,15,18,0
+"FunPlus Phoenix",2,"Split","kills (post-plant)",31,0,0,25
+"FunPlus Phoenix",2,"Split","kills (pre-plant)",9,31,45,13
+"FunPlus Phoenix",2,"Split","time",0,4,7,0
+"FURIA",1,"Ascent","bomb",15,0,0,13
+"FURIA",1,"Ascent","defuse",0,26,25,0
+"FURIA",1,"Ascent","kills (post-plant)",42,0,0,31
+"FURIA",1,"Ascent","kills (pre-plant)",16,43,36,5
+"FURIA",1,"Ascent","time",0,6,10,0
+"FURIA",3,"Bind","bomb",2,0,0,0
+"FURIA",3,"Bind","kills (post-plant)",8,0,0,1
+"FURIA",3,"Bind","kills (pre-plant)",1,1,2,1
+"FURIA",8,"Breeze","bomb",10,0,0,24
+"FURIA",8,"Breeze","defuse",0,25,28,0
+"FURIA",8,"Breeze","kills (post-plant)",52,0,0,39
+"FURIA",8,"Breeze","kills (pre-plant)",13,45,29,8
+"FURIA",8,"Breeze","time",0,2,4,0
+"FURIA",9,"Fracture","bomb",4,0,0,10
+"FURIA",9,"Fracture","defuse",0,11,7,0
+"FURIA",9,"Fracture","kills (post-plant)",18,0,0,6
+"FURIA",9,"Fracture","kills (pre-plant)",7,12,19,4
+"FURIA",9,"Fracture","time",0,1,0,0
+"FURIA",7,"Haven","bomb",9,0,0,12
+"FURIA",7,"Haven","defuse",0,18,9,0
+"FURIA",7,"Haven","kills (post-plant)",17,0,0,19
+"FURIA",7,"Haven","kills (pre-plant)",9,17,19,5
+"FURIA",7,"Haven","time",0,4,2,0
+"FURIA",4,"Icebox","bomb",11,0,0,15
+"FURIA",4,"Icebox","defuse",0,24,25,0
+"FURIA",4,"Icebox","kills (post-plant)",33,0,0,36
+"FURIA",4,"Icebox","kills (pre-plant)",12,21,20,10
+"FURIA",4,"Icebox","time",0,4,1,0
+"FURIA",2,"Split","bomb",4,0,0,4
+"FURIA",2,"Split","defuse",0,3,7,0
+"FURIA",2,"Split","kills (post-plant)",3,0,0,8
+"FURIA",2,"Split","kills (pre-plant)",0,16,10,4
+"FURIA",2,"Split","time",0,0,3,0
+"FUSION",1,"Ascent","bomb",3,0,0,6
+"FUSION",1,"Ascent","defuse",0,3,7,0
+"FUSION",1,"Ascent","kills (post-plant)",10,0,0,12
+"FUSION",1,"Ascent","kills (pre-plant)",5,9,4,6
+"FUSION",1,"Ascent","time",0,1,1,0
+"FUSION",3,"Bind","bomb",0,0,0,2
+"FUSION",3,"Bind","defuse",0,8,3,0
+"FUSION",3,"Bind","kills (post-plant)",10,0,0,7
+"FUSION",3,"Bind","kills (pre-plant)",0,16,5,2
+"FUSION",3,"Bind","time",0,2,1,0
+"FUSION",8,"Breeze","bomb",2,0,0,4
+"FUSION",8,"Breeze","defuse",0,12,9,0
+"FUSION",8,"Breeze","kills (post-plant)",17,0,0,17
+"FUSION",8,"Breeze","kills (pre-plant)",6,19,16,5
+"FUSION",8,"Breeze","time",0,1,2,0
+"FUSION",9,"Fracture","bomb",6,0,0,2
+"FUSION",9,"Fracture","defuse",0,3,3,0
+"FUSION",9,"Fracture","kills (post-plant)",2,0,0,8
+"FUSION",9,"Fracture","kills (pre-plant)",3,8,1,3
+"FUSION",9,"Fracture","time",0,2,0,0
+"FUSION",7,"Haven","defuse",0,3,1,0
+"FUSION",7,"Haven","kills (post-plant)",2,0,0,3
+"FUSION",7,"Haven","kills (pre-plant)",1,6,0,1
+"FUSION",4,"Icebox","bomb",0,0,0,2
+"FUSION",4,"Icebox","defuse",0,5,1,0
+"FUSION",4,"Icebox","kills (post-plant)",10,0,0,7
+"FUSION",4,"Icebox","kills (pre-plant)",2,18,2,6
+"FUSION",4,"Icebox","time",0,1,1,0
+"FUSION",2,"Split","bomb",0,0,0,4
+"FUSION",2,"Split","defuse",0,0,3,0
+"FUSION",2,"Split","kills (post-plant)",1,0,0,1
+"FUSION",2,"Split","kills (pre-plant)",0,5,2,2
+"FUSION",2,"Split","time",0,1,0,0
+"FW Esports",3,"Bind","bomb",2,0,0,1
+"FW Esports",3,"Bind","defuse",0,2,2,0
+"FW Esports",3,"Bind","kills (post-plant)",6,0,0,4
+"FW Esports",3,"Bind","kills (pre-plant)",1,0,1,3
+"FW Esports",3,"Bind","time",0,0,1,0
+"FW Esports",8,"Breeze","bomb",2,0,0,0
+"FW Esports",8,"Breeze","defuse",0,2,2,0
+"FW Esports",8,"Breeze","kills (post-plant)",3,0,0,6
+"FW Esports",8,"Breeze","kills (pre-plant)",1,3,2,2
+"FW Esports",7,"Haven","bomb",3,0,0,1
+"FW Esports",7,"Haven","defuse",0,2,1,0
+"FW Esports",7,"Haven","kills (post-plant)",6,0,0,12
+"FW Esports",7,"Haven","kills (pre-plant)",3,10,5,1
+"FW Esports",4,"Icebox","defuse",0,5,1,0
+"FW Esports",4,"Icebox","kills (post-plant)",1,0,0,2
+"FW Esports",4,"Icebox","kills (pre-plant)",0,6,1,0
+"G2 Esports (Inactive)",1,"Ascent","bomb",9,0,0,11
+"G2 Esports (Inactive)",1,"Ascent","defuse",0,20,7,0
+"G2 Esports (Inactive)",1,"Ascent","kills (post-plant)",23,0,0,32
+"G2 Esports (Inactive)",1,"Ascent","kills (pre-plant)",7,27,22,8
+"G2 Esports (Inactive)",1,"Ascent","time",0,1,4,0
+"G2 Esports (Inactive)",3,"Bind","bomb",16,0,0,10
+"G2 Esports (Inactive)",3,"Bind","defuse",0,21,32,0
+"G2 Esports (Inactive)",3,"Bind","kills (post-plant)",33,0,0,34
+"G2 Esports (Inactive)",3,"Bind","kills (pre-plant)",12,33,34,10
+"G2 Esports (Inactive)",3,"Bind","time",0,0,6,0
+"G2 Esports (Inactive)",8,"Breeze","bomb",7,0,0,3
+"G2 Esports (Inactive)",8,"Breeze","defuse",0,5,1,0
+"G2 Esports (Inactive)",8,"Breeze","kills (post-plant)",14,0,0,16
+"G2 Esports (Inactive)",8,"Breeze","kills (pre-plant)",4,13,23,2
+"G2 Esports (Inactive)",8,"Breeze","time",0,1,1,0
+"G2 Esports (Inactive)",9,"Fracture","bomb",3,0,0,4
+"G2 Esports (Inactive)",9,"Fracture","defuse",0,9,11,0
+"G2 Esports (Inactive)",9,"Fracture","kills (post-plant)",10,0,0,20
+"G2 Esports (Inactive)",9,"Fracture","kills (pre-plant)",8,15,9,2
+"G2 Esports (Inactive)",9,"Fracture","time",0,1,1,0
+"G2 Esports (Inactive)",7,"Haven","bomb",4,0,0,6
+"G2 Esports (Inactive)",7,"Haven","defuse",0,16,20,0
+"G2 Esports (Inactive)",7,"Haven","kills (post-plant)",16,0,0,25
+"G2 Esports (Inactive)",7,"Haven","kills (pre-plant)",10,17,23,10
+"G2 Esports (Inactive)",4,"Icebox","bomb",15,0,0,12
+"G2 Esports (Inactive)",4,"Icebox","defuse",0,24,34,0
+"G2 Esports (Inactive)",4,"Icebox","kills (post-plant)",37,0,0,35
+"G2 Esports (Inactive)",4,"Icebox","kills (pre-plant)",15,37,33,6
+"G2 Esports (Inactive)",4,"Icebox","time",0,3,2,0
+"G2 Esports (Inactive)",2,"Split","bomb",8,0,0,6
+"G2 Esports (Inactive)",2,"Split","defuse",0,14,23,0
+"G2 Esports (Inactive)",2,"Split","kills (post-plant)",28,0,0,28
+"G2 Esports (Inactive)",2,"Split","kills (pre-plant)",9,39,51,10
+"G2 Esports (Inactive)",2,"Split","time",0,7,5,0
+"Gaimin Gladiators",1,"Ascent","bomb",4,0,0,4
+"Gaimin Gladiators",1,"Ascent","defuse",0,5,2,0
+"Gaimin Gladiators",1,"Ascent","kills (post-plant)",5,0,0,12
+"Gaimin Gladiators",1,"Ascent","kills (pre-plant)",5,10,7,3
+"Gaimin Gladiators",1,"Ascent","time",0,2,3,0
+"Gaimin Gladiators",8,"Breeze","bomb",0,0,0,2
+"Gaimin Gladiators",8,"Breeze","defuse",0,0,2,0
+"Gaimin Gladiators",8,"Breeze","kills (post-plant)",4,0,0,3
+"Gaimin Gladiators",8,"Breeze","kills (pre-plant)",1,5,2,3
+"Gaimin Gladiators",7,"Haven","defuse",0,3,1,0
+"Gaimin Gladiators",7,"Haven","kills (post-plant)",5,0,0,6
+"Gaimin Gladiators",7,"Haven","kills (pre-plant)",3,7,8,2
+"Gaimin Gladiators",7,"Haven","time",0,1,0,0
+"Gambit Esports",3,"Bind","bomb",1,0,0,0
+"Gambit Esports",3,"Bind","defuse",0,2,5,0
+"Gambit Esports",3,"Bind","kills (post-plant)",1,0,0,2
+"Gambit Esports",3,"Bind","kills (pre-plant)",1,2,4,0
+"Gambit Esports",3,"Bind","time",0,0,1,0
+"Gambit Esports",8,"Breeze","defuse",0,4,2,0
+"Gambit Esports",8,"Breeze","kills (post-plant)",4,0,0,0
+"Gambit Esports",8,"Breeze","kills (pre-plant)",1,2,6,1
+"Gambit Esports",8,"Breeze","time",0,1,0,0
+"Gambit Esports",9,"Fracture","bomb",1,0,0,1
+"Gambit Esports",9,"Fracture","defuse",0,3,4,0
+"Gambit Esports",9,"Fracture","kills (post-plant)",5,0,0,6
+"Gambit Esports",9,"Fracture","kills (pre-plant)",3,3,2,3
+"Gambit Esports",9,"Fracture","time",0,1,0,0
+"Gambit Esports",4,"Icebox","bomb",4,0,0,1
+"Gambit Esports",4,"Icebox","defuse",0,7,4,0
+"Gambit Esports",4,"Icebox","kills (post-plant)",6,0,0,9
+"Gambit Esports",4,"Icebox","kills (pre-plant)",3,5,7,1
+"Gambit Esports",4,"Icebox","time",0,0,1,0
+"Gamelanders Blue",1,"Ascent","bomb",5,0,0,7
+"Gamelanders Blue",1,"Ascent","defuse",0,3,10,0
+"Gamelanders Blue",1,"Ascent","kills (post-plant)",13,0,0,17
+"Gamelanders Blue",1,"Ascent","kills (pre-plant)",4,6,11,4
+"Gamelanders Blue",1,"Ascent","time",0,5,0,0
+"Gamelanders Blue",3,"Bind","bomb",5,0,0,3
+"Gamelanders Blue",3,"Bind","defuse",0,3,2,0
+"Gamelanders Blue",3,"Bind","kills (post-plant)",5,0,0,10
+"Gamelanders Blue",3,"Bind","kills (pre-plant)",1,9,3,0
+"Gamelanders Blue",3,"Bind","time",0,1,0,0
+"Gamelanders Blue",8,"Breeze","bomb",5,0,0,2
+"Gamelanders Blue",8,"Breeze","defuse",0,1,5,0
+"Gamelanders Blue",8,"Breeze","kills (post-plant)",10,0,0,10
+"Gamelanders Blue",8,"Breeze","kills (pre-plant)",3,4,1,1
+"Gamelanders Blue",8,"Breeze","time",0,1,0,0
+"Gamelanders Blue",9,"Fracture","bomb",1,0,0,2
+"Gamelanders Blue",9,"Fracture","defuse",0,8,0,0
+"Gamelanders Blue",9,"Fracture","kills (post-plant)",4,0,0,10
+"Gamelanders Blue",9,"Fracture","kills (pre-plant)",6,4,2,1
+"Gamelanders Blue",9,"Fracture","time",0,3,2,0
+"Gamelanders Blue",7,"Haven","bomb",3,0,0,7
+"Gamelanders Blue",7,"Haven","defuse",0,7,5,0
+"Gamelanders Blue",7,"Haven","kills (post-plant)",11,0,0,11
+"Gamelanders Blue",7,"Haven","kills (pre-plant)",1,14,17,7
+"Gamelanders Blue",7,"Haven","time",0,1,2,0
+"Gamelanders Blue",4,"Icebox","bomb",5,0,0,5
+"Gamelanders Blue",4,"Icebox","defuse",0,12,4,0
+"Gamelanders Blue",4,"Icebox","kills (post-plant)",13,0,0,18
+"Gamelanders Blue",4,"Icebox","kills (pre-plant)",6,8,6,3
+"Gamelanders Blue",4,"Icebox","time",0,4,2,0
+"Gamelanders Blue",2,"Split","bomb",7,0,0,10
+"Gamelanders Blue",2,"Split","defuse",0,9,15,0
+"Gamelanders Blue",2,"Split","kills (post-plant)",20,0,0,18
+"Gamelanders Blue",2,"Split","kills (pre-plant)",5,24,18,4
+"Gamelanders Blue",2,"Split","time",0,11,5,0
+"Ghost Gaming",1,"Ascent","bomb",0,0,0,1
+"Ghost Gaming",1,"Ascent","defuse",0,4,5,0
+"Ghost Gaming",1,"Ascent","kills (post-plant)",2,0,0,1
+"Ghost Gaming",1,"Ascent","kills (pre-plant)",0,4,1,1
+"Ghost Gaming",1,"Ascent","time",0,2,0,0
+"Ghost Gaming",8,"Breeze","bomb",7,0,0,6
+"Ghost Gaming",8,"Breeze","defuse",0,15,4,0
+"Ghost Gaming",8,"Breeze","kills (post-plant)",13,0,0,13
+"Ghost Gaming",8,"Breeze","kills (pre-plant)",5,13,23,3
+"Ghost Gaming",8,"Breeze","time",0,1,2,0
+"Ghost Gaming",9,"Fracture","bomb",2,0,0,2
+"Ghost Gaming",9,"Fracture","defuse",0,3,4,0
+"Ghost Gaming",9,"Fracture","kills (post-plant)",7,0,0,7
+"Ghost Gaming",9,"Fracture","kills (pre-plant)",3,8,6,0
+"Ghost Gaming",9,"Fracture","time",0,1,0,0
+"Ghost Gaming",7,"Haven","bomb",3,0,0,2
+"Ghost Gaming",7,"Haven","defuse",0,4,12,0
+"Ghost Gaming",7,"Haven","kills (post-plant)",6,0,0,6
+"Ghost Gaming",7,"Haven","kills (pre-plant)",8,4,5,3
+"Ghost Gaming",7,"Haven","time",0,1,3,0
+"Ghost Gaming",4,"Icebox","bomb",1,0,0,2
+"Ghost Gaming",4,"Icebox","defuse",0,6,13,0
+"Ghost Gaming",4,"Icebox","kills (post-plant)",9,0,0,9
+"Ghost Gaming",4,"Icebox","kills (pre-plant)",1,11,8,3
+"Ghost Gaming",4,"Icebox","time",0,2,2,0
+"Ghost Gaming",2,"Split","bomb",1,0,0,1
+"Ghost Gaming",2,"Split","defuse",0,0,1,0
+"Ghost Gaming",2,"Split","kills (post-plant)",5,0,0,7
+"Ghost Gaming",2,"Split","kills (pre-plant)",3,5,4,0
+"Ghost Gaming",2,"Split","time",0,0,1,0
+"Global Esports",1,"Ascent","bomb",0,0,0,1
+"Global Esports",1,"Ascent","defuse",0,2,2,0
+"Global Esports",1,"Ascent","kills (post-plant)",8,0,0,7
+"Global Esports",1,"Ascent","kills (pre-plant)",2,2,3,1
+"Global Esports",3,"Bind","bomb",0,0,0,1
+"Global Esports",3,"Bind","defuse",0,3,1,0
+"Global Esports",3,"Bind","kills (post-plant)",3,0,0,4
+"Global Esports",3,"Bind","kills (pre-plant)",1,5,4,0
+"Global Esports",9,"Fracture","bomb",0,0,0,1
+"Global Esports",9,"Fracture","defuse",0,3,1,0
+"Global Esports",9,"Fracture","kills (post-plant)",3,0,0,4
+"Global Esports",9,"Fracture","kills (pre-plant)",2,4,1,1
+"Global Esports",7,"Haven","bomb",1,0,0,1
+"Global Esports",7,"Haven","defuse",0,2,4,0
+"Global Esports",7,"Haven","kills (post-plant)",1,0,0,6
+"Global Esports",7,"Haven","kills (pre-plant)",3,3,0,1
+"Global Esports",2,"Split","bomb",1,0,0,1
+"Global Esports",2,"Split","defuse",0,2,1,0
+"Global Esports",2,"Split","kills (post-plant)",0,0,0,7
+"Global Esports",2,"Split","kills (pre-plant)",1,1,1,2
+"GoNGo Prince",3,"Bind","bomb",2,0,0,1
+"GoNGo Prince",3,"Bind","defuse",0,1,2,0
+"GoNGo Prince",3,"Bind","kills (post-plant)",2,0,0,4
+"GoNGo Prince",3,"Bind","kills (pre-plant)",2,6,4,2
+"GoNGo Prince",8,"Breeze","defuse",0,6,5,0
+"GoNGo Prince",8,"Breeze","kills (post-plant)",7,0,0,10
+"GoNGo Prince",8,"Breeze","kills (pre-plant)",2,7,0,2
+"GoNGo Prince",8,"Breeze","time",0,1,0,0
+"GoNGo Prince",9,"Fracture","defuse",0,5,3,0
+"GoNGo Prince",9,"Fracture","kills (post-plant)",1,0,0,3
+"GoNGo Prince",9,"Fracture","kills (pre-plant)",2,4,0,1
+"GoNGo Prince",7,"Haven","bomb",2,0,0,1
+"GoNGo Prince",7,"Haven","defuse",0,6,3,0
+"GoNGo Prince",7,"Haven","kills (post-plant)",10,0,0,9
+"GoNGo Prince",7,"Haven","kills (pre-plant)",2,5,3,4
+"GoNGo Prince",7,"Haven","time",0,0,1,0
+"GoNGo Prince",2,"Split","bomb",1,0,0,0
+"GoNGo Prince",2,"Split","kills (post-plant)",8,0,0,9
+"GoNGo Prince",2,"Split","kills (pre-plant)",1,3,4,0
+"Griffin E-Sports",1,"Ascent","bomb",3,0,0,5
+"Griffin E-Sports",1,"Ascent","defuse",0,5,5,0
+"Griffin E-Sports",1,"Ascent","kills (post-plant)",9,0,0,9
+"Griffin E-Sports",1,"Ascent","kills (pre-plant)",2,9,11,4
+"Griffin E-Sports",1,"Ascent","time",0,1,2,0
+"Griffin E-Sports",3,"Bind","bomb",3,0,0,5
+"Griffin E-Sports",3,"Bind","defuse",0,4,5,0
+"Griffin E-Sports",3,"Bind","kills (post-plant)",6,0,0,9
+"Griffin E-Sports",3,"Bind","kills (pre-plant)",9,11,7,5
+"Griffin E-Sports",3,"Bind","time",0,0,1,0
+"Griffin E-Sports",8,"Breeze","bomb",2,0,0,3
+"Griffin E-Sports",8,"Breeze","defuse",0,4,8,0
+"Griffin E-Sports",8,"Breeze","kills (post-plant)",9,0,0,13
+"Griffin E-Sports",8,"Breeze","kills (pre-plant)",7,11,16,4
+"Griffin E-Sports",8,"Breeze","time",0,1,2,0
+"Griffin E-Sports",9,"Fracture","bomb",0,0,0,2
+"Griffin E-Sports",9,"Fracture","kills (post-plant)",0,0,0,7
+"Griffin E-Sports",9,"Fracture","kills (pre-plant)",0,2,1,2
+"Griffin E-Sports",7,"Haven","bomb",0,0,0,2
+"Griffin E-Sports",7,"Haven","defuse",0,3,1,0
+"Griffin E-Sports",7,"Haven","kills (post-plant)",11,0,0,6
+"Griffin E-Sports",7,"Haven","kills (pre-plant)",5,13,8,9
+"Griffin E-Sports",2,"Split","bomb",3,0,0,1
+"Griffin E-Sports",2,"Split","defuse",0,4,2,0
+"Griffin E-Sports",2,"Split","kills (post-plant)",5,0,0,6
+"Griffin E-Sports",2,"Split","kills (pre-plant)",1,10,5,2
+"Guild Esports",1,"Ascent","bomb",6,0,0,7
+"Guild Esports",1,"Ascent","defuse",0,10,12,0
+"Guild Esports",1,"Ascent","kills (post-plant)",13,0,0,17
+"Guild Esports",1,"Ascent","kills (pre-plant)",1,16,16,7
+"Guild Esports",1,"Ascent","time",0,1,1,0
+"Guild Esports",3,"Bind","bomb",12,0,0,15
+"Guild Esports",3,"Bind","defuse",0,19,12,0
+"Guild Esports",3,"Bind","kills (post-plant)",14,0,0,23
+"Guild Esports",3,"Bind","kills (pre-plant)",9,20,10,7
+"Guild Esports",3,"Bind","time",0,7,2,0
+"Guild Esports",8,"Breeze","bomb",14,0,0,8
+"Guild Esports",8,"Breeze","defuse",0,18,17,0
+"Guild Esports",8,"Breeze","kills (post-plant)",29,0,0,21
+"Guild Esports",8,"Breeze","kills (pre-plant)",9,14,34,4
+"Guild Esports",8,"Breeze","time",0,3,3,0
+"Guild Esports",9,"Fracture","bomb",10,0,0,10
+"Guild Esports",9,"Fracture","defuse",0,18,15,0
+"Guild Esports",9,"Fracture","kills (post-plant)",33,0,0,21
+"Guild Esports",9,"Fracture","kills (pre-plant)",12,23,24,10
+"Guild Esports",9,"Fracture","time",0,6,9,0
+"Guild Esports",7,"Haven","bomb",13,0,0,16
+"Guild Esports",7,"Haven","defuse",0,18,35,0
+"Guild Esports",7,"Haven","kills (post-plant)",35,0,0,30
+"Guild Esports",7,"Haven","kills (pre-plant)",10,26,31,5
+"Guild Esports",7,"Haven","time",0,12,5,0
+"Guild Esports",4,"Icebox","bomb",3,0,0,10
+"Guild Esports",4,"Icebox","defuse",0,23,21,0
+"Guild Esports",4,"Icebox","kills (post-plant)",34,0,0,26
+"Guild Esports",4,"Icebox","kills (pre-plant)",4,24,27,13
+"Guild Esports",4,"Icebox","time",0,8,1,0
+"Guild Esports",2,"Split","bomb",10,0,0,8
+"Guild Esports",2,"Split","defuse",0,11,6,0
+"Guild Esports",2,"Split","kills (post-plant)",15,0,0,17
+"Guild Esports",2,"Split","kills (pre-plant)",4,23,22,3
+"Guild Esports",2,"Split","time",0,5,5,0
+"GyoGun",9,"Fracture","bomb",0,0,0,1
+"GyoGun",9,"Fracture","defuse",0,0,1,0
+"GyoGun",9,"Fracture","kills (post-plant)",1,0,0,6
+"GyoGun",9,"Fracture","kills (pre-plant)",0,4,2,2
+"GyoGun",4,"Icebox","defuse",0,7,1,0
+"GyoGun",4,"Icebox","kills (post-plant)",2,0,0,4
+"GyoGun",4,"Icebox","kills (pre-plant)",1,2,0,0
+"Hexad",1,"Ascent","bomb",1,0,0,2
+"Hexad",1,"Ascent","defuse",0,2,2,0
+"Hexad",1,"Ascent","kills (post-plant)",4,0,0,5
+"Hexad",1,"Ascent","kills (pre-plant)",3,3,7,1
+"Hexad",1,"Ascent","time",0,2,2,0
+"Hexad",8,"Breeze","bomb",3,0,0,1
+"Hexad",8,"Breeze","defuse",0,1,4,0
+"Hexad",8,"Breeze","kills (post-plant)",2,0,0,2
+"Hexad",8,"Breeze","kills (pre-plant)",1,2,3,2
+"Hexad",8,"Breeze","time",0,1,0,0
+"Hexad",7,"Haven","defuse",0,7,1,0
+"Hexad",7,"Haven","kills (post-plant)",1,0,0,2
+"Hexad",7,"Haven","kills (pre-plant)",0,4,0,0
+"Hexad",7,"Haven","time",0,0,1,0
+"Hexad",4,"Icebox","bomb",1,0,0,0
+"Hexad",4,"Icebox","defuse",0,7,5,0
+"Hexad",4,"Icebox","kills (post-plant)",9,0,0,8
+"Hexad",4,"Icebox","kills (pre-plant)",1,9,2,3
+"Hexad",4,"Icebox","time",0,1,1,0
+"HolyMolly",1,"Ascent","bomb",3,0,0,8
+"HolyMolly",1,"Ascent","defuse",0,14,9,0
+"HolyMolly",1,"Ascent","kills (post-plant)",15,0,0,25
+"HolyMolly",1,"Ascent","kills (pre-plant)",3,24,10,6
+"HolyMolly",3,"Bind","bomb",3,0,0,11
+"HolyMolly",3,"Bind","defuse",0,12,4,0
+"HolyMolly",3,"Bind","kills (post-plant)",12,0,0,20
+"HolyMolly",3,"Bind","kills (pre-plant)",2,10,10,7
+"HolyMolly",3,"Bind","time",0,0,2,0
+"HolyMolly",8,"Breeze","bomb",2,0,0,3
+"HolyMolly",8,"Breeze","defuse",0,6,12,0
+"HolyMolly",8,"Breeze","kills (post-plant)",23,0,0,13
+"HolyMolly",8,"Breeze","kills (pre-plant)",3,12,11,6
+"HolyMolly",8,"Breeze","time",0,1,0,0
+"HolyMolly",9,"Fracture","bomb",1,0,0,3
+"HolyMolly",9,"Fracture","defuse",0,2,1,0
+"HolyMolly",9,"Fracture","kills (post-plant)",11,0,0,7
+"HolyMolly",9,"Fracture","kills (pre-plant)",2,8,3,6
+"HolyMolly",9,"Fracture","time",0,1,0,0
+"HolyMolly",7,"Haven","bomb",7,0,0,7
+"HolyMolly",7,"Haven","defuse",0,14,8,0
+"HolyMolly",7,"Haven","kills (post-plant)",16,0,0,11
+"HolyMolly",7,"Haven","kills (pre-plant)",2,18,21,6
+"HolyMolly",7,"Haven","time",0,2,3,0
+"HolyMolly",2,"Split","bomb",3,0,0,4
+"HolyMolly",2,"Split","defuse",0,8,8,0
+"HolyMolly",2,"Split","kills (post-plant)",7,0,0,4
+"HolyMolly",2,"Split","kills (pre-plant)",1,8,7,2
+"HolyMolly",2,"Split","time",0,1,1,0
+"IGZIST",1,"Ascent","bomb",3,0,0,0
+"IGZIST",1,"Ascent","defuse",0,10,8,0
+"IGZIST",1,"Ascent","kills (post-plant)",7,0,0,8
+"IGZIST",1,"Ascent","kills (pre-plant)",3,8,4,4
+"IGZIST",1,"Ascent","time",0,0,2,0
+"IGZIST",3,"Bind","bomb",5,0,0,3
+"IGZIST",3,"Bind","defuse",0,10,1,0
+"IGZIST",3,"Bind","kills (post-plant)",10,0,0,5
+"IGZIST",3,"Bind","kills (pre-plant)",1,9,2,2
+"IGZIST",3,"Bind","time",0,1,0,0
+"IGZIST",8,"Breeze","bomb",2,0,0,2
+"IGZIST",8,"Breeze","defuse",0,17,11,0
+"IGZIST",8,"Breeze","kills (post-plant)",16,0,0,6
+"IGZIST",8,"Breeze","kills (pre-plant)",6,8,14,1
+"IGZIST",8,"Breeze","time",0,0,2,0
+"IGZIST",9,"Fracture","bomb",7,0,0,3
+"IGZIST",9,"Fracture","defuse",0,7,6,0
+"IGZIST",9,"Fracture","kills (post-plant)",6,0,0,8
+"IGZIST",9,"Fracture","kills (pre-plant)",1,6,7,1
+"IGZIST",9,"Fracture","time",0,0,1,0
+"IGZIST",7,"Haven","bomb",0,0,0,4
+"IGZIST",7,"Haven","defuse",0,3,6,0
+"IGZIST",7,"Haven","kills (post-plant)",6,0,0,13
+"IGZIST",7,"Haven","kills (pre-plant)",6,8,19,4
+"IGZIST",7,"Haven","time",0,0,1,0
+"IGZIST",4,"Icebox","defuse",0,4,1,0
+"IGZIST",4,"Icebox","kills (post-plant)",2,0,0,1
+"IGZIST",4,"Icebox","kills (pre-plant)",1,4,0,3
+"IGZIST",4,"Icebox","time",0,1,0,0
+"IGZIST",2,"Split","bomb",0,0,0,2
+"IGZIST",2,"Split","defuse",0,3,5,0
+"IGZIST",2,"Split","kills (post-plant)",6,0,0,3
+"IGZIST",2,"Split","kills (pre-plant)",0,4,3,0
+"INGAMING Esports",1,"Ascent","bomb",0,0,0,5
+"INGAMING Esports",1,"Ascent","defuse",0,4,0,0
+"INGAMING Esports",1,"Ascent","kills (post-plant)",11,0,0,9
+"INGAMING Esports",1,"Ascent","kills (pre-plant)",0,4,4,4
+"INGAMING Esports",8,"Breeze","bomb",5,0,0,4
+"INGAMING Esports",8,"Breeze","defuse",0,9,5,0
+"INGAMING Esports",8,"Breeze","kills (post-plant)",10,0,0,10
+"INGAMING Esports",8,"Breeze","kills (pre-plant)",3,6,8,5
+"INGAMING Esports",8,"Breeze","time",0,1,0,0
+"INGAMING Esports",7,"Haven","bomb",2,0,0,2
+"INGAMING Esports",7,"Haven","defuse",0,3,1,0
+"INGAMING Esports",7,"Haven","kills (post-plant)",5,0,0,1
+"INGAMING Esports",7,"Haven","kills (pre-plant)",0,2,4,2
+"INGAMING Esports",7,"Haven","time",0,0,1,0
+"INGAMING Esports",4,"Icebox","bomb",7,0,0,4
+"INGAMING Esports",4,"Icebox","defuse",0,8,9,0
+"INGAMING Esports",4,"Icebox","kills (post-plant)",9,0,0,12
+"INGAMING Esports",4,"Icebox","kills (pre-plant)",2,7,6,6
+"INGAMING Esports",4,"Icebox","time",0,1,0,0
+"Insomnia",3,"Bind","defuse",0,2,0,0
+"Insomnia",3,"Bind","kills (post-plant)",4,0,0,5
+"Insomnia",3,"Bind","kills (pre-plant)",1,3,1,1
+"Insomnia",3,"Bind","time",0,2,0,0
+"Insomnia",9,"Fracture","bomb",3,0,0,0
+"Insomnia",9,"Fracture","defuse",0,3,3,0
+"Insomnia",9,"Fracture","kills (post-plant)",4,0,0,4
+"Insomnia",9,"Fracture","kills (pre-plant)",0,2,3,1
+"Insomnia",4,"Icebox","bomb",0,0,0,1
+"Insomnia",4,"Icebox","defuse",0,0,1,0
+"Insomnia",4,"Icebox","kills (post-plant)",0,0,0,9
+"Insomnia",4,"Icebox","kills (pre-plant)",0,2,0,1
+"IXA",8,"Breeze","bomb",5,0,0,2
+"IXA",8,"Breeze","defuse",0,2,2,0
+"IXA",8,"Breeze","kills (post-plant)",4,0,0,4
+"IXA",8,"Breeze","kills (pre-plant)",0,0,2,0
+"IXA",8,"Breeze","time",0,1,0,0
+"IXA",7,"Haven","bomb",1,0,0,1
+"IXA",7,"Haven","defuse",0,6,6,0
+"IXA",7,"Haven","kills (post-plant)",4,0,0,6
+"IXA",7,"Haven","kills (pre-plant)",0,8,5,5
+"IXA",7,"Haven","time",0,1,2,0
+"IXA",4,"Icebox","bomb",0,0,0,1
+"IXA",4,"Icebox","defuse",0,0,1,0
+"IXA",4,"Icebox","kills (post-plant)",0,0,0,7
+"IXA",4,"Icebox","kills (pre-plant)",0,2,0,3
+"IXA",2,"Split","bomb",2,0,0,0
+"IXA",2,"Split","defuse",0,3,4,0
+"IXA",2,"Split","kills (post-plant)",4,0,0,3
+"IXA",2,"Split","kills (pre-plant)",0,2,3,0
+"IXA",2,"Split","time",0,1,0,0
+"Jadeite",1,"Ascent","bomb",1,0,0,1
+"Jadeite",1,"Ascent","defuse",0,7,4,0
+"Jadeite",1,"Ascent","kills (post-plant)",10,0,0,5
+"Jadeite",1,"Ascent","kills (pre-plant)",2,4,6,3
+"Jadeite",3,"Bind","bomb",1,0,0,4
+"Jadeite",3,"Bind","defuse",0,5,4,0
+"Jadeite",3,"Bind","kills (post-plant)",9,0,0,7
+"Jadeite",3,"Bind","kills (pre-plant)",4,4,2,3
+"Jadeite",3,"Bind","time",0,1,0,0
+"Jadeite",7,"Haven","bomb",1,0,0,4
+"Jadeite",7,"Haven","defuse",0,4,7,0
+"Jadeite",7,"Haven","kills (post-plant)",3,0,0,9
+"Jadeite",7,"Haven","kills (pre-plant)",3,12,6,3
+"Jadeite",7,"Haven","time",0,0,1,0
+"Jadeite",4,"Icebox","bomb",1,0,0,7
+"Jadeite",4,"Icebox","defuse",0,6,8,0
+"Jadeite",4,"Icebox","kills (post-plant)",20,0,0,22
+"Jadeite",4,"Icebox","kills (pre-plant)",4,8,9,3
+"Jadeite",2,"Split","bomb",1,0,0,0
+"Jadeite",2,"Split","defuse",0,2,1,0
+"Jadeite",2,"Split","kills (post-plant)",5,0,0,6
+"Jadeite",2,"Split","kills (pre-plant)",0,4,1,1
+"K2 eSports",1,"Ascent","bomb",0,0,0,1
+"K2 eSports",1,"Ascent","defuse",0,1,2,0
+"K2 eSports",1,"Ascent","kills (post-plant)",1,0,0,6
+"K2 eSports",1,"Ascent","kills (pre-plant)",1,5,3,0
+"K2 eSports",4,"Icebox","bomb",2,0,0,0
+"K2 eSports",4,"Icebox","defuse",0,3,0,0
+"K2 eSports",4,"Icebox","kills (post-plant)",4,0,0,5
+"K2 eSports",4,"Icebox","kills (pre-plant)",0,3,0,2
+"Keyd Stars",1,"Ascent","bomb",8,0,0,10
+"Keyd Stars",1,"Ascent","defuse",0,10,19,0
+"Keyd Stars",1,"Ascent","kills (post-plant)",31,0,0,38
+"Keyd Stars",1,"Ascent","kills (pre-plant)",5,43,37,6
+"Keyd Stars",1,"Ascent","time",0,3,3,0
+"Keyd Stars",3,"Bind","bomb",7,0,0,4
+"Keyd Stars",3,"Bind","defuse",0,9,16,0
+"Keyd Stars",3,"Bind","kills (post-plant)",19,0,0,21
+"Keyd Stars",3,"Bind","kills (pre-plant)",7,13,21,4
+"Keyd Stars",3,"Bind","time",0,3,0,0
+"Keyd Stars",8,"Breeze","bomb",22,0,0,16
+"Keyd Stars",8,"Breeze","defuse",0,29,28,0
+"Keyd Stars",8,"Breeze","kills (post-plant)",41,0,0,43
+"Keyd Stars",8,"Breeze","kills (pre-plant)",12,39,44,19
+"Keyd Stars",8,"Breeze","time",0,4,4,0
+"Keyd Stars",9,"Fracture","bomb",4,0,0,7
+"Keyd Stars",9,"Fracture","defuse",0,11,8,0
+"Keyd Stars",9,"Fracture","kills (post-plant)",17,0,0,15
+"Keyd Stars",9,"Fracture","kills (pre-plant)",2,13,21,4
+"Keyd Stars",9,"Fracture","time",0,5,0,0
+"Keyd Stars",7,"Haven","bomb",14,0,0,10
+"Keyd Stars",7,"Haven","defuse",0,15,20,0
+"Keyd Stars",7,"Haven","kills (post-plant)",22,0,0,22
+"Keyd Stars",7,"Haven","kills (pre-plant)",13,25,25,5
+"Keyd Stars",7,"Haven","time",0,2,1,0
+"Keyd Stars",4,"Icebox","bomb",11,0,0,13
+"Keyd Stars",4,"Icebox","defuse",0,29,39,0
+"Keyd Stars",4,"Icebox","kills (post-plant)",41,0,0,48
+"Keyd Stars",4,"Icebox","kills (pre-plant)",13,31,35,10
+"Keyd Stars",4,"Icebox","time",0,2,3,0
+"Keyd Stars",2,"Split","bomb",4,0,0,7
+"Keyd Stars",2,"Split","defuse",0,10,8,0
+"Keyd Stars",2,"Split","kills (post-plant)",14,0,0,20
+"Keyd Stars",2,"Split","kills (pre-plant)",3,20,27,3
+"Keyd Stars",2,"Split","time",0,1,2,0
+"Knights",1,"Ascent","bomb",4,0,0,4
+"Knights",1,"Ascent","defuse",0,14,13,0
+"Knights",1,"Ascent","kills (post-plant)",14,0,0,16
+"Knights",1,"Ascent","kills (pre-plant)",7,23,10,4
+"Knights",1,"Ascent","time",0,1,2,0
+"Knights",3,"Bind","bomb",2,0,0,5
+"Knights",3,"Bind","defuse",0,8,9,0
+"Knights",3,"Bind","kills (post-plant)",12,0,0,21
+"Knights",3,"Bind","kills (pre-plant)",2,11,7,2
+"Knights",3,"Bind","time",0,0,1,0
+"Knights",8,"Breeze","bomb",4,0,0,2
+"Knights",8,"Breeze","defuse",0,4,6,0
+"Knights",8,"Breeze","kills (post-plant)",11,0,0,11
+"Knights",8,"Breeze","kills (pre-plant)",3,4,9,4
+"Knights",8,"Breeze","time",0,2,0,0
+"Knights",7,"Haven","bomb",4,0,0,2
+"Knights",7,"Haven","defuse",0,9,8,0
+"Knights",7,"Haven","kills (post-plant)",7,0,0,8
+"Knights",7,"Haven","kills (pre-plant)",1,7,7,5
+"Knights",4,"Icebox","bomb",0,0,0,1
+"Knights",4,"Icebox","defuse",0,3,2,0
+"Knights",4,"Icebox","kills (post-plant)",0,0,0,7
+"Knights",4,"Icebox","kills (pre-plant)",0,0,0,2
+"Knights",2,"Split","bomb",0,0,0,2
+"Knights",2,"Split","defuse",0,1,2,0
+"Knights",2,"Split","kills (post-plant)",2,0,0,3
+"Knights",2,"Split","kills (pre-plant)",1,5,1,2
+"Knights",2,"Split","time",0,0,2,0
+"KRÜ Esports",1,"Ascent","bomb",13,0,0,6
+"KRÜ Esports",1,"Ascent","defuse",0,25,17,0
+"KRÜ Esports",1,"Ascent","kills (post-plant)",41,0,0,42
+"KRÜ Esports",1,"Ascent","kills (pre-plant)",7,50,65,17
+"KRÜ Esports",1,"Ascent","time",0,10,4,0
+"KRÜ Esports",3,"Bind","bomb",14,0,0,5
+"KRÜ Esports",3,"Bind","defuse",0,17,24,0
+"KRÜ Esports",3,"Bind","kills (post-plant)",32,0,0,23
+"KRÜ Esports",3,"Bind","kills (pre-plant)",7,22,50,9
+"KRÜ Esports",3,"Bind","time",0,5,7,0
+"KRÜ Esports",8,"Breeze","bomb",11,0,0,3
+"KRÜ Esports",8,"Breeze","defuse",0,15,15,0
+"KRÜ Esports",8,"Breeze","kills (post-plant)",29,0,0,26
+"KRÜ Esports",8,"Breeze","kills (pre-plant)",11,20,35,9
+"KRÜ Esports",8,"Breeze","time",0,3,0,0
+"KRÜ Esports",9,"Fracture","bomb",4,0,0,8
+"KRÜ Esports",9,"Fracture","defuse",0,17,5,0
+"KRÜ Esports",9,"Fracture","kills (post-plant)",18,0,0,21
+"KRÜ Esports",9,"Fracture","kills (pre-plant)",5,11,20,6
+"KRÜ Esports",9,"Fracture","time",0,1,5,0
+"KRÜ Esports",7,"Haven","bomb",15,0,0,19
+"KRÜ Esports",7,"Haven","defuse",0,26,40,0
+"KRÜ Esports",7,"Haven","kills (post-plant)",50,0,0,53
+"KRÜ Esports",7,"Haven","kills (pre-plant)",12,41,78,16
+"KRÜ Esports",7,"Haven","time",0,5,6,0
+"KRÜ Esports",4,"Icebox","bomb",10,0,0,4
+"KRÜ Esports",4,"Icebox","defuse",0,24,15,0
+"KRÜ Esports",4,"Icebox","kills (post-plant)",36,0,0,29
+"KRÜ Esports",4,"Icebox","kills (pre-plant)",10,16,25,8
+"KRÜ Esports",4,"Icebox","time",0,2,4,0
+"KRÜ Esports",2,"Split","bomb",8,0,0,3
+"KRÜ Esports",2,"Split","defuse",0,6,9,0
+"KRÜ Esports",2,"Split","kills (post-plant)",29,0,0,19
+"KRÜ Esports",2,"Split","kills (pre-plant)",8,26,29,11
+"KRÜ Esports",2,"Split","time",0,2,5,0
+"LDN UTD",1,"Ascent","bomb",4,0,0,3
+"LDN UTD",1,"Ascent","defuse",0,5,3,0
+"LDN UTD",1,"Ascent","kills (post-plant)",13,0,0,16
+"LDN UTD",1,"Ascent","kills (pre-plant)",0,8,5,3
+"LDN UTD",1,"Ascent","time",0,1,0,0
+"LDN UTD",8,"Breeze","bomb",0,0,0,1
+"LDN UTD",8,"Breeze","defuse",0,1,5,0
+"LDN UTD",8,"Breeze","kills (post-plant)",1,0,0,9
+"LDN UTD",8,"Breeze","kills (pre-plant)",4,1,4,5
+"LDN UTD",9,"Fracture","bomb",1,0,0,2
+"LDN UTD",9,"Fracture","defuse",0,1,1,0
+"LDN UTD",9,"Fracture","kills (post-plant)",1,0,0,6
+"LDN UTD",9,"Fracture","kills (pre-plant)",0,2,1,1
+"LDN UTD",9,"Fracture","time",0,1,1,0
+"LDN UTD",7,"Haven","bomb",7,0,0,2
+"LDN UTD",7,"Haven","defuse",0,12,3,0
+"LDN UTD",7,"Haven","kills (post-plant)",18,0,0,16
+"LDN UTD",7,"Haven","kills (pre-plant)",2,7,12,2
+"LDN UTD",7,"Haven","time",0,1,1,0
+"LDN UTD",2,"Split","bomb",1,0,0,1
+"LDN UTD",2,"Split","defuse",0,3,3,0
+"LDN UTD",2,"Split","kills (post-plant)",3,0,0,5
+"LDN UTD",2,"Split","kills (pre-plant)",1,14,10,3
+"LDN UTD",2,"Split","time",0,0,2,0
+"Leviatán",1,"Ascent","bomb",18,0,0,15
+"Leviatán",1,"Ascent","defuse",0,16,32,0
+"Leviatán",1,"Ascent","kills (post-plant)",50,0,0,35
+"Leviatán",1,"Ascent","kills (pre-plant)",19,41,64,9
+"Leviatán",1,"Ascent","time",0,13,6,0
+"Leviatán",3,"Bind","bomb",8,0,0,13
+"Leviatán",3,"Bind","defuse",0,25,20,0
+"Leviatán",3,"Bind","kills (post-plant)",36,0,0,26
+"Leviatán",3,"Bind","kills (pre-plant)",11,24,42,8
+"Leviatán",3,"Bind","time",0,6,5,0
+"Leviatán",8,"Breeze","bomb",6,0,0,9
+"Leviatán",8,"Breeze","defuse",0,13,16,0
+"Leviatán",8,"Breeze","kills (post-plant)",42,0,0,28
+"Leviatán",8,"Breeze","kills (pre-plant)",12,29,33,13
+"Leviatán",8,"Breeze","time",0,3,1,0
+"Leviatán",9,"Fracture","bomb",2,0,0,7
+"Leviatán",9,"Fracture","defuse",0,10,8,0
+"Leviatán",9,"Fracture","kills (post-plant)",10,0,0,8
+"Leviatán",9,"Fracture","kills (pre-plant)",2,3,18,6
+"Leviatán",9,"Fracture","time",0,3,2,0
+"Leviatán",7,"Haven","bomb",20,0,0,32
+"Leviatán",7,"Haven","defuse",0,30,42,0
+"Leviatán",7,"Haven","kills (post-plant)",65,0,0,51
+"Leviatán",7,"Haven","kills (pre-plant)",27,33,50,14
+"Leviatán",7,"Haven","time",0,12,4,0
+"Leviatán",4,"Icebox","bomb",2,0,0,12
+"Leviatán",4,"Icebox","defuse",0,13,23,0
+"Leviatán",4,"Icebox","kills (post-plant)",17,0,0,16
+"Leviatán",4,"Icebox","kills (pre-plant)",6,14,27,6
+"Leviatán",4,"Icebox","time",0,2,1,0
+"Leviatán",2,"Split","bomb",8,0,0,8
+"Leviatán",2,"Split","defuse",0,11,8,0
+"Leviatán",2,"Split","kills (post-plant)",23,0,0,21
+"Leviatán",2,"Split","kills (pre-plant)",13,23,30,6
+"Leviatán",2,"Split","time",0,5,6,0
+"Liberty",1,"Ascent","bomb",1,0,0,6
+"Liberty",1,"Ascent","defuse",0,5,7,0
+"Liberty",1,"Ascent","kills (post-plant)",9,0,0,4
+"Liberty",1,"Ascent","kills (pre-plant)",4,10,12,5
+"Liberty",1,"Ascent","time",0,1,2,0
+"Liberty",3,"Bind","bomb",2,0,0,6
+"Liberty",3,"Bind","defuse",0,8,6,0
+"Liberty",3,"Bind","kills (post-plant)",14,0,0,10
+"Liberty",3,"Bind","kills (pre-plant)",2,12,8,4
+"Liberty",3,"Bind","time",0,2,1,0
+"Liberty",8,"Breeze","bomb",0,0,0,1
+"Liberty",8,"Breeze","defuse",0,3,2,0
+"Liberty",8,"Breeze","kills (post-plant)",5,0,0,4
+"Liberty",8,"Breeze","kills (pre-plant)",1,3,1,2
+"Liberty",9,"Fracture","bomb",6,0,0,4
+"Liberty",9,"Fracture","defuse",0,8,6,0
+"Liberty",9,"Fracture","kills (post-plant)",6,0,0,7
+"Liberty",9,"Fracture","kills (pre-plant)",2,13,8,4
+"Liberty",9,"Fracture","time",0,1,2,0
+"Liberty",7,"Haven","bomb",1,0,0,4
+"Liberty",7,"Haven","defuse",0,9,6,0
+"Liberty",7,"Haven","kills (post-plant)",3,0,0,13
+"Liberty",7,"Haven","kills (pre-plant)",1,9,11,1
+"Liberty",7,"Haven","time",0,0,1,0
+"Liberty",4,"Icebox","bomb",2,0,0,6
+"Liberty",4,"Icebox","defuse",0,3,5,0
+"Liberty",4,"Icebox","kills (post-plant)",10,0,0,5
+"Liberty",4,"Icebox","kills (pre-plant)",3,2,4,4
+"Liberty",2,"Split","bomb",9,0,0,4
+"Liberty",2,"Split","defuse",0,8,10,0
+"Liberty",2,"Split","kills (post-plant)",9,0,0,12
+"Liberty",2,"Split","kills (pre-plant)",3,18,11,7
+"Liberty",2,"Split","time",0,4,3,0
+"looking for a name",3,"Bind","bomb",0,0,0,1
+"looking for a name",3,"Bind","defuse",0,4,3,0
+"looking for a name",3,"Bind","kills (post-plant)",6,0,0,4
+"looking for a name",3,"Bind","kills (pre-plant)",0,2,1,2
+"looking for a name",2,"Split","defuse",0,0,1,0
+"looking for a name",2,"Split","kills (post-plant)",0,0,0,8
+"looking for a name",2,"Split","kills (pre-plant)",1,3,1,2
+"Los Grandes",1,"Ascent","bomb",4,0,0,4
+"Los Grandes",1,"Ascent","defuse",0,5,1,0
+"Los Grandes",1,"Ascent","kills (post-plant)",5,0,0,8
+"Los Grandes",1,"Ascent","kills (pre-plant)",0,2,5,3
+"Los Grandes",1,"Ascent","time",0,0,1,0
+"Los Grandes",3,"Bind","bomb",3,0,0,1
+"Los Grandes",3,"Bind","defuse",0,6,5,0
+"Los Grandes",3,"Bind","kills (post-plant)",5,0,0,10
+"Los Grandes",3,"Bind","kills (pre-plant)",1,5,1,3
+"Los Grandes",3,"Bind","time",0,1,0,0
+"Los Grandes",8,"Breeze","bomb",2,0,0,6
+"Los Grandes",8,"Breeze","defuse",0,7,3,0
+"Los Grandes",8,"Breeze","kills (post-plant)",3,0,0,16
+"Los Grandes",8,"Breeze","kills (pre-plant)",0,6,6,4
+"Los Grandes",8,"Breeze","time",0,0,1,0
+"Los Grandes",9,"Fracture","bomb",2,0,0,1
+"Los Grandes",9,"Fracture","defuse",0,2,1,0
+"Los Grandes",9,"Fracture","kills (post-plant)",4,0,0,6
+"Los Grandes",9,"Fracture","kills (pre-plant)",0,2,1,0
+"Los Grandes",9,"Fracture","time",0,2,1,0
+"Los Grandes",7,"Haven","bomb",8,0,0,1
+"Los Grandes",7,"Haven","defuse",0,3,9,0
+"Los Grandes",7,"Haven","kills (post-plant)",5,0,0,10
+"Los Grandes",7,"Haven","kills (pre-plant)",3,7,13,2
+"Los Grandes",7,"Haven","time",0,2,1,0
+"Los Grandes",4,"Icebox","bomb",5,0,0,6
+"Los Grandes",4,"Icebox","defuse",0,14,12,0
+"Los Grandes",4,"Icebox","kills (post-plant)",19,0,0,14
+"Los Grandes",4,"Icebox","kills (pre-plant)",2,13,14,3
+"Los Grandes",4,"Icebox","time",0,4,2,0
+"Los Grandes",2,"Split","bomb",2,0,0,1
+"Los Grandes",2,"Split","defuse",0,9,2,0
+"Los Grandes",2,"Split","kills (post-plant)",10,0,0,13
+"Los Grandes",2,"Split","kills (pre-plant)",2,9,12,0
+"Los Grandes",2,"Split","time",0,4,3,0
+"LOUD",1,"Ascent","bomb",18,0,0,4
+"LOUD",1,"Ascent","defuse",0,27,27,0
+"LOUD",1,"Ascent","kills (post-plant)",48,0,0,28
+"LOUD",1,"Ascent","kills (pre-plant)",43,46,79,7
+"LOUD",1,"Ascent","time",0,2,4,0
+"LOUD",3,"Bind","bomb",18,0,0,14
+"LOUD",3,"Bind","defuse",0,14,21,0
+"LOUD",3,"Bind","kills (post-plant)",41,0,0,26
+"LOUD",3,"Bind","kills (pre-plant)",14,24,24,6
+"LOUD",3,"Bind","time",0,2,4,0
+"LOUD",8,"Breeze","bomb",13,0,0,8
+"LOUD",8,"Breeze","defuse",0,15,28,0
+"LOUD",8,"Breeze","kills (post-plant)",41,0,0,33
+"LOUD",8,"Breeze","kills (pre-plant)",17,15,34,4
+"LOUD",8,"Breeze","time",0,3,0,0
+"LOUD",9,"Fracture","bomb",8,0,0,7
+"LOUD",9,"Fracture","defuse",0,14,26,0
+"LOUD",9,"Fracture","kills (post-plant)",32,0,0,31
+"LOUD",9,"Fracture","kills (pre-plant)",5,26,30,11
+"LOUD",9,"Fracture","time",0,5,8,0
+"LOUD",7,"Haven","bomb",10,0,0,2
+"LOUD",7,"Haven","defuse",0,10,18,0
+"LOUD",7,"Haven","kills (post-plant)",22,0,0,23
+"LOUD",7,"Haven","kills (pre-plant)",10,19,26,9
+"LOUD",7,"Haven","time",0,1,4,0
+"LOUD",4,"Icebox","bomb",10,0,0,7
+"LOUD",4,"Icebox","defuse",0,18,19,0
+"LOUD",4,"Icebox","kills (post-plant)",25,0,0,11
+"LOUD",4,"Icebox","kills (pre-plant)",6,17,28,6
+"LOUD",4,"Icebox","time",0,1,1,0
+"LOUD",10,"Pearl","kills (post-plant)",1,0,0,4
+"LOUD",10,"Pearl","kills (pre-plant)",2,6,0,0
+"LOUD",10,"Pearl","time",0,3,0,0
+"LOUD",2,"Split","bomb",6,0,0,2
+"LOUD",2,"Split","defuse",0,7,8,0
+"LOUD",2,"Split","kills (post-plant)",19,0,0,22
+"LOUD",2,"Split","kills (pre-plant)",4,11,13,3
+"LOUD",2,"Split","time",0,0,5,0
+"Luminosity Gaming",1,"Ascent","bomb",2,0,0,2
+"Luminosity Gaming",1,"Ascent","defuse",0,8,7,0
+"Luminosity Gaming",1,"Ascent","kills (post-plant)",7,0,0,14
+"Luminosity Gaming",1,"Ascent","kills (pre-plant)",1,11,4,3
+"Luminosity Gaming",1,"Ascent","time",0,1,0,0
+"Luminosity Gaming",3,"Bind","bomb",5,0,0,6
+"Luminosity Gaming",3,"Bind","defuse",0,17,12,0
+"Luminosity Gaming",3,"Bind","kills (post-plant)",22,0,0,15
+"Luminosity Gaming",3,"Bind","kills (pre-plant)",5,23,19,2
+"Luminosity Gaming",3,"Bind","time",0,1,1,0
+"Luminosity Gaming",8,"Breeze","bomb",7,0,0,4
+"Luminosity Gaming",8,"Breeze","defuse",0,14,22,0
+"Luminosity Gaming",8,"Breeze","kills (post-plant)",16,0,0,27
+"Luminosity Gaming",8,"Breeze","kills (pre-plant)",1,25,17,7
+"Luminosity Gaming",8,"Breeze","time",0,3,1,0
+"Luminosity Gaming",9,"Fracture","bomb",15,0,0,10
+"Luminosity Gaming",9,"Fracture","defuse",0,14,12,0
+"Luminosity Gaming",9,"Fracture","kills (post-plant)",23,0,0,26
+"Luminosity Gaming",9,"Fracture","kills (pre-plant)",8,20,22,8
+"Luminosity Gaming",9,"Fracture","time",0,2,1,0
+"Luminosity Gaming",7,"Haven","bomb",0,0,0,4
+"Luminosity Gaming",7,"Haven","defuse",0,1,1,0
+"Luminosity Gaming",7,"Haven","kills (post-plant)",0,0,0,13
+"Luminosity Gaming",7,"Haven","kills (pre-plant)",2,3,1,5
+"Luminosity Gaming",4,"Icebox","bomb",2,0,0,8
+"Luminosity Gaming",4,"Icebox","defuse",0,9,9,0
+"Luminosity Gaming",4,"Icebox","kills (post-plant)",10,0,0,20
+"Luminosity Gaming",4,"Icebox","kills (pre-plant)",10,4,7,4
+"Luminosity Gaming",4,"Icebox","time",0,2,1,0
+"Luminosity Gaming",2,"Split","bomb",4,0,0,0
+"Luminosity Gaming",2,"Split","defuse",0,7,13,0
+"Luminosity Gaming",2,"Split","kills (post-plant)",17,0,0,16
+"Luminosity Gaming",2,"Split","kills (pre-plant)",1,27,24,5
+"Luminosity Gaming",2,"Split","time",0,3,1,0
+"M3 Champions",1,"Ascent","bomb",4,0,0,8
+"M3 Champions",1,"Ascent","defuse",0,11,15,0
+"M3 Champions",1,"Ascent","kills (post-plant)",25,0,0,24
+"M3 Champions",1,"Ascent","kills (pre-plant)",9,26,29,3
+"M3 Champions",1,"Ascent","time",0,3,5,0
+"M3 Champions",3,"Bind","bomb",13,0,0,5
+"M3 Champions",3,"Bind","defuse",0,23,19,0
+"M3 Champions",3,"Bind","kills (post-plant)",34,0,0,27
+"M3 Champions",3,"Bind","kills (pre-plant)",11,22,35,5
+"M3 Champions",3,"Bind","time",0,8,2,0
+"M3 Champions",8,"Breeze","bomb",9,0,0,12
+"M3 Champions",8,"Breeze","defuse",0,23,23,0
+"M3 Champions",8,"Breeze","kills (post-plant)",38,0,0,23
+"M3 Champions",8,"Breeze","kills (pre-plant)",15,23,29,7
+"M3 Champions",8,"Breeze","time",0,7,2,0
+"M3 Champions",9,"Fracture","bomb",11,0,0,9
+"M3 Champions",9,"Fracture","defuse",0,14,16,0
+"M3 Champions",9,"Fracture","kills (post-plant)",24,0,0,20
+"M3 Champions",9,"Fracture","kills (pre-plant)",8,27,22,10
+"M3 Champions",9,"Fracture","time",0,4,4,0
+"M3 Champions",7,"Haven","bomb",2,0,0,3
+"M3 Champions",7,"Haven","defuse",0,3,1,0
+"M3 Champions",7,"Haven","kills (post-plant)",2,0,0,5
+"M3 Champions",7,"Haven","kills (pre-plant)",0,0,1,2
+"M3 Champions",4,"Icebox","bomb",16,0,0,8
+"M3 Champions",4,"Icebox","defuse",0,24,21,0
+"M3 Champions",4,"Icebox","kills (post-plant)",17,0,0,32
+"M3 Champions",4,"Icebox","kills (pre-plant)",4,14,20,7
+"M3 Champions",4,"Icebox","time",0,1,3,0
+"M3 Champions",2,"Split","bomb",1,0,0,1
+"M3 Champions",2,"Split","defuse",0,5,5,0
+"M3 Champions",2,"Split","kills (post-plant)",10,0,0,14
+"M3 Champions",2,"Split","kills (pre-plant)",3,14,23,2
+"M3 Champions",2,"Split","time",0,4,1,0
+"Made in Thailand",1,"Ascent","bomb",1,0,0,9
+"Made in Thailand",1,"Ascent","defuse",0,14,14,0
+"Made in Thailand",1,"Ascent","kills (post-plant)",16,0,0,20
+"Made in Thailand",1,"Ascent","kills (pre-plant)",5,9,15,8
+"Made in Thailand",1,"Ascent","time",0,5,1,0
+"Made in Thailand",3,"Bind","bomb",8,0,0,5
+"Made in Thailand",3,"Bind","defuse",0,11,14,0
+"Made in Thailand",3,"Bind","kills (post-plant)",25,0,0,18
+"Made in Thailand",3,"Bind","kills (pre-plant)",4,17,14,7
+"Made in Thailand",3,"Bind","time",0,3,0,0
+"Made in Thailand",8,"Breeze","bomb",3,0,0,5
+"Made in Thailand",8,"Breeze","defuse",0,11,6,0
+"Made in Thailand",8,"Breeze","kills (post-plant)",11,0,0,12
+"Made in Thailand",8,"Breeze","kills (pre-plant)",5,10,8,4
+"Made in Thailand",8,"Breeze","time",0,4,0,0
+"Made in Thailand",9,"Fracture","bomb",4,0,0,3
+"Made in Thailand",9,"Fracture","defuse",0,7,5,0
+"Made in Thailand",9,"Fracture","kills (post-plant)",11,0,0,18
+"Made in Thailand",9,"Fracture","kills (pre-plant)",11,9,14,4
+"Made in Thailand",9,"Fracture","time",0,0,2,0
+"Made in Thailand",7,"Haven","bomb",6,0,0,6
+"Made in Thailand",7,"Haven","defuse",0,14,15,0
+"Made in Thailand",7,"Haven","kills (post-plant)",25,0,0,20
+"Made in Thailand",7,"Haven","kills (pre-plant)",7,17,18,13
+"Made in Thailand",7,"Haven","time",0,3,1,0
+"Made in Thailand",4,"Icebox","bomb",0,0,0,3
+"Made in Thailand",4,"Icebox","defuse",0,9,5,0
+"Made in Thailand",4,"Icebox","kills (post-plant)",7,0,0,8
+"Made in Thailand",4,"Icebox","kills (pre-plant)",4,3,5,3
+"Made in Thailand",2,"Split","defuse",0,3,2,0
+"Made in Thailand",2,"Split","kills (post-plant)",2,0,0,0
+"Made in Thailand",2,"Split","kills (pre-plant)",1,4,7,0
+"Made in Thailand",2,"Split","time",0,2,1,0
+"Mariner",8,"Breeze","bomb",1,0,0,1
+"Mariner",8,"Breeze","defuse",0,2,0,0
+"Mariner",8,"Breeze","kills (post-plant)",2,0,0,5
+"Mariner",8,"Breeze","kills (pre-plant)",2,5,2,0
+"Mariner",8,"Breeze","time",0,0,1,0
+"Mariner",7,"Haven","kills (post-plant)",0,0,0,9
+"Mariner",7,"Haven","kills (pre-plant)",0,1,0,3
+"Maru Gaming",1,"Ascent","bomb",6,0,0,10
+"Maru Gaming",1,"Ascent","defuse",0,13,19,0
+"Maru Gaming",1,"Ascent","kills (post-plant)",30,0,0,27
+"Maru Gaming",1,"Ascent","kills (pre-plant)",11,35,27,14
+"Maru Gaming",1,"Ascent","time",0,4,1,0
+"Maru Gaming",3,"Bind","bomb",5,0,0,9
+"Maru Gaming",3,"Bind","defuse",0,9,19,0
+"Maru Gaming",3,"Bind","kills (post-plant)",28,0,0,34
+"Maru Gaming",3,"Bind","kills (pre-plant)",4,18,23,8
+"Maru Gaming",3,"Bind","time",0,0,3,0
+"Maru Gaming",8,"Breeze","bomb",8,0,0,5
+"Maru Gaming",8,"Breeze","defuse",0,25,23,0
+"Maru Gaming",8,"Breeze","kills (post-plant)",31,0,0,31
+"Maru Gaming",8,"Breeze","kills (pre-plant)",9,25,31,11
+"Maru Gaming",8,"Breeze","time",0,6,4,0
+"Maru Gaming",9,"Fracture","bomb",7,0,0,5
+"Maru Gaming",9,"Fracture","defuse",0,18,27,0
+"Maru Gaming",9,"Fracture","kills (post-plant)",29,0,0,31
+"Maru Gaming",9,"Fracture","kills (pre-plant)",14,34,39,17
+"Maru Gaming",9,"Fracture","time",0,6,1,0
+"Maru Gaming",7,"Haven","bomb",9,0,0,7
+"Maru Gaming",7,"Haven","defuse",0,15,22,0
+"Maru Gaming",7,"Haven","kills (post-plant)",25,0,0,39
+"Maru Gaming",7,"Haven","kills (pre-plant)",19,30,23,23
+"Maru Gaming",7,"Haven","time",0,2,1,0
+"Maru Gaming",2,"Split","bomb",7,0,0,2
+"Maru Gaming",2,"Split","defuse",0,15,13,0
+"Maru Gaming",2,"Split","kills (post-plant)",26,0,0,30
+"Maru Gaming",2,"Split","kills (pre-plant)",4,25,27,16
+"Maru Gaming",2,"Split","time",0,5,1,0
+"Meta Gaming",1,"Ascent","bomb",2,0,0,3
+"Meta Gaming",1,"Ascent","defuse",0,13,9,0
+"Meta Gaming",1,"Ascent","kills (post-plant)",11,0,0,10
+"Meta Gaming",1,"Ascent","kills (pre-plant)",2,21,8,4
+"Meta Gaming",1,"Ascent","time",0,0,1,0
+"Meta Gaming",3,"Bind","bomb",5,0,0,0
+"Meta Gaming",3,"Bind","defuse",0,3,2,0
+"Meta Gaming",3,"Bind","kills (post-plant)",1,0,0,7
+"Meta Gaming",3,"Bind","kills (pre-plant)",0,2,2,1
+"Meta Gaming",8,"Breeze","defuse",0,7,3,0
+"Meta Gaming",8,"Breeze","kills (post-plant)",0,0,0,3
+"Meta Gaming",8,"Breeze","kills (pre-plant)",1,3,6,0
+"Meta Gaming",7,"Haven","bomb",1,0,0,2
+"Meta Gaming",7,"Haven","defuse",0,5,2,0
+"Meta Gaming",7,"Haven","kills (post-plant)",3,0,0,14
+"Meta Gaming",7,"Haven","kills (pre-plant)",4,14,6,3
+"Meta Gaming",2,"Split","defuse",0,1,1,0
+"Meta Gaming",2,"Split","kills (post-plant)",2,0,0,5
+"Meta Gaming",2,"Split","kills (pre-plant)",2,5,4,2
+"MIBR",1,"Ascent","bomb",2,0,0,1
+"MIBR",1,"Ascent","defuse",0,2,3,0
+"MIBR",1,"Ascent","kills (post-plant)",1,0,0,10
+"MIBR",1,"Ascent","kills (pre-plant)",4,16,13,2
+"MIBR",1,"Ascent","time",0,4,1,0
+"MIBR",3,"Bind","bomb",5,0,0,5
+"MIBR",3,"Bind","defuse",0,5,11,0
+"MIBR",3,"Bind","kills (post-plant)",9,0,0,6
+"MIBR",3,"Bind","kills (pre-plant)",1,9,10,3
+"MIBR",3,"Bind","time",0,2,2,0
+"MIBR",8,"Breeze","bomb",0,0,0,1
+"MIBR",8,"Breeze","defuse",0,4,5,0
+"MIBR",8,"Breeze","kills (post-plant)",4,0,0,6
+"MIBR",8,"Breeze","kills (pre-plant)",3,8,5,1
+"MIBR",8,"Breeze","time",0,0,1,0
+"MIBR",9,"Fracture","bomb",5,0,0,10
+"MIBR",9,"Fracture","defuse",0,5,7,0
+"MIBR",9,"Fracture","kills (post-plant)",11,0,0,10
+"MIBR",9,"Fracture","kills (pre-plant)",3,15,17,0
+"MIBR",9,"Fracture","time",0,3,4,0
+"MIBR",7,"Haven","bomb",4,0,0,8
+"MIBR",7,"Haven","defuse",0,5,7,0
+"MIBR",7,"Haven","kills (post-plant)",6,0,0,7
+"MIBR",7,"Haven","kills (pre-plant)",2,13,7,2
+"MIBR",7,"Haven","time",0,2,2,0
+"MIBR",4,"Icebox","bomb",3,0,0,3
+"MIBR",4,"Icebox","defuse",0,5,7,0
+"MIBR",4,"Icebox","kills (post-plant)",16,0,0,9
+"MIBR",4,"Icebox","kills (pre-plant)",3,7,7,1
+"Movistar Optix",1,"Ascent","bomb",5,0,0,3
+"Movistar Optix",1,"Ascent","defuse",0,14,14,0
+"Movistar Optix",1,"Ascent","kills (post-plant)",24,0,0,34
+"Movistar Optix",1,"Ascent","kills (pre-plant)",11,28,28,11
+"Movistar Optix",1,"Ascent","time",0,0,2,0
+"Movistar Optix",3,"Bind","bomb",3,0,0,9
+"Movistar Optix",3,"Bind","defuse",0,12,9,0
+"Movistar Optix",3,"Bind","kills (post-plant)",35,0,0,27
+"Movistar Optix",3,"Bind","kills (pre-plant)",4,25,17,7
+"Movistar Optix",3,"Bind","time",0,2,1,0
+"Movistar Optix",9,"Fracture","bomb",2,0,0,0
+"Movistar Optix",9,"Fracture","defuse",0,5,2,0
+"Movistar Optix",9,"Fracture","kills (post-plant)",5,0,0,8
+"Movistar Optix",9,"Fracture","kills (pre-plant)",2,7,4,1
+"Movistar Optix",7,"Haven","bomb",3,0,0,4
+"Movistar Optix",7,"Haven","defuse",0,16,11,0
+"Movistar Optix",7,"Haven","kills (post-plant)",19,0,0,27
+"Movistar Optix",7,"Haven","kills (pre-plant)",7,32,17,9
+"Movistar Optix",7,"Haven","time",0,2,2,0
+"Movistar Optix",4,"Icebox","bomb",4,0,0,1
+"Movistar Optix",4,"Icebox","defuse",0,2,2,0
+"Movistar Optix",4,"Icebox","kills (post-plant)",9,0,0,11
+"Movistar Optix",4,"Icebox","kills (pre-plant)",2,6,2,3
+"Movistar Optix",4,"Icebox","time",0,0,1,0
+"Movistar Optix",2,"Split","defuse",0,2,2,0
+"Movistar Optix",2,"Split","kills (post-plant)",4,0,0,6
+"Movistar Optix",2,"Split","kills (pre-plant)",1,2,1,3
+"NAOS Esports",1,"Ascent","defuse",0,2,0,0
+"NAOS Esports",1,"Ascent","kills (post-plant)",3,0,0,4
+"NAOS Esports",1,"Ascent","kills (pre-plant)",1,6,0,1
+"NAOS Esports",3,"Bind","defuse",0,2,4,0
+"NAOS Esports",3,"Bind","kills (post-plant)",3,0,0,2
+"NAOS Esports",3,"Bind","kills (pre-plant)",1,5,5,1
+"NAOS Esports",3,"Bind","time",0,1,0,0
+"NAOS Esports",8,"Breeze","bomb",0,0,0,2
+"NAOS Esports",8,"Breeze","defuse",0,2,2,0
+"NAOS Esports",8,"Breeze","kills (post-plant)",0,0,0,4
+"NAOS Esports",8,"Breeze","kills (pre-plant)",1,3,2,2
+"NAOS Esports",7,"Haven","bomb",0,0,0,2
+"NAOS Esports",7,"Haven","defuse",0,0,2,0
+"NAOS Esports",7,"Haven","kills (post-plant)",4,0,0,3
+"NAOS Esports",7,"Haven","kills (pre-plant)",3,0,4,1
+"NAOS Esports",4,"Icebox","bomb",0,0,0,1
+"NAOS Esports",4,"Icebox","defuse",0,1,2,0
+"NAOS Esports",4,"Icebox","kills (post-plant)",0,0,0,4
+"NAOS Esports",4,"Icebox","kills (pre-plant)",0,5,3,2
+"NAOS Esports",2,"Split","bomb",1,0,0,0
+"NAOS Esports",2,"Split","defuse",0,3,3,0
+"NAOS Esports",2,"Split","kills (post-plant)",2,0,0,5
+"NAOS Esports",2,"Split","kills (pre-plant)",1,4,4,0
+"NAOS Esports",2,"Split","time",0,1,0,0
+"Natus Vincere",1,"Ascent","bomb",9,0,0,2
+"Natus Vincere",1,"Ascent","defuse",0,12,14,0
+"Natus Vincere",1,"Ascent","kills (post-plant)",29,0,0,25
+"Natus Vincere",1,"Ascent","kills (pre-plant)",6,19,15,5
+"Natus Vincere",1,"Ascent","time",0,6,2,0
+"Natus Vincere",3,"Bind","bomb",5,0,0,11
+"Natus Vincere",3,"Bind","defuse",0,8,14,0
+"Natus Vincere",3,"Bind","kills (post-plant)",23,0,0,17
+"Natus Vincere",3,"Bind","kills (pre-plant)",9,20,21,8
+"Natus Vincere",3,"Bind","time",0,3,4,0
+"Natus Vincere",8,"Breeze","bomb",2,0,0,5
+"Natus Vincere",8,"Breeze","defuse",0,14,6,0
+"Natus Vincere",8,"Breeze","kills (post-plant)",13,0,0,15
+"Natus Vincere",8,"Breeze","kills (pre-plant)",2,9,9,8
+"Natus Vincere",8,"Breeze","time",0,1,3,0
+"Natus Vincere",9,"Fracture","bomb",2,0,0,1
+"Natus Vincere",9,"Fracture","defuse",0,2,2,0
+"Natus Vincere",9,"Fracture","kills (post-plant)",7,0,0,13
+"Natus Vincere",9,"Fracture","kills (pre-plant)",1,7,4,3
+"Natus Vincere",9,"Fracture","time",0,0,1,0
+"Natus Vincere",7,"Haven","bomb",9,0,0,6
+"Natus Vincere",7,"Haven","defuse",0,21,14,0
+"Natus Vincere",7,"Haven","kills (post-plant)",24,0,0,19
+"Natus Vincere",7,"Haven","kills (pre-plant)",2,20,17,9
+"Natus Vincere",7,"Haven","time",0,2,9,0
+"Natus Vincere",4,"Icebox","bomb",7,0,0,5
+"Natus Vincere",4,"Icebox","defuse",0,23,14,0
+"Natus Vincere",4,"Icebox","kills (post-plant)",18,0,0,18
+"Natus Vincere",4,"Icebox","kills (pre-plant)",5,21,13,5
+"Natus Vincere",4,"Icebox","time",0,1,5,0
+"Natus Vincere",2,"Split","bomb",6,0,0,6
+"Natus Vincere",2,"Split","defuse",0,3,7,0
+"Natus Vincere",2,"Split","kills (post-plant)",12,0,0,13
+"Natus Vincere",2,"Split","kills (pre-plant)",0,16,6,3
+"Natus Vincere",2,"Split","time",0,1,4,0
+"Next eSports",3,"Bind","bomb",0,0,0,2
+"Next eSports",3,"Bind","defuse",0,6,3,0
+"Next eSports",3,"Bind","kills (post-plant)",4,0,0,1
+"Next eSports",3,"Bind","kills (pre-plant)",0,1,2,3
+"Next eSports",3,"Bind","time",0,0,1,0
+"Next eSports",8,"Breeze","bomb",0,0,0,3
+"Next eSports",8,"Breeze","defuse",0,3,1,0
+"Next eSports",8,"Breeze","kills (post-plant)",1,0,0,3
+"Next eSports",8,"Breeze","kills (pre-plant)",0,3,4,1
+"Next eSports",7,"Haven","defuse",0,5,2,0
+"Next eSports",7,"Haven","kills (post-plant)",3,0,0,5
+"Next eSports",7,"Haven","kills (pre-plant)",1,2,4,1
+"Next eSports",4,"Icebox","defuse",0,4,2,0
+"Next eSports",4,"Icebox","kills (post-plant)",2,0,0,3
+"Next eSports",4,"Icebox","kills (pre-plant)",0,4,0,0
+"Next eSports",4,"Icebox","time",0,2,0,0
+"Ninjas in Pyjamas",1,"Ascent","bomb",12,0,0,7
+"Ninjas in Pyjamas",1,"Ascent","defuse",0,25,14,0
+"Ninjas in Pyjamas",1,"Ascent","kills (post-plant)",43,0,0,37
+"Ninjas in Pyjamas",1,"Ascent","kills (pre-plant)",12,43,49,14
+"Ninjas in Pyjamas",1,"Ascent","time",0,2,4,0
+"Ninjas in Pyjamas",3,"Bind","bomb",1,0,0,5
+"Ninjas in Pyjamas",3,"Bind","defuse",0,9,3,0
+"Ninjas in Pyjamas",3,"Bind","kills (post-plant)",5,0,0,12
+"Ninjas in Pyjamas",3,"Bind","kills (pre-plant)",3,8,7,5
+"Ninjas in Pyjamas",3,"Bind","time",0,0,1,0
+"Ninjas in Pyjamas",8,"Breeze","bomb",12,0,0,8
+"Ninjas in Pyjamas",8,"Breeze","defuse",0,25,20,0
+"Ninjas in Pyjamas",8,"Breeze","kills (post-plant)",28,0,0,32
+"Ninjas in Pyjamas",8,"Breeze","kills (pre-plant)",12,32,29,16
+"Ninjas in Pyjamas",8,"Breeze","time",0,1,4,0
+"Ninjas in Pyjamas",9,"Fracture","bomb",10,0,0,12
+"Ninjas in Pyjamas",9,"Fracture","defuse",0,13,18,0
+"Ninjas in Pyjamas",9,"Fracture","kills (post-plant)",28,0,0,23
+"Ninjas in Pyjamas",9,"Fracture","kills (pre-plant)",11,19,29,8
+"Ninjas in Pyjamas",9,"Fracture","time",0,4,1,0
+"Ninjas in Pyjamas",7,"Haven","bomb",13,0,0,12
+"Ninjas in Pyjamas",7,"Haven","defuse",0,20,22,0
+"Ninjas in Pyjamas",7,"Haven","kills (post-plant)",30,0,0,20
+"Ninjas in Pyjamas",7,"Haven","kills (pre-plant)",8,34,24,13
+"Ninjas in Pyjamas",7,"Haven","time",0,1,2,0
+"Ninjas in Pyjamas",4,"Icebox","bomb",14,0,0,13
+"Ninjas in Pyjamas",4,"Icebox","defuse",0,30,23,0
+"Ninjas in Pyjamas",4,"Icebox","kills (post-plant)",51,0,0,53
+"Ninjas in Pyjamas",4,"Icebox","kills (pre-plant)",12,39,51,18
+"Ninjas in Pyjamas",4,"Icebox","time",0,1,3,0
+"Ninjas in Pyjamas",2,"Split","bomb",10,0,0,13
+"Ninjas in Pyjamas",2,"Split","defuse",0,13,16,0
+"Ninjas in Pyjamas",2,"Split","kills (post-plant)",44,0,0,23
+"Ninjas in Pyjamas",2,"Split","kills (pre-plant)",11,22,34,6
+"Ninjas in Pyjamas",2,"Split","time",0,1,1,0
+"No Namers",1,"Ascent","defuse",0,3,7,0
+"No Namers",1,"Ascent","kills (post-plant)",7,0,0,6
+"No Namers",1,"Ascent","kills (pre-plant)",0,11,7,1
+"No Namers",7,"Haven","bomb",1,0,0,3
+"No Namers",7,"Haven","defuse",0,6,1,0
+"No Namers",7,"Haven","kills (post-plant)",0,0,0,4
+"No Namers",7,"Haven","kills (pre-plant)",2,10,2,3
+"No Namers",7,"Haven","time",0,0,1,0
+"No Namers",4,"Icebox","bomb",2,0,0,0
+"No Namers",4,"Icebox","defuse",0,1,3,0
+"No Namers",4,"Icebox","kills (post-plant)",3,0,0,4
+"No Namers",4,"Icebox","kills (pre-plant)",0,6,3,2
+"NORTHEPTION",1,"Ascent","bomb",4,0,0,6
+"NORTHEPTION",1,"Ascent","defuse",0,24,20,0
+"NORTHEPTION",1,"Ascent","kills (post-plant)",39,0,0,31
+"NORTHEPTION",1,"Ascent","kills (pre-plant)",10,25,35,14
+"NORTHEPTION",1,"Ascent","time",0,2,3,0
+"NORTHEPTION",3,"Bind","bomb",5,0,0,7
+"NORTHEPTION",3,"Bind","defuse",0,13,9,0
+"NORTHEPTION",3,"Bind","kills (post-plant)",21,0,0,26
+"NORTHEPTION",3,"Bind","kills (pre-plant)",2,14,23,3
+"NORTHEPTION",3,"Bind","time",0,1,2,0
+"NORTHEPTION",8,"Breeze","bomb",3,0,0,1
+"NORTHEPTION",8,"Breeze","defuse",0,4,5,0
+"NORTHEPTION",8,"Breeze","kills (post-plant)",9,0,0,4
+"NORTHEPTION",8,"Breeze","kills (pre-plant)",1,6,6,3
+"NORTHEPTION",8,"Breeze","time",0,1,0,0
+"NORTHEPTION",9,"Fracture","bomb",5,0,0,3
+"NORTHEPTION",9,"Fracture","defuse",0,9,8,0
+"NORTHEPTION",9,"Fracture","kills (post-plant)",28,0,0,20
+"NORTHEPTION",9,"Fracture","kills (pre-plant)",7,13,14,7
+"NORTHEPTION",9,"Fracture","time",0,2,2,0
+"NORTHEPTION",7,"Haven","bomb",12,0,0,8
+"NORTHEPTION",7,"Haven","defuse",0,28,19,0
+"NORTHEPTION",7,"Haven","kills (post-plant)",26,0,0,24
+"NORTHEPTION",7,"Haven","kills (pre-plant)",10,29,25,13
+"NORTHEPTION",7,"Haven","time",0,2,1,0
+"NORTHEPTION",4,"Icebox","bomb",0,0,0,1
+"NORTHEPTION",4,"Icebox","defuse",0,2,4,0
+"NORTHEPTION",4,"Icebox","kills (post-plant)",6,0,0,6
+"NORTHEPTION",4,"Icebox","kills (pre-plant)",3,9,12,0
+"NORTHEPTION",4,"Icebox","time",0,0,1,0
+"NORTHEPTION",2,"Split","bomb",1,0,0,3
+"NORTHEPTION",2,"Split","defuse",0,2,5,0
+"NORTHEPTION",2,"Split","kills (post-plant)",17,0,0,17
+"NORTHEPTION",2,"Split","kills (pre-plant)",4,16,15,2
+"NORTHEPTION",2,"Split","time",0,1,3,0
+"NRG Esports",1,"Ascent","bomb",5,0,0,8
+"NRG Esports",1,"Ascent","defuse",0,9,7,0
+"NRG Esports",1,"Ascent","kills (post-plant)",13,0,0,12
+"NRG Esports",1,"Ascent","kills (pre-plant)",5,11,13,3
+"NRG Esports",1,"Ascent","time",0,1,2,0
+"NRG Esports",3,"Bind","bomb",5,0,0,12
+"NRG Esports",3,"Bind","defuse",0,17,13,0
+"NRG Esports",3,"Bind","kills (post-plant)",18,0,0,32
+"NRG Esports",3,"Bind","kills (pre-plant)",4,25,25,6
+"NRG Esports",3,"Bind","time",0,0,3,0
+"NRG Esports",8,"Breeze","bomb",7,0,0,7
+"NRG Esports",8,"Breeze","defuse",0,10,12,0
+"NRG Esports",8,"Breeze","kills (post-plant)",14,0,0,23
+"NRG Esports",8,"Breeze","kills (pre-plant)",6,15,7,2
+"NRG Esports",8,"Breeze","time",0,2,0,0
+"NRG Esports",9,"Fracture","bomb",3,0,0,3
+"NRG Esports",9,"Fracture","defuse",0,7,7,0
+"NRG Esports",9,"Fracture","kills (post-plant)",14,0,0,17
+"NRG Esports",9,"Fracture","kills (pre-plant)",5,12,11,4
+"NRG Esports",9,"Fracture","time",0,0,2,0
+"NRG Esports",7,"Haven","bomb",5,0,0,12
+"NRG Esports",7,"Haven","defuse",0,16,24,0
+"NRG Esports",7,"Haven","kills (post-plant)",18,0,0,19
+"NRG Esports",7,"Haven","kills (pre-plant)",9,13,17,11
+"NRG Esports",7,"Haven","time",0,2,2,0
+"NRG Esports",4,"Icebox","bomb",2,0,0,8
+"NRG Esports",4,"Icebox","defuse",0,27,24,0
+"NRG Esports",4,"Icebox","kills (post-plant)",22,0,0,26
+"NRG Esports",4,"Icebox","kills (pre-plant)",17,28,17,9
+"NRG Esports",4,"Icebox","time",0,2,5,0
+"NRG Esports",2,"Split","bomb",2,0,0,4
+"NRG Esports",2,"Split","defuse",0,6,10,0
+"NRG Esports",2,"Split","kills (post-plant)",9,0,0,10
+"NRG Esports",2,"Split","kills (pre-plant)",2,9,11,0
+"NRG Esports",2,"Split","time",0,1,1,0
+"Oasis Gaming",1,"Ascent","defuse",0,2,0,0
+"Oasis Gaming",1,"Ascent","kills (post-plant)",1,0,0,0
+"Oasis Gaming",1,"Ascent","kills (pre-plant)",1,8,0,3
+"Oasis Gaming",3,"Bind","bomb",0,0,0,1
+"Oasis Gaming",3,"Bind","defuse",0,3,2,0
+"Oasis Gaming",3,"Bind","kills (post-plant)",1,0,0,1
+"Oasis Gaming",3,"Bind","kills (pre-plant)",0,5,4,3
+"Oasis Gaming",3,"Bind","time",0,0,1,0
+"Oasis Gaming",8,"Breeze","bomb",1,0,0,0
+"Oasis Gaming",8,"Breeze","defuse",0,0,1,0
+"Oasis Gaming",8,"Breeze","kills (post-plant)",0,0,0,7
+"Oasis Gaming",8,"Breeze","kills (pre-plant)",2,5,3,1
+"Oasis Gaming",4,"Icebox","kills (post-plant)",5,0,0,5
+"Oasis Gaming",4,"Icebox","kills (pre-plant)",1,5,1,2
+"Oasis Gaming",4,"Icebox","time",0,1,0,0
+"Oblivion Force",1,"Ascent","bomb",2,0,0,2
+"Oblivion Force",1,"Ascent","defuse",0,4,4,0
+"Oblivion Force",1,"Ascent","kills (post-plant)",6,0,0,6
+"Oblivion Force",1,"Ascent","kills (pre-plant)",1,11,6,3
+"Oblivion Force",1,"Ascent","time",0,0,1,0
+"Oblivion Force",4,"Icebox","bomb",3,0,0,2
+"Oblivion Force",4,"Icebox","defuse",0,5,5,0
+"Oblivion Force",4,"Icebox","kills (post-plant)",4,0,0,9
+"Oblivion Force",4,"Icebox","kills (pre-plant)",3,4,3,4
+"Oblivion Force",4,"Icebox","time",0,2,1,0
+"OG LDN UTD",1,"Ascent","bomb",3,0,0,7
+"OG LDN UTD",1,"Ascent","defuse",0,4,11,0
+"OG LDN UTD",1,"Ascent","kills (post-plant)",15,0,0,9
+"OG LDN UTD",1,"Ascent","kills (pre-plant)",4,10,12,7
+"OG LDN UTD",1,"Ascent","time",0,4,0,0
+"OG LDN UTD",3,"Bind","bomb",2,0,0,4
+"OG LDN UTD",3,"Bind","defuse",0,3,7,0
+"OG LDN UTD",3,"Bind","kills (post-plant)",2,0,0,15
+"OG LDN UTD",3,"Bind","kills (pre-plant)",0,15,5,2
+"OG LDN UTD",3,"Bind","time",0,0,3,0
+"OG LDN UTD",8,"Breeze","bomb",6,0,0,6
+"OG LDN UTD",8,"Breeze","defuse",0,5,12,0
+"OG LDN UTD",8,"Breeze","kills (post-plant)",13,0,0,13
+"OG LDN UTD",8,"Breeze","kills (pre-plant)",4,8,6,3
+"OG LDN UTD",8,"Breeze","time",0,2,1,0
+"OG LDN UTD",9,"Fracture","bomb",4,0,0,4
+"OG LDN UTD",9,"Fracture","defuse",0,5,7,0
+"OG LDN UTD",9,"Fracture","kills (post-plant)",9,0,0,6
+"OG LDN UTD",9,"Fracture","kills (pre-plant)",1,9,5,4
+"OG LDN UTD",9,"Fracture","time",0,0,2,0
+"OG LDN UTD",7,"Haven","bomb",1,0,0,5
+"OG LDN UTD",7,"Haven","defuse",0,13,12,0
+"OG LDN UTD",7,"Haven","kills (post-plant)",20,0,0,8
+"OG LDN UTD",7,"Haven","kills (pre-plant)",5,20,8,7
+"OG LDN UTD",7,"Haven","time",0,1,1,0
+"OG LDN UTD",4,"Icebox","bomb",1,0,0,7
+"OG LDN UTD",4,"Icebox","defuse",0,5,9,0
+"OG LDN UTD",4,"Icebox","kills (post-plant)",8,0,0,17
+"OG LDN UTD",4,"Icebox","kills (pre-plant)",1,8,3,2
+"OG LDN UTD",2,"Split","defuse",0,3,4,0
+"OG LDN UTD",2,"Split","kills (post-plant)",4,0,0,2
+"OG LDN UTD",2,"Split","kills (pre-plant)",0,6,4,3
+"Onic Esports",1,"Ascent","bomb",7,0,0,8
+"Onic Esports",1,"Ascent","defuse",0,7,11,0
+"Onic Esports",1,"Ascent","kills (post-plant)",25,0,0,14
+"Onic Esports",1,"Ascent","kills (pre-plant)",11,18,23,9
+"Onic Esports",1,"Ascent","time",0,2,1,0
+"Onic Esports",3,"Bind","bomb",3,0,0,3
+"Onic Esports",3,"Bind","defuse",0,9,8,0
+"Onic Esports",3,"Bind","kills (post-plant)",7,0,0,12
+"Onic Esports",3,"Bind","kills (pre-plant)",2,12,9,3
+"Onic Esports",3,"Bind","time",0,0,1,0
+"Onic Esports",8,"Breeze","bomb",13,0,0,8
+"Onic Esports",8,"Breeze","defuse",0,15,20,0
+"Onic Esports",8,"Breeze","kills (post-plant)",30,0,0,24
+"Onic Esports",8,"Breeze","kills (pre-plant)",7,23,19,11
+"Onic Esports",8,"Breeze","time",0,2,2,0
+"Onic Esports",9,"Fracture","bomb",4,0,0,5
+"Onic Esports",9,"Fracture","defuse",0,10,12,0
+"Onic Esports",9,"Fracture","kills (post-plant)",18,0,0,19
+"Onic Esports",9,"Fracture","kills (pre-plant)",8,17,16,12
+"Onic Esports",9,"Fracture","time",0,2,2,0
+"Onic Esports",7,"Haven","bomb",4,0,0,6
+"Onic Esports",7,"Haven","defuse",0,11,13,0
+"Onic Esports",7,"Haven","kills (post-plant)",13,0,0,12
+"Onic Esports",7,"Haven","kills (pre-plant)",6,20,25,1
+"Onic Esports",7,"Haven","time",0,1,2,0
+"Onic Esports",4,"Icebox","bomb",11,0,0,9
+"Onic Esports",4,"Icebox","defuse",0,15,28,0
+"Onic Esports",4,"Icebox","kills (post-plant)",27,0,0,29
+"Onic Esports",4,"Icebox","kills (pre-plant)",12,29,20,13
+"Onic Esports",4,"Icebox","time",0,3,0,0
+"Onic Esports",2,"Split","bomb",1,0,0,0
+"Onic Esports",2,"Split","defuse",0,2,4,0
+"Onic Esports",2,"Split","kills (post-plant)",2,0,0,3
+"Onic Esports",2,"Split","kills (pre-plant)",0,4,1,3
+"Onic Esports",2,"Split","time",0,1,1,0
+"On Sla2ers",1,"Ascent","bomb",2,0,0,9
+"On Sla2ers",1,"Ascent","defuse",0,15,28,0
+"On Sla2ers",1,"Ascent","kills (post-plant)",22,0,0,26
+"On Sla2ers",1,"Ascent","kills (pre-plant)",5,25,42,3
+"On Sla2ers",1,"Ascent","time",0,1,3,0
+"On Sla2ers",3,"Bind","bomb",23,0,0,7
+"On Sla2ers",3,"Bind","defuse",0,16,25,0
+"On Sla2ers",3,"Bind","kills (post-plant)",52,0,0,28
+"On Sla2ers",3,"Bind","kills (pre-plant)",19,23,26,2
+"On Sla2ers",3,"Bind","time",0,3,3,0
+"On Sla2ers",8,"Breeze","bomb",8,0,0,12
+"On Sla2ers",8,"Breeze","defuse",0,13,21,0
+"On Sla2ers",8,"Breeze","kills (post-plant)",26,0,0,21
+"On Sla2ers",8,"Breeze","kills (pre-plant)",8,12,15,2
+"On Sla2ers",8,"Breeze","time",0,2,5,0
+"On Sla2ers",9,"Fracture","bomb",5,0,0,5
+"On Sla2ers",9,"Fracture","defuse",0,9,7,0
+"On Sla2ers",9,"Fracture","kills (post-plant)",14,0,0,16
+"On Sla2ers",9,"Fracture","kills (pre-plant)",4,13,5,3
+"On Sla2ers",9,"Fracture","time",0,1,1,0
+"On Sla2ers",7,"Haven","bomb",18,0,0,8
+"On Sla2ers",7,"Haven","defuse",0,13,22,0
+"On Sla2ers",7,"Haven","kills (post-plant)",36,0,0,20
+"On Sla2ers",7,"Haven","kills (pre-plant)",10,22,37,8
+"On Sla2ers",7,"Haven","time",0,2,2,0
+"On Sla2ers",4,"Icebox","bomb",6,0,0,3
+"On Sla2ers",4,"Icebox","defuse",0,17,9,0
+"On Sla2ers",4,"Icebox","kills (post-plant)",25,0,0,17
+"On Sla2ers",4,"Icebox","kills (pre-plant)",2,22,11,4
+"On Sla2ers",4,"Icebox","time",0,0,2,0
+"On Sla2ers",2,"Split","bomb",4,0,0,12
+"On Sla2ers",2,"Split","defuse",0,10,10,0
+"On Sla2ers",2,"Split","kills (post-plant)",10,0,0,17
+"On Sla2ers",2,"Split","kills (pre-plant)",6,15,10,4
+"On Sla2ers",2,"Split","time",0,1,4,0
+"OpTic Gaming",1,"Ascent","bomb",12,0,0,20
+"OpTic Gaming",1,"Ascent","defuse",0,33,50,0
+"OpTic Gaming",1,"Ascent","kills (post-plant)",72,0,0,54
+"OpTic Gaming",1,"Ascent","kills (pre-plant)",19,95,92,30
+"OpTic Gaming",1,"Ascent","time",0,6,9,0
+"OpTic Gaming",3,"Bind","bomb",22,0,0,16
+"OpTic Gaming",3,"Bind","defuse",0,31,40,0
+"OpTic Gaming",3,"Bind","kills (post-plant)",81,0,0,43
+"OpTic Gaming",3,"Bind","kills (pre-plant)",13,52,82,14
+"OpTic Gaming",3,"Bind","time",0,8,6,0
+"OpTic Gaming",8,"Breeze","bomb",11,0,0,10
+"OpTic Gaming",8,"Breeze","defuse",0,26,27,0
+"OpTic Gaming",8,"Breeze","kills (post-plant)",36,0,0,27
+"OpTic Gaming",8,"Breeze","kills (pre-plant)",5,33,32,8
+"OpTic Gaming",8,"Breeze","time",0,2,2,0
+"OpTic Gaming",9,"Fracture","bomb",18,0,0,14
+"OpTic Gaming",9,"Fracture","defuse",0,29,35,0
+"OpTic Gaming",9,"Fracture","kills (post-plant)",58,0,0,45
+"OpTic Gaming",9,"Fracture","kills (pre-plant)",19,44,45,21
+"OpTic Gaming",9,"Fracture","time",0,4,8,0
+"OpTic Gaming",7,"Haven","bomb",12,0,0,19
+"OpTic Gaming",7,"Haven","defuse",0,34,24,0
+"OpTic Gaming",7,"Haven","kills (post-plant)",67,0,0,56
+"OpTic Gaming",7,"Haven","kills (pre-plant)",29,41,38,27
+"OpTic Gaming",7,"Haven","time",0,1,4,0
+"OpTic Gaming",4,"Icebox","bomb",10,0,0,18
+"OpTic Gaming",4,"Icebox","defuse",0,26,22,0
+"OpTic Gaming",4,"Icebox","kills (post-plant)",40,0,0,41
+"OpTic Gaming",4,"Icebox","kills (pre-plant)",13,35,36,14
+"OpTic Gaming",4,"Icebox","time",0,2,2,0
+"OpTic Gaming",10,"Pearl","bomb",3,0,0,1
+"OpTic Gaming",10,"Pearl","defuse",0,1,2,0
+"OpTic Gaming",10,"Pearl","kills (post-plant)",9,0,0,3
+"OpTic Gaming",10,"Pearl","kills (pre-plant)",0,1,9,3
+"OpTic Gaming",10,"Pearl","time",0,2,3,0
+"OpTic Gaming",2,"Split","bomb",4,0,0,7
+"OpTic Gaming",2,"Split","defuse",0,25,15,0
+"OpTic Gaming",2,"Split","kills (post-plant)",37,0,0,29
+"OpTic Gaming",2,"Split","kills (pre-plant)",9,36,47,13
+"OpTic Gaming",2,"Split","time",0,4,7,0
+"ORDER",1,"Ascent","bomb",2,0,0,0
+"ORDER",1,"Ascent","defuse",0,5,7,0
+"ORDER",1,"Ascent","kills (post-plant)",8,0,0,9
+"ORDER",1,"Ascent","kills (pre-plant)",9,10,32,9
+"ORDER",1,"Ascent","time",0,0,3,0
+"ORDER",3,"Bind","bomb",0,0,0,2
+"ORDER",3,"Bind","defuse",0,1,2,0
+"ORDER",3,"Bind","kills (post-plant)",2,0,0,6
+"ORDER",3,"Bind","kills (pre-plant)",0,4,2,0
+"ORDER",8,"Breeze","bomb",2,0,0,3
+"ORDER",8,"Breeze","defuse",0,8,5,0
+"ORDER",8,"Breeze","kills (post-plant)",17,0,0,11
+"ORDER",8,"Breeze","kills (pre-plant)",4,11,15,4
+"ORDER",8,"Breeze","time",0,1,0,0
+"ORDER",9,"Fracture","bomb",0,0,0,2
+"ORDER",9,"Fracture","defuse",0,1,3,0
+"ORDER",9,"Fracture","kills (post-plant)",3,0,0,6
+"ORDER",9,"Fracture","kills (pre-plant)",1,7,9,3
+"ORDER",9,"Fracture","time",0,0,1,0
+"ORDER",7,"Haven","bomb",1,0,0,2
+"ORDER",7,"Haven","defuse",0,5,2,0
+"ORDER",7,"Haven","kills (post-plant)",4,0,0,7
+"ORDER",7,"Haven","kills (pre-plant)",5,6,5,6
+"ORDER",4,"Icebox","defuse",0,1,2,0
+"ORDER",4,"Icebox","kills (post-plant)",3,0,0,1
+"ORDER",4,"Icebox","kills (pre-plant)",0,7,0,3
+"ORDER",4,"Icebox","time",0,1,0,0
+"ORDER",2,"Split","defuse",0,0,3,0
+"ORDER",2,"Split","kills (post-plant)",2,0,0,1
+"ORDER",2,"Split","kills (pre-plant)",0,0,6,0
+"ORDER",2,"Split","time",0,0,2,0
+"PAMPAS",1,"Ascent","bomb",1,0,0,2
+"PAMPAS",1,"Ascent","defuse",0,8,5,0
+"PAMPAS",1,"Ascent","kills (post-plant)",9,0,0,10
+"PAMPAS",1,"Ascent","kills (pre-plant)",1,12,11,9
+"PAMPAS",1,"Ascent","time",0,0,2,0
+"PAMPAS",3,"Bind","bomb",1,0,0,0
+"PAMPAS",3,"Bind","defuse",0,3,0,0
+"PAMPAS",3,"Bind","kills (post-plant)",1,0,0,4
+"PAMPAS",3,"Bind","kills (pre-plant)",2,5,0,1
+"PAMPAS",8,"Breeze","bomb",2,0,0,1
+"PAMPAS",8,"Breeze","defuse",0,1,2,0
+"PAMPAS",8,"Breeze","kills (post-plant)",2,0,0,1
+"PAMPAS",8,"Breeze","kills (pre-plant)",2,5,5,0
+"PAMPAS",7,"Haven","bomb",5,0,0,3
+"PAMPAS",7,"Haven","defuse",0,16,11,0
+"PAMPAS",7,"Haven","kills (post-plant)",13,0,0,13
+"PAMPAS",7,"Haven","kills (pre-plant)",2,12,11,6
+"PAMPAS",7,"Haven","time",0,0,2,0
+"PAMPAS",2,"Split","bomb",2,0,0,1
+"PAMPAS",2,"Split","defuse",0,2,2,0
+"PAMPAS",2,"Split","kills (post-plant)",2,0,0,4
+"PAMPAS",2,"Split","kills (pre-plant)",0,3,3,0
+"PAMPAS",2,"Split","time",0,3,0,0
+"Paper Rex",1,"Ascent","bomb",5,0,0,4
+"Paper Rex",1,"Ascent","defuse",0,9,9,0
+"Paper Rex",1,"Ascent","kills (post-plant)",24,0,0,20
+"Paper Rex",1,"Ascent","kills (pre-plant)",11,18,18,4
+"Paper Rex",1,"Ascent","time",0,2,1,0
+"Paper Rex",3,"Bind","bomb",9,0,0,6
+"Paper Rex",3,"Bind","defuse",0,18,14,0
+"Paper Rex",3,"Bind","kills (post-plant)",44,0,0,34
+"Paper Rex",3,"Bind","kills (pre-plant)",9,22,31,12
+"Paper Rex",3,"Bind","time",0,2,2,0
+"Paper Rex",8,"Breeze","bomb",3,0,0,8
+"Paper Rex",8,"Breeze","defuse",0,10,8,0
+"Paper Rex",8,"Breeze","kills (post-plant)",15,0,0,8
+"Paper Rex",8,"Breeze","kills (pre-plant)",10,10,8,8
+"Paper Rex",8,"Breeze","time",0,1,1,0
+"Paper Rex",9,"Fracture","bomb",4,0,0,9
+"Paper Rex",9,"Fracture","defuse",0,13,21,0
+"Paper Rex",9,"Fracture","kills (post-plant)",31,0,0,24
+"Paper Rex",9,"Fracture","kills (pre-plant)",16,16,39,13
+"Paper Rex",9,"Fracture","time",0,2,0,0
+"Paper Rex",7,"Haven","bomb",14,0,0,6
+"Paper Rex",7,"Haven","defuse",0,30,34,0
+"Paper Rex",7,"Haven","kills (post-plant)",60,0,0,41
+"Paper Rex",7,"Haven","kills (pre-plant)",16,34,42,15
+"Paper Rex",7,"Haven","time",0,2,0,0
+"Paper Rex",4,"Icebox","bomb",5,0,0,4
+"Paper Rex",4,"Icebox","defuse",0,10,8,0
+"Paper Rex",4,"Icebox","kills (post-plant)",51,0,0,34
+"Paper Rex",4,"Icebox","kills (pre-plant)",21,16,26,9
+"Paper Rex",4,"Icebox","time",0,1,0,0
+"Paper Rex",10,"Pearl","bomb",4,0,0,1
+"Paper Rex",10,"Pearl","defuse",0,5,2,0
+"Paper Rex",10,"Pearl","kills (post-plant)",9,0,0,1
+"Paper Rex",10,"Pearl","kills (pre-plant)",1,5,9,3
+"Paper Rex",10,"Pearl","time",0,0,1,0
+"Paper Rex",2,"Split","bomb",6,0,0,6
+"Paper Rex",2,"Split","defuse",0,13,6,0
+"Paper Rex",2,"Split","kills (post-plant)",28,0,0,18
+"Paper Rex",2,"Split","kills (pre-plant)",10,21,26,8
+"Paper Rex",2,"Split","time",0,2,1,0
+"Pentagon",3,"Bind","bomb",0,0,0,1
+"Pentagon",3,"Bind","kills (post-plant)",0,0,0,10
+"Pentagon",3,"Bind","kills (pre-plant)",0,2,1,0
+"Pentagon",8,"Breeze","defuse",0,3,5,0
+"Pentagon",8,"Breeze","kills (post-plant)",5,0,0,8
+"Pentagon",8,"Breeze","kills (pre-plant)",3,6,10,0
+"Pentagon",8,"Breeze","time",0,0,1,0
+"Pentagon",7,"Haven","bomb",1,0,0,1
+"Pentagon",7,"Haven","defuse",0,3,4,0
+"Pentagon",7,"Haven","kills (post-plant)",5,0,0,7
+"Pentagon",7,"Haven","kills (pre-plant)",1,3,1,0
+"Pentagon",2,"Split","bomb",0,0,0,1
+"Pentagon",2,"Split","kills (post-plant)",9,0,0,8
+"Pentagon",2,"Split","kills (pre-plant)",0,4,3,1
+"Persija Esports",1,"Ascent","bomb",3,0,0,1
+"Persija Esports",1,"Ascent","defuse",0,0,1,0
+"Persija Esports",1,"Ascent","kills (post-plant)",4,0,0,6
+"Persija Esports",1,"Ascent","kills (pre-plant)",1,4,1,2
+"Persija Esports",1,"Ascent","time",0,0,1,0
+"Persija Esports",3,"Bind","bomb",3,0,0,1
+"Persija Esports",3,"Bind","defuse",0,9,8,0
+"Persija Esports",3,"Bind","kills (post-plant)",19,0,0,17
+"Persija Esports",3,"Bind","kills (pre-plant)",1,10,21,2
+"Persija Esports",3,"Bind","time",0,1,0,0
+"Persija Esports",8,"Breeze","bomb",6,0,0,1
+"Persija Esports",8,"Breeze","defuse",0,7,6,0
+"Persija Esports",8,"Breeze","kills (post-plant)",8,0,0,10
+"Persija Esports",8,"Breeze","kills (pre-plant)",2,6,11,4
+"Persija Esports",8,"Breeze","time",0,0,1,0
+"Persija Esports",9,"Fracture","bomb",1,0,0,1
+"Persija Esports",9,"Fracture","defuse",0,2,4,0
+"Persija Esports",9,"Fracture","kills (post-plant)",14,0,0,11
+"Persija Esports",9,"Fracture","kills (pre-plant)",2,7,3,5
+"Persija Esports",9,"Fracture","time",0,0,1,0
+"Persija Esports",7,"Haven","bomb",5,0,0,6
+"Persija Esports",7,"Haven","defuse",0,11,12,0
+"Persija Esports",7,"Haven","kills (post-plant)",14,0,0,19
+"Persija Esports",7,"Haven","kills (pre-plant)",5,21,14,8
+"Persija Esports",4,"Icebox","defuse",0,1,1,0
+"Persija Esports",4,"Icebox","kills (post-plant)",3,0,0,7
+"Persija Esports",4,"Icebox","kills (pre-plant)",0,2,1,3
+"Rebellion Arts",1,"Ascent","bomb",2,0,0,0
+"Rebellion Arts",1,"Ascent","defuse",0,3,0,0
+"Rebellion Arts",1,"Ascent","kills (post-plant)",5,0,0,8
+"Rebellion Arts",1,"Ascent","kills (pre-plant)",0,2,2,0
+"Rebellion Arts",4,"Icebox","defuse",0,3,0,0
+"Rebellion Arts",4,"Icebox","kills (post-plant)",2,0,0,2
+"Rebellion Arts",4,"Icebox","kills (pre-plant)",1,5,0,2
+"Rebellion Arts",4,"Icebox","time",0,1,0,0
+"Reignite",3,"Bind","bomb",2,0,0,1
+"Reignite",3,"Bind","defuse",0,3,4,0
+"Reignite",3,"Bind","kills (post-plant)",12,0,0,3
+"Reignite",3,"Bind","kills (pre-plant)",1,5,4,3
+"Reignite",3,"Bind","time",0,1,1,0
+"Reignite",8,"Breeze","bomb",2,0,0,1
+"Reignite",8,"Breeze","kills (post-plant)",2,0,0,4
+"Reignite",8,"Breeze","kills (pre-plant)",1,7,2,1
+"Reignite",8,"Breeze","time",0,0,1,0
+"Reignite",9,"Fracture","bomb",0,0,0,1
+"Reignite",9,"Fracture","defuse",0,2,2,0
+"Reignite",9,"Fracture","kills (post-plant)",1,0,0,5
+"Reignite",9,"Fracture","kills (pre-plant)",0,2,1,2
+"Reignite",9,"Fracture","time",0,1,1,0
+"Reignite",7,"Haven","bomb",2,0,0,2
+"Reignite",7,"Haven","defuse",0,8,2,0
+"Reignite",7,"Haven","kills (post-plant)",14,0,0,12
+"Reignite",7,"Haven","kills (pre-plant)",1,11,8,6
+"Reignite",4,"Icebox","defuse",0,6,4,0
+"Reignite",4,"Icebox","kills (post-plant)",7,0,0,6
+"Reignite",4,"Icebox","kills (pre-plant)",1,5,3,2
+"Reignite",4,"Icebox","time",0,1,0,0
+"Reignite",2,"Split","bomb",1,0,0,1
+"Reignite",2,"Split","defuse",0,3,1,0
+"Reignite",2,"Split","kills (post-plant)",1,0,0,2
+"Reignite",2,"Split","kills (pre-plant)",0,6,1,0
+"Reignite",2,"Split","time",0,1,1,0
+"REJECT",1,"Ascent","bomb",2,0,0,4
+"REJECT",1,"Ascent","defuse",0,9,10,0
+"REJECT",1,"Ascent","kills (post-plant)",21,0,0,19
+"REJECT",1,"Ascent","kills (pre-plant)",4,18,14,5
+"REJECT",1,"Ascent","time",0,3,1,0
+"REJECT",3,"Bind","bomb",12,0,0,5
+"REJECT",3,"Bind","defuse",0,14,15,0
+"REJECT",3,"Bind","kills (post-plant)",20,0,0,32
+"REJECT",3,"Bind","kills (pre-plant)",10,14,19,9
+"REJECT",3,"Bind","time",0,5,3,0
+"REJECT",8,"Breeze","bomb",2,0,0,1
+"REJECT",8,"Breeze","defuse",0,0,5,0
+"REJECT",8,"Breeze","kills (post-plant)",4,0,0,4
+"REJECT",8,"Breeze","kills (pre-plant)",0,6,2,0
+"REJECT",9,"Fracture","bomb",0,0,0,1
+"REJECT",9,"Fracture","defuse",0,2,2,0
+"REJECT",9,"Fracture","kills (post-plant)",7,0,0,6
+"REJECT",9,"Fracture","kills (pre-plant)",0,3,0,1
+"REJECT",7,"Haven","bomb",7,0,0,5
+"REJECT",7,"Haven","defuse",0,10,15,0
+"REJECT",7,"Haven","kills (post-plant)",32,0,0,12
+"REJECT",7,"Haven","kills (pre-plant)",17,21,18,7
+"REJECT",7,"Haven","time",0,2,2,0
+"REJECT",4,"Icebox","bomb",3,0,0,5
+"REJECT",4,"Icebox","defuse",0,16,20,0
+"REJECT",4,"Icebox","kills (post-plant)",34,0,0,21
+"REJECT",4,"Icebox","kills (pre-plant)",16,12,19,6
+"REJECT",4,"Icebox","time",0,1,2,0
+"REJECT",2,"Split","defuse",0,2,1,0
+"REJECT",2,"Split","kills (post-plant)",0,0,0,5
+"REJECT",2,"Split","kills (pre-plant)",0,5,5,1
+"Rex Regum Qeon",1,"Ascent","bomb",1,0,0,0
+"Rex Regum Qeon",1,"Ascent","defuse",0,2,2,0
+"Rex Regum Qeon",1,"Ascent","kills (post-plant)",7,0,0,8
+"Rex Regum Qeon",1,"Ascent","kills (pre-plant)",1,3,2,2
+"Rex Regum Qeon",3,"Bind","bomb",0,0,0,2
+"Rex Regum Qeon",3,"Bind","defuse",0,1,3,0
+"Rex Regum Qeon",3,"Bind","kills (post-plant)",0,0,0,5
+"Rex Regum Qeon",3,"Bind","kills (pre-plant)",0,4,1,1
+"Rex Regum Qeon",8,"Breeze","bomb",1,0,0,0
+"Rex Regum Qeon",8,"Breeze","defuse",0,2,2,0
+"Rex Regum Qeon",8,"Breeze","kills (post-plant)",6,0,0,3
+"Rex Regum Qeon",8,"Breeze","kills (pre-plant)",0,3,2,5
+"Rex Regum Qeon",7,"Haven","bomb",1,0,0,3
+"Rex Regum Qeon",7,"Haven","defuse",0,6,4,0
+"Rex Regum Qeon",7,"Haven","kills (post-plant)",7,0,0,5
+"Rex Regum Qeon",7,"Haven","kills (pre-plant)",1,2,4,6
+"Rex Regum Qeon",4,"Icebox","defuse",0,4,0,0
+"Rex Regum Qeon",4,"Icebox","kills (post-plant)",0,0,0,3
+"Rex Regum Qeon",4,"Icebox","kills (pre-plant)",3,5,1,1
+"Rex Regum Qeon",4,"Icebox","time",0,0,1,0
+"Rex Regum Qeon",2,"Split","bomb",1,0,0,1
+"Rex Regum Qeon",2,"Split","defuse",0,4,4,0
+"Rex Regum Qeon",2,"Split","kills (post-plant)",12,0,0,2
+"Rex Regum Qeon",2,"Split","kills (pre-plant)",2,5,7,3
+"Rise",1,"Ascent","bomb",2,0,0,0
+"Rise",1,"Ascent","defuse",0,7,3,0
+"Rise",1,"Ascent","kills (post-plant)",4,0,0,6
+"Rise",1,"Ascent","kills (pre-plant)",1,6,12,3
+"Rise",3,"Bind","bomb",3,0,0,0
+"Rise",3,"Bind","defuse",0,10,5,0
+"Rise",3,"Bind","kills (post-plant)",9,0,0,15
+"Rise",3,"Bind","kills (pre-plant)",2,8,8,2
+"Rise",3,"Bind","time",0,1,2,0
+"Rise",8,"Breeze","bomb",1,0,0,3
+"Rise",8,"Breeze","defuse",0,1,1,0
+"Rise",8,"Breeze","kills (post-plant)",2,0,0,5
+"Rise",8,"Breeze","kills (pre-plant)",0,3,2,1
+"Rise",9,"Fracture","bomb",1,0,0,4
+"Rise",9,"Fracture","defuse",0,7,9,0
+"Rise",9,"Fracture","kills (post-plant)",6,0,0,13
+"Rise",9,"Fracture","kills (pre-plant)",4,8,4,6
+"Rise",9,"Fracture","time",0,1,0,0
+"Rise",7,"Haven","bomb",3,0,0,4
+"Rise",7,"Haven","defuse",0,9,1,0
+"Rise",7,"Haven","kills (post-plant)",9,0,0,6
+"Rise",7,"Haven","kills (pre-plant)",4,10,11,5
+"Rise",7,"Haven","time",0,1,0,0
+"SCARZ",1,"Ascent","bomb",2,0,0,2
+"SCARZ",1,"Ascent","defuse",0,7,9,0
+"SCARZ",1,"Ascent","kills (post-plant)",3,0,0,7
+"SCARZ",1,"Ascent","kills (pre-plant)",0,6,2,3
+"SCARZ",1,"Ascent","time",0,1,1,0
+"SCARZ",8,"Breeze","bomb",0,0,0,2
+"SCARZ",8,"Breeze","defuse",0,4,4,0
+"SCARZ",8,"Breeze","kills (post-plant)",6,0,0,2
+"SCARZ",8,"Breeze","kills (pre-plant)",0,2,3,1
+"SCARZ",7,"Haven","bomb",3,0,0,2
+"SCARZ",7,"Haven","defuse",0,3,4,0
+"SCARZ",7,"Haven","kills (post-plant)",3,0,0,5
+"SCARZ",7,"Haven","kills (pre-plant)",3,9,8,4
+"SCARZ",7,"Haven","time",0,0,1,0
+"SchwarzerLand",1,"Ascent","defuse",0,2,0,0
+"SchwarzerLand",1,"Ascent","kills (post-plant)",1,0,0,2
+"SchwarzerLand",1,"Ascent","kills (pre-plant)",0,9,0,0
+"SchwarzerLand",4,"Icebox","defuse",0,1,1,0
+"SchwarzerLand",4,"Icebox","kills (post-plant)",3,0,0,4
+"SchwarzerLand",4,"Icebox","kills (pre-plant)",0,8,3,0
+"Sengoku Gaming",1,"Ascent","bomb",1,0,0,0
+"Sengoku Gaming",1,"Ascent","defuse",0,2,0,0
+"Sengoku Gaming",1,"Ascent","kills (post-plant)",1,0,0,1
+"Sengoku Gaming",1,"Ascent","kills (pre-plant)",0,7,0,2
+"Sengoku Gaming",1,"Ascent","time",0,1,0,0
+"Sengoku Gaming",3,"Bind","bomb",2,0,0,0
+"Sengoku Gaming",3,"Bind","defuse",0,6,4,0
+"Sengoku Gaming",3,"Bind","kills (post-plant)",1,0,0,6
+"Sengoku Gaming",3,"Bind","kills (pre-plant)",1,1,2,0
+"Sengoku Gaming",8,"Breeze","bomb",0,0,0,3
+"Sengoku Gaming",8,"Breeze","defuse",0,5,2,0
+"Sengoku Gaming",8,"Breeze","kills (post-plant)",0,0,0,2
+"Sengoku Gaming",8,"Breeze","kills (pre-plant)",0,3,3,0
+"Sengoku Gaming",8,"Breeze","time",0,0,2,0
+"Sengoku Gaming",9,"Fracture","bomb",1,0,0,0
+"Sengoku Gaming",9,"Fracture","defuse",0,1,0,0
+"Sengoku Gaming",9,"Fracture","kills (post-plant)",6,0,0,1
+"Sengoku Gaming",9,"Fracture","kills (pre-plant)",2,2,4,0
+"Sengoku Gaming",7,"Haven","bomb",1,0,0,2
+"Sengoku Gaming",7,"Haven","defuse",0,9,8,0
+"Sengoku Gaming",7,"Haven","kills (post-plant)",8,0,0,7
+"Sengoku Gaming",7,"Haven","kills (pre-plant)",2,6,6,3
+"Sengoku Gaming",7,"Haven","time",0,2,1,0
+"Sengoku Gaming",4,"Icebox","bomb",2,0,0,5
+"Sengoku Gaming",4,"Icebox","defuse",0,7,15,0
+"Sengoku Gaming",4,"Icebox","kills (post-plant)",10,0,0,11
+"Sengoku Gaming",4,"Icebox","kills (pre-plant)",0,3,10,6
+"Sengoku Gaming",4,"Icebox","time",0,0,1,0
+"Sentinels",1,"Ascent","bomb",4,0,0,3
+"Sentinels",1,"Ascent","defuse",0,14,14,0
+"Sentinels",1,"Ascent","kills (post-plant)",10,0,0,27
+"Sentinels",1,"Ascent","kills (pre-plant)",5,26,19,9
+"Sentinels",1,"Ascent","time",0,1,2,0
+"Sentinels",3,"Bind","bomb",3,0,0,6
+"Sentinels",3,"Bind","defuse",0,17,16,0
+"Sentinels",3,"Bind","kills (post-plant)",22,0,0,16
+"Sentinels",3,"Bind","kills (pre-plant)",4,28,21,4
+"Sentinels",3,"Bind","time",0,3,0,0
+"Sentinels",8,"Breeze","bomb",3,0,0,4
+"Sentinels",8,"Breeze","defuse",0,13,11,0
+"Sentinels",8,"Breeze","kills (post-plant)",17,0,0,13
+"Sentinels",8,"Breeze","kills (pre-plant)",1,12,18,3
+"Sentinels",8,"Breeze","time",0,3,1,0
+"Sentinels",9,"Fracture","bomb",6,0,0,8
+"Sentinels",9,"Fracture","defuse",0,24,22,0
+"Sentinels",9,"Fracture","kills (post-plant)",30,0,0,38
+"Sentinels",9,"Fracture","kills (pre-plant)",9,28,30,16
+"Sentinels",9,"Fracture","time",0,2,1,0
+"Sentinels",7,"Haven","bomb",5,0,0,6
+"Sentinels",7,"Haven","defuse",0,21,20,0
+"Sentinels",7,"Haven","kills (post-plant)",25,0,0,29
+"Sentinels",7,"Haven","kills (pre-plant)",17,24,19,13
+"Sentinels",7,"Haven","time",0,1,0,0
+"Sentinels",4,"Icebox","bomb",5,0,0,4
+"Sentinels",4,"Icebox","defuse",0,9,9,0
+"Sentinels",4,"Icebox","kills (post-plant)",8,0,0,25
+"Sentinels",4,"Icebox","kills (pre-plant)",2,13,8,3
+"Sentinels",4,"Icebox","time",0,0,1,0
+"SETOUCHI ENLIFE",8,"Breeze","bomb",1,0,0,2
+"SETOUCHI ENLIFE",8,"Breeze","defuse",0,1,3,0
+"SETOUCHI ENLIFE",8,"Breeze","kills (post-plant)",2,0,0,6
+"SETOUCHI ENLIFE",8,"Breeze","kills (pre-plant)",1,2,0,1
+"SETOUCHI ENLIFE",8,"Breeze","time",0,1,0,0
+"SETOUCHI ENLIFE",4,"Icebox","defuse",0,4,0,0
+"SETOUCHI ENLIFE",4,"Icebox","kills (pre-plant)",1,6,0,2
+"SETOUCHI ENLIFE",4,"Icebox","time",0,1,0,0
+"Sharks Esports",1,"Ascent","bomb",3,0,0,2
+"Sharks Esports",1,"Ascent","defuse",0,1,1,0
+"Sharks Esports",1,"Ascent","kills (post-plant)",1,0,0,2
+"Sharks Esports",1,"Ascent","kills (pre-plant)",0,6,4,1
+"Sharks Esports",1,"Ascent","time",0,1,0,0
+"Sharks Esports",8,"Breeze","bomb",4,0,0,4
+"Sharks Esports",8,"Breeze","defuse",0,5,6,0
+"Sharks Esports",8,"Breeze","kills (post-plant)",6,0,0,6
+"Sharks Esports",8,"Breeze","kills (pre-plant)",2,6,4,2
+"Sharks Esports",9,"Fracture","bomb",1,0,0,2
+"Sharks Esports",9,"Fracture","defuse",0,1,2,0
+"Sharks Esports",9,"Fracture","kills (post-plant)",6,0,0,11
+"Sharks Esports",9,"Fracture","kills (pre-plant)",3,5,4,4
+"Sharks Esports",9,"Fracture","time",0,0,1,0
+"Sharks Esports",7,"Haven","bomb",2,0,0,2
+"Sharks Esports",7,"Haven","defuse",0,1,3,0
+"Sharks Esports",7,"Haven","kills (post-plant)",1,0,0,5
+"Sharks Esports",7,"Haven","kills (pre-plant)",2,4,2,0
+"Sharks Esports",7,"Haven","time",0,1,0,0
+"Sharks Esports",4,"Icebox","bomb",3,0,0,5
+"Sharks Esports",4,"Icebox","defuse",0,5,3,0
+"Sharks Esports",4,"Icebox","kills (post-plant)",8,0,0,9
+"Sharks Esports",4,"Icebox","kills (pre-plant)",5,8,8,7
+"Sharks Esports",4,"Icebox","time",0,1,1,0
+"Shopify Rebellion",1,"Ascent","defuse",0,2,3,0
+"Shopify Rebellion",1,"Ascent","kills (post-plant)",6,0,0,5
+"Shopify Rebellion",1,"Ascent","kills (pre-plant)",0,4,1,2
+"Shopify Rebellion",8,"Breeze","defuse",0,1,3,0
+"Shopify Rebellion",8,"Breeze","kills (post-plant)",1,0,0,5
+"Shopify Rebellion",8,"Breeze","kills (pre-plant)",0,7,3,0
+"Shopify Rebellion",8,"Breeze","time",0,0,1,0
+"Shopify Rebellion",9,"Fracture","bomb",3,0,0,2
+"Shopify Rebellion",9,"Fracture","defuse",0,6,8,0
+"Shopify Rebellion",9,"Fracture","kills (post-plant)",12,0,0,11
+"Shopify Rebellion",9,"Fracture","kills (pre-plant)",2,9,5,6
+"South Built Esports",1,"Ascent","bomb",3,0,0,2
+"South Built Esports",1,"Ascent","defuse",0,11,2,0
+"South Built Esports",1,"Ascent","kills (post-plant)",7,0,0,10
+"South Built Esports",1,"Ascent","kills (pre-plant)",5,20,23,3
+"South Built Esports",1,"Ascent","time",0,1,1,0
+"South Built Esports",8,"Breeze","bomb",5,0,0,2
+"South Built Esports",8,"Breeze","defuse",0,6,3,0
+"South Built Esports",8,"Breeze","kills (post-plant)",5,0,0,11
+"South Built Esports",8,"Breeze","kills (pre-plant)",4,3,1,4
+"South Built Esports",7,"Haven","bomb",5,0,0,3
+"South Built Esports",7,"Haven","defuse",0,4,5,0
+"South Built Esports",7,"Haven","kills (post-plant)",12,0,0,8
+"South Built Esports",7,"Haven","kills (pre-plant)",6,4,7,5
+"South Built Esports",4,"Icebox","bomb",1,0,0,0
+"South Built Esports",4,"Icebox","defuse",0,4,3,0
+"South Built Esports",4,"Icebox","kills (post-plant)",3,0,0,2
+"South Built Esports",4,"Icebox","kills (pre-plant)",1,3,4,0
+"South Built Esports",4,"Icebox","time",0,0,1,0
+"South Built Esports",2,"Split","bomb",3,0,0,1
+"South Built Esports",2,"Split","defuse",0,1,2,0
+"South Built Esports",2,"Split","kills (post-plant)",1,0,0,4
+"South Built Esports",2,"Split","kills (pre-plant)",0,3,1,4
+"Spear Gaming",1,"Ascent","bomb",9,0,0,4
+"Spear Gaming",1,"Ascent","defuse",0,10,7,0
+"Spear Gaming",1,"Ascent","kills (post-plant)",18,0,0,14
+"Spear Gaming",1,"Ascent","kills (pre-plant)",4,18,4,2
+"Spear Gaming",1,"Ascent","time",0,1,3,0
+"Spear Gaming",3,"Bind","bomb",5,0,0,6
+"Spear Gaming",3,"Bind","defuse",0,10,11,0
+"Spear Gaming",3,"Bind","kills (post-plant)",19,0,0,27
+"Spear Gaming",3,"Bind","kills (pre-plant)",6,23,12,3
+"Spear Gaming",3,"Bind","time",0,2,1,0
+"Spear Gaming",8,"Breeze","bomb",4,0,0,3
+"Spear Gaming",8,"Breeze","defuse",0,8,9,0
+"Spear Gaming",8,"Breeze","kills (post-plant)",19,0,0,12
+"Spear Gaming",8,"Breeze","kills (pre-plant)",1,15,11,5
+"Spear Gaming",8,"Breeze","time",0,1,0,0
+"Spear Gaming",9,"Fracture","bomb",2,0,0,5
+"Spear Gaming",9,"Fracture","defuse",0,10,10,0
+"Spear Gaming",9,"Fracture","kills (post-plant)",12,0,0,19
+"Spear Gaming",9,"Fracture","kills (pre-plant)",4,15,3,6
+"Spear Gaming",9,"Fracture","time",0,3,3,0
+"Spear Gaming",7,"Haven","bomb",2,0,0,7
+"Spear Gaming",7,"Haven","defuse",0,16,10,0
+"Spear Gaming",7,"Haven","kills (post-plant)",11,0,0,15
+"Spear Gaming",7,"Haven","kills (pre-plant)",4,14,11,6
+"Spear Gaming",7,"Haven","time",0,1,1,0
+"Spear Gaming",4,"Icebox","bomb",1,0,0,2
+"Spear Gaming",4,"Icebox","defuse",0,2,1,0
+"Spear Gaming",4,"Icebox","kills (post-plant)",4,0,0,4
+"Spear Gaming",4,"Icebox","kills (pre-plant)",2,2,5,0
+"Spear Gaming",4,"Icebox","time",0,1,0,0
+"Spear Gaming",2,"Split","bomb",4,0,0,3
+"Spear Gaming",2,"Split","defuse",0,7,2,0
+"Spear Gaming",2,"Split","kills (post-plant)",14,0,0,13
+"Spear Gaming",2,"Split","kills (pre-plant)",1,17,14,5
+"Spear Gaming",2,"Split","time",0,3,3,0
+"Stars Horizon",1,"Ascent","bomb",4,0,0,2
+"Stars Horizon",1,"Ascent","defuse",0,1,2,0
+"Stars Horizon",1,"Ascent","kills (post-plant)",4,0,0,3
+"Stars Horizon",1,"Ascent","kills (pre-plant)",0,3,2,2
+"Stars Horizon",1,"Ascent","time",0,0,1,0
+"Stars Horizon",3,"Bind","bomb",1,0,0,1
+"Stars Horizon",3,"Bind","defuse",0,2,1,0
+"Stars Horizon",3,"Bind","kills (post-plant)",3,0,0,6
+"Stars Horizon",3,"Bind","kills (pre-plant)",2,1,2,2
+"Stars Horizon",3,"Bind","time",0,1,0,0
+"Stars Horizon",8,"Breeze","bomb",0,0,0,2
+"Stars Horizon",8,"Breeze","defuse",0,1,0,0
+"Stars Horizon",8,"Breeze","kills (post-plant)",0,0,0,7
+"Stars Horizon",8,"Breeze","kills (pre-plant)",0,3,3,0
+"Stars Horizon",9,"Fracture","bomb",3,0,0,3
+"Stars Horizon",9,"Fracture","defuse",0,3,5,0
+"Stars Horizon",9,"Fracture","kills (post-plant)",8,0,0,9
+"Stars Horizon",9,"Fracture","kills (pre-plant)",1,14,3,7
+"Stars Horizon",9,"Fracture","time",0,3,0,0
+"Stars Horizon",7,"Haven","bomb",0,0,0,1
+"Stars Horizon",7,"Haven","defuse",0,3,0,0
+"Stars Horizon",7,"Haven","kills (post-plant)",2,0,0,3
+"Stars Horizon",7,"Haven","kills (pre-plant)",1,6,3,0
+"Stars Horizon",4,"Icebox","bomb",2,0,0,1
+"Stars Horizon",4,"Icebox","defuse",0,1,1,0
+"Stars Horizon",4,"Icebox","kills (post-plant)",1,0,0,6
+"Stars Horizon",4,"Icebox","kills (pre-plant)",0,5,2,0
+"Stars Horizon",4,"Icebox","time",0,0,2,0
+"Storks Phalanx",8,"Breeze","bomb",1,0,0,1
+"Storks Phalanx",8,"Breeze","defuse",0,4,2,0
+"Storks Phalanx",8,"Breeze","kills (post-plant)",3,0,0,1
+"Storks Phalanx",8,"Breeze","kills (pre-plant)",0,2,5,1
+"Storks Phalanx",8,"Breeze","time",0,0,2,0
+"Storks Phalanx",4,"Icebox","defuse",0,4,0,0
+"Storks Phalanx",4,"Icebox","kills (post-plant)",5,0,0,7
+"Storks Phalanx",4,"Icebox","kills (pre-plant)",2,1,2,1
+"Storks Phalanx",2,"Split","bomb",5,0,0,3
+"Storks Phalanx",2,"Split","defuse",0,5,4,0
+"Storks Phalanx",2,"Split","kills (post-plant)",10,0,0,12
+"Storks Phalanx",2,"Split","kills (pre-plant)",1,3,5,1
+"Storks Phalanx",2,"Split","time",0,1,0,0
+"SunXet Club",1,"Ascent","bomb",0,0,0,2
+"SunXet Club",1,"Ascent","defuse",0,7,8,0
+"SunXet Club",1,"Ascent","kills (post-plant)",7,0,0,10
+"SunXet Club",1,"Ascent","kills (pre-plant)",8,14,5,2
+"SunXet Club",1,"Ascent","time",0,1,2,0
+"SunXet Club",3,"Bind","defuse",0,5,2,0
+"SunXet Club",3,"Bind","kills (post-plant)",7,0,0,7
+"SunXet Club",3,"Bind","kills (pre-plant)",2,11,5,2
+"SunXet Club",3,"Bind","time",0,2,0,0
+"SunXet Club",8,"Breeze","bomb",2,0,0,4
+"SunXet Club",8,"Breeze","defuse",0,7,4,0
+"SunXet Club",8,"Breeze","kills (post-plant)",5,0,0,14
+"SunXet Club",8,"Breeze","kills (pre-plant)",2,21,16,6
+"SunXet Club",8,"Breeze","time",0,0,2,0
+"SunXet Club",4,"Icebox","bomb",2,0,0,1
+"SunXet Club",4,"Icebox","defuse",0,3,1,0
+"SunXet Club",4,"Icebox","kills (post-plant)",2,0,0,10
+"SunXet Club",4,"Icebox","kills (pre-plant)",6,11,3,1
+"SunXet Club",4,"Icebox","time",0,0,1,0
+"SuperMassive",1,"Ascent","bomb",1,0,0,3
+"SuperMassive",1,"Ascent","defuse",0,3,1,0
+"SuperMassive",1,"Ascent","kills (post-plant)",8,0,0,9
+"SuperMassive",1,"Ascent","kills (pre-plant)",2,11,4,1
+"SuperMassive",3,"Bind","bomb",0,0,0,3
+"SuperMassive",3,"Bind","defuse",0,0,1,0
+"SuperMassive",3,"Bind","kills (post-plant)",0,0,0,5
+"SuperMassive",3,"Bind","kills (pre-plant)",0,5,3,0
+"SuperMassive",8,"Breeze","bomb",0,0,0,4
+"SuperMassive",8,"Breeze","defuse",0,0,1,0
+"SuperMassive",8,"Breeze","kills (post-plant)",0,0,0,5
+"SuperMassive",8,"Breeze","kills (pre-plant)",0,2,0,2
+"SuperMassive",7,"Haven","bomb",4,0,0,1
+"SuperMassive",7,"Haven","defuse",0,4,2,0
+"SuperMassive",7,"Haven","kills (post-plant)",5,0,0,9
+"SuperMassive",7,"Haven","kills (pre-plant)",5,6,6,3
+"SuperMassive",7,"Haven","time",0,0,1,0
+"SuperMassive",4,"Icebox","bomb",5,0,0,5
+"SuperMassive",4,"Icebox","defuse",0,6,8,0
+"SuperMassive",4,"Icebox","kills (post-plant)",11,0,0,15
+"SuperMassive",4,"Icebox","kills (pre-plant)",2,14,8,3
+"SuperMassive",4,"Icebox","time",0,2,2,0
+"SuperMassive",2,"Split","bomb",2,0,0,5
+"SuperMassive",2,"Split","defuse",0,3,7,0
+"SuperMassive",2,"Split","kills (post-plant)",2,0,0,6
+"SuperMassive",2,"Split","kills (pre-plant)",1,9,4,2
+"SuperMassive",2,"Split","time",0,1,0,0
+"SYSTEM e-Sports",8,"Breeze","defuse",0,1,1,0
+"SYSTEM e-Sports",8,"Breeze","kills (post-plant)",1,0,0,7
+"SYSTEM e-Sports",8,"Breeze","kills (pre-plant)",0,2,1,3
+"SYSTEM e-Sports",7,"Haven","defuse",0,2,0,0
+"SYSTEM e-Sports",7,"Haven","kills (pre-plant)",0,10,0,1
+"Tartarus",1,"Ascent","bomb",1,0,0,3
+"Tartarus",1,"Ascent","defuse",0,3,1,0
+"Tartarus",1,"Ascent","kills (post-plant)",2,0,0,3
+"Tartarus",1,"Ascent","kills (pre-plant)",0,1,2,3
+"Tartarus",3,"Bind","bomb",1,0,0,2
+"Tartarus",3,"Bind","defuse",0,5,3,0
+"Tartarus",3,"Bind","kills (post-plant)",3,0,0,11
+"Tartarus",3,"Bind","kills (pre-plant)",1,5,5,3
+"Tartarus",8,"Breeze","bomb",3,0,0,4
+"Tartarus",8,"Breeze","defuse",0,4,9,0
+"Tartarus",8,"Breeze","kills (post-plant)",4,0,0,24
+"Tartarus",8,"Breeze","kills (pre-plant)",1,13,7,4
+"Tartarus",8,"Breeze","time",0,3,0,0
+"Tartarus",9,"Fracture","bomb",1,0,0,0
+"Tartarus",9,"Fracture","defuse",0,4,10,0
+"Tartarus",9,"Fracture","kills (post-plant)",8,0,0,17
+"Tartarus",9,"Fracture","kills (pre-plant)",4,11,12,3
+"Tartarus",9,"Fracture","time",0,0,1,0
+"Tartarus",7,"Haven","bomb",1,0,0,1
+"Tartarus",7,"Haven","defuse",0,10,1,0
+"Tartarus",7,"Haven","kills (post-plant)",5,0,0,5
+"Tartarus",7,"Haven","kills (pre-plant)",1,6,5,3
+"Tartarus",7,"Haven","time",0,1,0,0
+"Tartarus",4,"Icebox","bomb",0,0,0,1
+"Tartarus",4,"Icebox","defuse",0,4,2,0
+"Tartarus",4,"Icebox","kills (post-plant)",0,0,0,4
+"Tartarus",4,"Icebox","kills (pre-plant)",0,3,2,1
+"Tartarus",4,"Icebox","time",0,0,2,0
+"Tartarus",2,"Split","bomb",1,0,0,0
+"Tartarus",2,"Split","defuse",0,2,3,0
+"Tartarus",2,"Split","kills (post-plant)",7,0,0,8
+"Tartarus",2,"Split","kills (pre-plant)",2,8,8,2
+"Tartarus",2,"Split","time",0,1,1,0
+"TBK Esports",1,"Ascent","bomb",10,0,0,10
+"TBK Esports",1,"Ascent","defuse",0,18,27,0
+"TBK Esports",1,"Ascent","kills (post-plant)",23,0,0,22
+"TBK Esports",1,"Ascent","kills (pre-plant)",6,41,26,11
+"TBK Esports",1,"Ascent","time",0,4,6,0
+"TBK Esports",3,"Bind","bomb",6,0,0,12
+"TBK Esports",3,"Bind","defuse",0,10,15,0
+"TBK Esports",3,"Bind","kills (post-plant)",23,0,0,26
+"TBK Esports",3,"Bind","kills (pre-plant)",4,20,30,3
+"TBK Esports",3,"Bind","time",0,1,3,0
+"TBK Esports",8,"Breeze","bomb",7,0,0,9
+"TBK Esports",8,"Breeze","defuse",0,15,15,0
+"TBK Esports",8,"Breeze","kills (post-plant)",16,0,0,23
+"TBK Esports",8,"Breeze","kills (pre-plant)",4,18,16,4
+"TBK Esports",8,"Breeze","time",0,3,0,0
+"TBK Esports",9,"Fracture","bomb",8,0,0,2
+"TBK Esports",9,"Fracture","defuse",0,9,16,0
+"TBK Esports",9,"Fracture","kills (post-plant)",9,0,0,9
+"TBK Esports",9,"Fracture","kills (pre-plant)",2,15,9,5
+"TBK Esports",9,"Fracture","time",0,0,1,0
+"TBK Esports",7,"Haven","bomb",10,0,0,13
+"TBK Esports",7,"Haven","defuse",0,22,14,0
+"TBK Esports",7,"Haven","kills (post-plant)",34,0,0,20
+"TBK Esports",7,"Haven","kills (pre-plant)",8,18,23,10
+"TBK Esports",7,"Haven","time",0,3,3,0
+"TBK Esports",2,"Split","bomb",7,0,0,8
+"TBK Esports",2,"Split","defuse",0,7,5,0
+"TBK Esports",2,"Split","kills (post-plant)",11,0,0,9
+"TBK Esports",2,"Split","kills (pre-plant)",7,12,9,3
+"TBK Esports",2,"Split","time",0,4,4,0
+"Team GP",1,"Ascent","bomb",1,0,0,2
+"Team GP",1,"Ascent","defuse",0,1,2,0
+"Team GP",1,"Ascent","kills (post-plant)",2,0,0,1
+"Team GP",1,"Ascent","kills (pre-plant)",1,6,1,2
+"Team GP",1,"Ascent","time",0,1,1,0
+"Team GP",3,"Bind","bomb",0,0,0,1
+"Team GP",3,"Bind","defuse",0,3,5,0
+"Team GP",3,"Bind","kills (post-plant)",3,0,0,2
+"Team GP",3,"Bind","kills (pre-plant)",1,4,3,0
+"Team GP",3,"Bind","time",0,0,1,0
+"Team GP",8,"Breeze","bomb",0,0,0,3
+"Team GP",8,"Breeze","defuse",0,4,3,0
+"Team GP",8,"Breeze","kills (post-plant)",0,0,0,5
+"Team GP",8,"Breeze","kills (pre-plant)",0,0,0,1
+"Team GP",7,"Haven","bomb",1,0,0,4
+"Team GP",7,"Haven","defuse",0,4,7,0
+"Team GP",7,"Haven","kills (post-plant)",7,0,0,10
+"Team GP",7,"Haven","kills (pre-plant)",0,13,8,4
+"Team GP",7,"Haven","time",0,0,1,0
+"Team Liquid",1,"Ascent","bomb",9,0,0,14
+"Team Liquid",1,"Ascent","defuse",0,16,14,0
+"Team Liquid",1,"Ascent","kills (post-plant)",36,0,0,39
+"Team Liquid",1,"Ascent","kills (pre-plant)",15,33,41,7
+"Team Liquid",1,"Ascent","time",0,5,4,0
+"Team Liquid",3,"Bind","bomb",8,0,0,22
+"Team Liquid",3,"Bind","defuse",0,17,18,0
+"Team Liquid",3,"Bind","kills (post-plant)",23,0,0,38
+"Team Liquid",3,"Bind","kills (pre-plant)",12,30,28,9
+"Team Liquid",3,"Bind","time",0,5,5,0
+"Team Liquid",8,"Breeze","bomb",5,0,0,6
+"Team Liquid",8,"Breeze","defuse",0,11,22,0
+"Team Liquid",8,"Breeze","kills (post-plant)",23,0,0,22
+"Team Liquid",8,"Breeze","kills (pre-plant)",6,24,25,4
+"Team Liquid",8,"Breeze","time",0,1,6,0
+"Team Liquid",9,"Fracture","bomb",7,0,0,8
+"Team Liquid",9,"Fracture","defuse",0,12,14,0
+"Team Liquid",9,"Fracture","kills (post-plant)",17,0,0,22
+"Team Liquid",9,"Fracture","kills (pre-plant)",10,20,23,8
+"Team Liquid",9,"Fracture","time",0,6,2,0
+"Team Liquid",7,"Haven","bomb",8,0,0,17
+"Team Liquid",7,"Haven","defuse",0,29,32,0
+"Team Liquid",7,"Haven","kills (post-plant)",44,0,0,36
+"Team Liquid",7,"Haven","kills (pre-plant)",20,31,44,11
+"Team Liquid",7,"Haven","time",0,6,3,0
+"Team Liquid",4,"Icebox","bomb",21,0,0,26
+"Team Liquid",4,"Icebox","defuse",0,33,41,0
+"Team Liquid",4,"Icebox","kills (post-plant)",53,0,0,39
+"Team Liquid",4,"Icebox","kills (pre-plant)",13,28,34,12
+"Team Liquid",4,"Icebox","time",0,6,5,0
+"Team Liquid",10,"Pearl","bomb",0,0,0,4
+"Team Liquid",10,"Pearl","defuse",0,1,2,0
+"Team Liquid",10,"Pearl","kills (post-plant)",0,0,0,3
+"Team Liquid",10,"Pearl","kills (pre-plant)",0,4,2,1
+"Team Liquid",2,"Split","bomb",9,0,0,21
+"Team Liquid",2,"Split","defuse",0,16,18,0
+"Team Liquid",2,"Split","kills (post-plant)",49,0,0,38
+"Team Liquid",2,"Split","kills (pre-plant)",19,40,39,7
+"Team Liquid",2,"Split","time",0,15,5,0
+"Team Secret",1,"Ascent","bomb",5,0,0,5
+"Team Secret",1,"Ascent","defuse",0,8,11,0
+"Team Secret",1,"Ascent","kills (post-plant)",18,0,0,13
+"Team Secret",1,"Ascent","kills (pre-plant)",8,21,17,12
+"Team Secret",1,"Ascent","time",0,2,2,0
+"Team Secret",3,"Bind","bomb",1,0,0,3
+"Team Secret",3,"Bind","defuse",0,3,3,0
+"Team Secret",3,"Bind","kills (post-plant)",5,0,0,17
+"Team Secret",3,"Bind","kills (pre-plant)",2,10,9,2
+"Team Secret",8,"Breeze","bomb",4,0,0,4
+"Team Secret",8,"Breeze","defuse",0,7,9,0
+"Team Secret",8,"Breeze","kills (post-plant)",15,0,0,12
+"Team Secret",8,"Breeze","kills (pre-plant)",5,10,16,3
+"Team Secret",8,"Breeze","time",0,0,1,0
+"Team Secret",9,"Fracture","bomb",0,0,0,1
+"Team Secret",9,"Fracture","defuse",0,5,2,0
+"Team Secret",9,"Fracture","kills (post-plant)",3,0,0,2
+"Team Secret",9,"Fracture","kills (pre-plant)",1,2,5,2
+"Team Secret",9,"Fracture","time",0,1,0,0
+"Team Secret",7,"Haven","bomb",8,0,0,12
+"Team Secret",7,"Haven","defuse",0,9,10,0
+"Team Secret",7,"Haven","kills (post-plant)",21,0,0,20
+"Team Secret",7,"Haven","kills (pre-plant)",10,20,21,7
+"Team Secret",7,"Haven","time",0,1,1,0
+"Team Secret",4,"Icebox","bomb",5,0,0,5
+"Team Secret",4,"Icebox","defuse",0,10,11,0
+"Team Secret",4,"Icebox","kills (post-plant)",9,0,0,18
+"Team Secret",4,"Icebox","kills (pre-plant)",8,15,29,7
+"Team Secret",4,"Icebox","time",0,0,2,0
+"Team T5",1,"Ascent","bomb",3,0,0,4
+"Team T5",1,"Ascent","defuse",0,14,1,0
+"Team T5",1,"Ascent","kills (post-plant)",22,0,0,14
+"Team T5",1,"Ascent","kills (pre-plant)",3,19,23,4
+"Team T5",1,"Ascent","time",0,0,1,0
+"Team T5",3,"Bind","bomb",3,0,0,4
+"Team T5",3,"Bind","defuse",0,10,4,0
+"Team T5",3,"Bind","kills (post-plant)",17,0,0,18
+"Team T5",3,"Bind","kills (pre-plant)",3,20,22,12
+"Team T5",3,"Bind","time",0,1,1,0
+"Team T5",8,"Breeze","bomb",1,0,0,0
+"Team T5",8,"Breeze","defuse",0,6,4,0
+"Team T5",8,"Breeze","kills (post-plant)",17,0,0,20
+"Team T5",8,"Breeze","kills (pre-plant)",4,19,13,4
+"Team T5",7,"Haven","bomb",0,0,0,3
+"Team T5",7,"Haven","defuse",0,12,8,0
+"Team T5",7,"Haven","kills (post-plant)",10,0,0,20
+"Team T5",7,"Haven","kills (pre-plant)",4,17,15,6
+"Team T5",7,"Haven","time",0,1,1,0
+"Team T5",4,"Icebox","bomb",0,0,0,1
+"Team T5",4,"Icebox","defuse",0,1,3,0
+"Team T5",4,"Icebox","kills (post-plant)",3,0,0,3
+"Team T5",4,"Icebox","kills (pre-plant)",2,0,5,0
+"Team T5",4,"Icebox","time",0,1,0,0
+"Team T5",2,"Split","bomb",0,0,0,1
+"Team T5",2,"Split","defuse",0,1,0,0
+"Team T5",2,"Split","kills (post-plant)",4,0,0,5
+"Team T5",2,"Split","kills (pre-plant)",1,6,1,0
+"Team T5",2,"Split","time",0,0,1,0
+"Team Vikings",1,"Ascent","bomb",1,0,0,4
+"Team Vikings",1,"Ascent","defuse",0,9,2,0
+"Team Vikings",1,"Ascent","kills (post-plant)",3,0,0,8
+"Team Vikings",1,"Ascent","kills (pre-plant)",2,14,3,4
+"Team Vikings",3,"Bind","bomb",1,0,0,0
+"Team Vikings",3,"Bind","defuse",0,6,0,0
+"Team Vikings",3,"Bind","kills (post-plant)",0,0,0,3
+"Team Vikings",3,"Bind","kills (pre-plant)",1,4,0,0
+"Team Vikings",3,"Bind","time",0,0,1,0
+"Team Vikings",7,"Haven","bomb",1,0,0,0
+"Team Vikings",7,"Haven","defuse",0,0,2,0
+"Team Vikings",7,"Haven","kills (post-plant)",2,0,0,5
+"Team Vikings",7,"Haven","kills (pre-plant)",1,8,1,0
+"Team Vikings",4,"Icebox","bomb",6,0,0,1
+"Team Vikings",4,"Icebox","defuse",0,3,5,0
+"Team Vikings",4,"Icebox","kills (post-plant)",8,0,0,15
+"Team Vikings",4,"Icebox","kills (pre-plant)",3,13,1,2
+"Team Vikings",4,"Icebox","time",0,0,1,0
+"Team Vikings",2,"Split","bomb",1,0,0,1
+"Team Vikings",2,"Split","defuse",0,1,0,0
+"Team Vikings",2,"Split","kills (post-plant)",2,0,0,4
+"Team Vikings",2,"Split","kills (pre-plant)",1,3,3,4
+"The Guard",1,"Ascent","bomb",6,0,0,7
+"The Guard",1,"Ascent","defuse",0,14,14,0
+"The Guard",1,"Ascent","kills (post-plant)",11,0,0,17
+"The Guard",1,"Ascent","kills (pre-plant)",4,14,28,3
+"The Guard",1,"Ascent","time",0,0,2,0
+"The Guard",3,"Bind","bomb",10,0,0,5
+"The Guard",3,"Bind","defuse",0,17,12,0
+"The Guard",3,"Bind","kills (post-plant)",24,0,0,21
+"The Guard",3,"Bind","kills (pre-plant)",7,26,18,4
+"The Guard",3,"Bind","time",0,0,2,0
+"The Guard",8,"Breeze","bomb",2,0,0,1
+"The Guard",8,"Breeze","defuse",0,5,5,0
+"The Guard",8,"Breeze","kills (post-plant)",8,0,0,8
+"The Guard",8,"Breeze","kills (pre-plant)",0,2,10,1
+"The Guard",8,"Breeze","time",0,0,1,0
+"The Guard",9,"Fracture","bomb",8,0,0,9
+"The Guard",9,"Fracture","defuse",0,14,15,0
+"The Guard",9,"Fracture","kills (post-plant)",13,0,0,15
+"The Guard",9,"Fracture","kills (pre-plant)",8,24,24,13
+"The Guard",9,"Fracture","time",0,2,3,0
+"The Guard",7,"Haven","bomb",16,0,0,10
+"The Guard",7,"Haven","defuse",0,37,39,0
+"The Guard",7,"Haven","kills (post-plant)",50,0,0,52
+"The Guard",7,"Haven","kills (pre-plant)",25,24,30,20
+"The Guard",7,"Haven","time",0,2,1,0
+"The Guard",4,"Icebox","bomb",7,0,0,8
+"The Guard",4,"Icebox","defuse",0,31,31,0
+"The Guard",4,"Icebox","kills (post-plant)",48,0,0,26
+"The Guard",4,"Icebox","kills (pre-plant)",15,33,26,9
+"The Guard",4,"Icebox","time",0,0,3,0
+"The Guard",2,"Split","bomb",2,0,0,5
+"The Guard",2,"Split","defuse",0,18,18,0
+"The Guard",2,"Split","kills (post-plant)",15,0,0,27
+"The Guard",2,"Split","kills (pre-plant)",7,34,19,2
+"The Guard",2,"Split","time",0,1,3,0
+"TRIDENT",9,"Fracture","bomb",0,0,0,1
+"TRIDENT",9,"Fracture","defuse",0,5,6,0
+"TRIDENT",9,"Fracture","kills (post-plant)",2,0,0,3
+"TRIDENT",9,"Fracture","kills (pre-plant)",0,3,1,1
+"TRIDENT",2,"Split","defuse",0,7,0,0
+"TRIDENT",2,"Split","kills (post-plant)",0,0,0,1
+"TRIDENT",2,"Split","kills (pre-plant)",0,5,0,0
+"TSM",1,"Ascent","bomb",1,0,0,0
+"TSM",1,"Ascent","defuse",0,2,3,0
+"TSM",1,"Ascent","kills (post-plant)",3,0,0,5
+"TSM",1,"Ascent","kills (pre-plant)",0,6,3,0
+"TSM",8,"Breeze","bomb",3,0,0,6
+"TSM",8,"Breeze","defuse",0,6,7,0
+"TSM",8,"Breeze","kills (post-plant)",5,0,0,4
+"TSM",8,"Breeze","kills (pre-plant)",0,10,6,2
+"TSM",8,"Breeze","time",0,0,1,0
+"TSM",7,"Haven","bomb",3,0,0,2
+"TSM",7,"Haven","defuse",0,9,3,0
+"TSM",7,"Haven","kills (post-plant)",11,0,0,10
+"TSM",7,"Haven","kills (pre-plant)",7,4,8,7
+"TSM",4,"Icebox","bomb",1,0,0,2
+"TSM",4,"Icebox","defuse",0,4,3,0
+"TSM",4,"Icebox","kills (post-plant)",1,0,0,4
+"TSM",4,"Icebox","kills (pre-plant)",1,1,1,2
+"TSM",2,"Split","bomb",3,0,0,5
+"TSM",2,"Split","defuse",0,7,1,0
+"TSM",2,"Split","kills (post-plant)",14,0,0,10
+"TSM",2,"Split","kills (pre-plant)",0,9,16,5
+"TSM",2,"Split","time",0,2,1,0
+"Velocity Gaming",1,"Ascent","bomb",2,0,0,2
+"Velocity Gaming",1,"Ascent","defuse",0,3,7,0
+"Velocity Gaming",1,"Ascent","kills (post-plant)",6,0,0,6
+"Velocity Gaming",1,"Ascent","kills (pre-plant)",1,11,8,1
+"Velocity Gaming",7,"Haven","bomb",4,0,0,3
+"Velocity Gaming",7,"Haven","defuse",0,5,3,0
+"Velocity Gaming",7,"Haven","kills (post-plant)",6,0,0,8
+"Velocity Gaming",7,"Haven","kills (pre-plant)",3,7,1,4
+"Velocity Gaming",7,"Haven","time",0,0,1,0
+"Velocity Gaming",4,"Icebox","bomb",1,0,0,3
+"Velocity Gaming",4,"Icebox","defuse",0,1,2,0
+"Velocity Gaming",4,"Icebox","kills (post-plant)",6,0,0,2
+"Velocity Gaming",4,"Icebox","kills (pre-plant)",3,0,0,3
+"Velocity Gaming",4,"Icebox","time",0,1,1,0
+"Velocity Gaming",2,"Split","defuse",0,3,1,0
+"Velocity Gaming",2,"Split","kills (post-plant)",0,0,0,5
+"Velocity Gaming",2,"Split","kills (pre-plant)",0,1,2,4
+"Veronica7",1,"Ascent","defuse",0,3,0,0
+"Veronica7",1,"Ascent","kills (post-plant)",1,0,0,3
+"Veronica7",1,"Ascent","kills (pre-plant)",1,7,1,0
+"Veronica7",3,"Bind","bomb",0,0,0,1
+"Veronica7",3,"Bind","defuse",0,0,1,0
+"Veronica7",3,"Bind","kills (post-plant)",6,0,0,3
+"Veronica7",3,"Bind","kills (pre-plant)",1,2,4,2
+"Veronica7",3,"Bind","time",0,1,1,0
+"Veronica7",9,"Fracture","bomb",1,0,0,0
+"Veronica7",9,"Fracture","defuse",0,5,0,0
+"Veronica7",9,"Fracture","kills (post-plant)",4,0,0,6
+"Veronica7",9,"Fracture","kills (pre-plant)",0,1,0,0
+"Veronica7",9,"Fracture","time",0,1,1,0
+"Veronica7",7,"Haven","bomb",0,0,0,1
+"Veronica7",7,"Haven","defuse",0,3,0,0
+"Veronica7",7,"Haven","kills (post-plant)",0,0,0,1
+"Veronica7",7,"Haven","kills (pre-plant)",2,6,4,1
+"Veronica7",7,"Haven","time",0,1,0,0
+"Veronica7",2,"Split","bomb",2,0,0,0
+"Veronica7",2,"Split","kills (post-plant)",3,0,0,5
+"Veronica7",2,"Split","kills (pre-plant)",0,6,2,1
+"Veronica7",2,"Split","time",0,1,1,0
+"Version1 (Inactive)",1,"Ascent","bomb",3,0,0,3
+"Version1 (Inactive)",1,"Ascent","defuse",0,16,12,0
+"Version1 (Inactive)",1,"Ascent","kills (post-plant)",20,0,0,10
+"Version1 (Inactive)",1,"Ascent","kills (pre-plant)",9,16,19,5
+"Version1 (Inactive)",1,"Ascent","time",0,1,1,0
+"Version1 (Inactive)",3,"Bind","bomb",3,0,0,1
+"Version1 (Inactive)",3,"Bind","defuse",0,4,2,0
+"Version1 (Inactive)",3,"Bind","kills (post-plant)",0,0,0,4
+"Version1 (Inactive)",3,"Bind","kills (pre-plant)",0,4,5,0
+"Version1 (Inactive)",8,"Breeze","bomb",3,0,0,2
+"Version1 (Inactive)",8,"Breeze","defuse",0,3,5,0
+"Version1 (Inactive)",8,"Breeze","kills (post-plant)",9,0,0,5
+"Version1 (Inactive)",8,"Breeze","kills (pre-plant)",3,5,6,0
+"Version1 (Inactive)",8,"Breeze","time",0,1,0,0
+"Version1 (Inactive)",9,"Fracture","bomb",6,0,0,4
+"Version1 (Inactive)",9,"Fracture","defuse",0,16,9,0
+"Version1 (Inactive)",9,"Fracture","kills (post-plant)",23,0,0,22
+"Version1 (Inactive)",9,"Fracture","kills (pre-plant)",4,8,16,2
+"Version1 (Inactive)",9,"Fracture","time",0,1,1,0
+"Version1 (Inactive)",7,"Haven","bomb",4,0,0,0
+"Version1 (Inactive)",7,"Haven","defuse",0,12,8,0
+"Version1 (Inactive)",7,"Haven","kills (post-plant)",16,0,0,10
+"Version1 (Inactive)",7,"Haven","kills (pre-plant)",2,9,14,12
+"Version1 (Inactive)",7,"Haven","time",0,0,1,0
+"Version1 (Inactive)",4,"Icebox","bomb",1,0,0,2
+"Version1 (Inactive)",4,"Icebox","defuse",0,8,9,0
+"Version1 (Inactive)",4,"Icebox","kills (post-plant)",16,0,0,4
+"Version1 (Inactive)",4,"Icebox","kills (pre-plant)",4,1,8,3
+"Version1 (Inactive)",4,"Icebox","time",0,0,1,0
+"VPZ",1,"Ascent","bomb",1,0,0,0
+"VPZ",1,"Ascent","defuse",0,1,0,0
+"VPZ",1,"Ascent","kills (post-plant)",3,0,0,4
+"VPZ",1,"Ascent","kills (pre-plant)",0,6,1,1
+"VPZ",1,"Ascent","time",0,1,0,0
+"VPZ",3,"Bind","bomb",0,0,0,2
+"VPZ",3,"Bind","defuse",0,2,3,0
+"VPZ",3,"Bind","kills (post-plant)",1,0,0,6
+"VPZ",3,"Bind","kills (pre-plant)",2,2,1,0
+"VPZ",3,"Bind","time",0,1,0,0
+"VPZ",7,"Haven","bomb",0,0,0,1
+"VPZ",7,"Haven","kills (post-plant)",0,0,0,9
+"VPZ",7,"Haven","kills (pre-plant)",0,3,2,0
+"VPZ",2,"Split","bomb",2,0,0,0
+"VPZ",2,"Split","defuse",0,2,3,0
+"VPZ",2,"Split","kills (post-plant)",0,0,0,4
+"VPZ",2,"Split","kills (pre-plant)",0,4,3,2
+"VPZ",2,"Split","time",0,1,0,0
+"World Game Star",1,"Ascent","bomb",6,0,0,10
+"World Game Star",1,"Ascent","defuse",0,9,21,0
+"World Game Star",1,"Ascent","kills (post-plant)",9,0,0,39
+"World Game Star",1,"Ascent","kills (pre-plant)",2,32,20,6
+"World Game Star",1,"Ascent","time",0,5,0,0
+"World Game Star",3,"Bind","bomb",15,0,0,14
+"World Game Star",3,"Bind","defuse",0,25,25,0
+"World Game Star",3,"Bind","kills (post-plant)",55,0,0,60
+"World Game Star",3,"Bind","kills (pre-plant)",14,36,44,7
+"World Game Star",3,"Bind","time",0,4,1,0
+"World Game Star",8,"Breeze","bomb",8,0,0,9
+"World Game Star",8,"Breeze","defuse",0,16,7,0
+"World Game Star",8,"Breeze","kills (post-plant)",13,0,0,29
+"World Game Star",8,"Breeze","kills (pre-plant)",5,18,21,9
+"World Game Star",8,"Breeze","time",0,4,1,0
+"World Game Star",9,"Fracture","bomb",4,0,0,6
+"World Game Star",9,"Fracture","defuse",0,10,5,0
+"World Game Star",9,"Fracture","kills (post-plant)",32,0,0,12
+"World Game Star",9,"Fracture","kills (pre-plant)",10,17,30,7
+"World Game Star",9,"Fracture","time",0,1,4,0
+"World Game Star",7,"Haven","bomb",14,0,0,18
+"World Game Star",7,"Haven","defuse",0,18,33,0
+"World Game Star",7,"Haven","kills (post-plant)",37,0,0,40
+"World Game Star",7,"Haven","kills (pre-plant)",12,28,35,17
+"World Game Star",7,"Haven","time",0,4,2,0
+"World Game Star",4,"Icebox","bomb",2,0,0,4
+"World Game Star",4,"Icebox","defuse",0,5,11,0
+"World Game Star",4,"Icebox","kills (post-plant)",12,0,0,13
+"World Game Star",4,"Icebox","kills (pre-plant)",2,7,17,1
+"World Game Star",4,"Icebox","time",0,1,2,0
+"World Game Star",2,"Split","bomb",1,0,0,9
+"World Game Star",2,"Split","defuse",0,8,11,0
+"World Game Star",2,"Split","kills (post-plant)",18,0,0,21
+"World Game Star",2,"Split","kills (pre-plant)",4,18,22,6
+"World Game Star",2,"Split","time",0,5,3,0
+"XERXIA Esports",1,"Ascent","bomb",8,0,0,8
+"XERXIA Esports",1,"Ascent","defuse",0,20,23,0
+"XERXIA Esports",1,"Ascent","kills (post-plant)",49,0,0,42
+"XERXIA Esports",1,"Ascent","kills (pre-plant)",19,38,44,10
+"XERXIA Esports",1,"Ascent","time",0,3,4,0
+"XERXIA Esports",3,"Bind","bomb",12,0,0,4
+"XERXIA Esports",3,"Bind","defuse",0,22,12,0
+"XERXIA Esports",3,"Bind","kills (post-plant)",30,0,0,23
+"XERXIA Esports",3,"Bind","kills (pre-plant)",6,11,22,5
+"XERXIA Esports",3,"Bind","time",0,2,2,0
+"XERXIA Esports",8,"Breeze","bomb",5,0,0,6
+"XERXIA Esports",8,"Breeze","defuse",0,15,11,0
+"XERXIA Esports",8,"Breeze","kills (post-plant)",15,0,0,20
+"XERXIA Esports",8,"Breeze","kills (pre-plant)",12,19,15,9
+"XERXIA Esports",8,"Breeze","time",0,0,1,0
+"XERXIA Esports",9,"Fracture","bomb",12,0,0,6
+"XERXIA Esports",9,"Fracture","defuse",0,16,9,0
+"XERXIA Esports",9,"Fracture","kills (post-plant)",14,0,0,21
+"XERXIA Esports",9,"Fracture","kills (pre-plant)",6,18,13,7
+"XERXIA Esports",9,"Fracture","time",0,1,1,0
+"XERXIA Esports",7,"Haven","bomb",17,0,0,16
+"XERXIA Esports",7,"Haven","defuse",0,24,15,0
+"XERXIA Esports",7,"Haven","kills (post-plant)",40,0,0,41
+"XERXIA Esports",7,"Haven","kills (pre-plant)",29,30,34,17
+"XERXIA Esports",7,"Haven","time",0,1,1,0
+"XERXIA Esports",4,"Icebox","bomb",9,0,0,10
+"XERXIA Esports",4,"Icebox","defuse",0,30,15,0
+"XERXIA Esports",4,"Icebox","kills (post-plant)",49,0,0,44
+"XERXIA Esports",4,"Icebox","kills (pre-plant)",17,33,42,17
+"XERXIA Esports",4,"Icebox","time",0,4,4,0
+"XERXIA Esports",2,"Split","bomb",1,0,0,4
+"XERXIA Esports",2,"Split","defuse",0,13,3,0
+"XERXIA Esports",2,"Split","kills (post-plant)",14,0,0,13
+"XERXIA Esports",2,"Split","kills (pre-plant)",0,7,19,5
+"XERXIA Esports",2,"Split","time",0,1,4,0
+"XSET",1,"Ascent","bomb",5,0,0,4
+"XSET",1,"Ascent","defuse",0,20,15,0
+"XSET",1,"Ascent","kills (post-plant)",25,0,0,31
+"XSET",1,"Ascent","kills (pre-plant)",6,39,59,3
+"XSET",1,"Ascent","time",0,8,4,0
+"XSET",3,"Bind","bomb",2,0,0,12
+"XSET",3,"Bind","defuse",0,18,23,0
+"XSET",3,"Bind","kills (post-plant)",27,0,0,25
+"XSET",3,"Bind","kills (pre-plant)",7,27,34,6
+"XSET",3,"Bind","time",0,4,4,0
+"XSET",8,"Breeze","bomb",7,0,0,12
+"XSET",8,"Breeze","defuse",0,20,22,0
+"XSET",8,"Breeze","kills (post-plant)",40,0,0,18
+"XSET",8,"Breeze","kills (pre-plant)",8,28,27,8
+"XSET",8,"Breeze","time",0,2,4,0
+"XSET",9,"Fracture","bomb",8,0,0,7
+"XSET",9,"Fracture","defuse",0,23,22,0
+"XSET",9,"Fracture","kills (post-plant)",15,0,0,22
+"XSET",9,"Fracture","kills (pre-plant)",5,22,15,9
+"XSET",9,"Fracture","time",0,1,2,0
+"XSET",7,"Haven","bomb",9,0,0,7
+"XSET",7,"Haven","defuse",0,26,26,0
+"XSET",7,"Haven","kills (post-plant)",36,0,0,33
+"XSET",7,"Haven","kills (pre-plant)",15,26,17,14
+"XSET",7,"Haven","time",0,3,3,0
+"XSET",4,"Icebox","bomb",7,0,0,1
+"XSET",4,"Icebox","defuse",0,12,19,0
+"XSET",4,"Icebox","kills (post-plant)",23,0,0,22
+"XSET",4,"Icebox","kills (pre-plant)",8,18,18,13
+"XSET",4,"Icebox","time",0,0,1,0
+"XSET",10,"Pearl","bomb",3,0,0,6
+"XSET",10,"Pearl","defuse",0,9,13,0
+"XSET",10,"Pearl","kills (post-plant)",13,0,0,9
+"XSET",10,"Pearl","kills (pre-plant)",3,14,9,1
+"XSET",10,"Pearl","time",0,0,6,0
+"XSET",2,"Split","bomb",9,0,0,7
+"XSET",2,"Split","defuse",0,15,23,0
+"XSET",2,"Split","kills (post-plant)",40,0,0,24
+"XSET",2,"Split","kills (pre-plant)",14,30,37,10
+"XSET",2,"Split","time",0,6,4,0
+"ZETA DIVISION",1,"Ascent","bomb",4,0,0,2
+"ZETA DIVISION",1,"Ascent","defuse",0,9,8,0
+"ZETA DIVISION",1,"Ascent","kills (post-plant)",7,0,0,20
+"ZETA DIVISION",1,"Ascent","kills (pre-plant)",5,19,16,11
+"ZETA DIVISION",1,"Ascent","time",0,0,3,0
+"ZETA DIVISION",3,"Bind","bomb",13,0,0,12
+"ZETA DIVISION",3,"Bind","defuse",0,21,19,0
+"ZETA DIVISION",3,"Bind","kills (post-plant)",35,0,0,28
+"ZETA DIVISION",3,"Bind","kills (pre-plant)",6,23,29,12
+"ZETA DIVISION",3,"Bind","time",0,3,4,0
+"ZETA DIVISION",8,"Breeze","bomb",3,0,0,3
+"ZETA DIVISION",8,"Breeze","defuse",0,9,2,0
+"ZETA DIVISION",8,"Breeze","kills (post-plant)",13,0,0,8
+"ZETA DIVISION",8,"Breeze","kills (pre-plant)",3,4,12,3
+"ZETA DIVISION",8,"Breeze","time",0,1,1,0
+"ZETA DIVISION",9,"Fracture","bomb",8,0,0,3
+"ZETA DIVISION",9,"Fracture","defuse",0,16,23,0
+"ZETA DIVISION",9,"Fracture","kills (post-plant)",36,0,0,36
+"ZETA DIVISION",9,"Fracture","kills (pre-plant)",11,23,28,6
+"ZETA DIVISION",9,"Fracture","time",0,1,4,0
+"ZETA DIVISION",7,"Haven","bomb",12,0,0,11
+"ZETA DIVISION",7,"Haven","defuse",0,22,29,0
+"ZETA DIVISION",7,"Haven","kills (post-plant)",39,0,0,53
+"ZETA DIVISION",7,"Haven","kills (pre-plant)",23,28,43,25
+"ZETA DIVISION",7,"Haven","time",0,1,2,0
+"ZETA DIVISION",4,"Icebox","bomb",11,0,0,5
+"ZETA DIVISION",4,"Icebox","defuse",0,21,40,0
+"ZETA DIVISION",4,"Icebox","kills (post-plant)",25,0,0,30
+"ZETA DIVISION",4,"Icebox","kills (pre-plant)",19,24,38,18
+"ZETA DIVISION",4,"Icebox","time",0,4,3,0
+"ZETA DIVISION",10,"Pearl","bomb",3,0,0,0
+"ZETA DIVISION",10,"Pearl","defuse",0,1,2,0
+"ZETA DIVISION",10,"Pearl","kills (post-plant)",5,0,0,5
+"ZETA DIVISION",10,"Pearl","kills (pre-plant)",0,3,2,2
+"ZETA DIVISION",10,"Pearl","time",0,0,1,0
+"ZETA DIVISION",2,"Split","bomb",8,0,0,4
+"ZETA DIVISION",2,"Split","defuse",0,11,18,0
+"ZETA DIVISION",2,"Split","kills (post-plant)",30,0,0,21
+"ZETA DIVISION",2,"Split","kills (pre-plant)",13,19,32,13
+"ZETA DIVISION",2,"Split","time",0,4,3,0
