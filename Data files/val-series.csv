@@ -1,0 +1,646 @@
+"Series Id","Event Id","Event Name","Team 1 Id","Team 1 Name","Team 2 Id","Team 2 Name","Best Of","Team 1 Score","Team 2 Score","Date","Total Count"
+35364,1866,"VALORANT Champions 2022 - Playoffs",6344,"LOUD",6426,"OpTic Gaming",5,3,1,"2022-09-18T00:00:00.000Z",645
+35365,1866,"VALORANT Champions 2022 - Playoffs",6426,"OpTic Gaming",286,"DRX",5,3,2,"2022-09-17T00:00:00.000Z",645
+35331,1866,"VALORANT Champions 2022 - Playoffs",17,"FunPlus Phoenix",286,"DRX",3,0,2,"2022-09-16T00:00:00.000Z",645
+35313,1866,"VALORANT Champions 2022 - Playoffs",6344,"LOUD",6426,"OpTic Gaming",3,2,0,"2022-09-16T00:00:00.000Z",645
+35332,1866,"VALORANT Champions 2022 - Playoffs",603,"XSET",17,"FunPlus Phoenix",3,1,2,"2022-09-13T00:00:00.000Z",645
+35309,1866,"VALORANT Champions 2022 - Playoffs",286,"DRX",1625,"FNATIC",3,2,1,"2022-09-13T00:00:00.000Z",645
+35252,1866,"VALORANT Champions 2022 - Playoffs",6426,"OpTic Gaming",603,"XSET",3,2,1,"2022-09-12T00:00:00.000Z",645
+35246,1866,"VALORANT Champions 2022 - Playoffs",286,"DRX",6344,"LOUD",3,0,2,"2022-09-12T00:00:00.000Z",645
+35253,1866,"VALORANT Champions 2022 - Playoffs",224,"Team Liquid",1625,"FNATIC",3,0,2,"2022-09-11T00:00:00.000Z",645
+35247,1866,"VALORANT Champions 2022 - Playoffs",17,"FunPlus Phoenix",738,"Leviatán",3,2,0,"2022-09-11T00:00:00.000Z",645
+35226,1866,"VALORANT Champions 2022 - Playoffs",603,"XSET",1625,"FNATIC",3,2,0,"2022-09-10T00:00:00.000Z",645
+35225,1866,"VALORANT Champions 2022 - Playoffs",6426,"OpTic Gaming",224,"Team Liquid",3,2,1,"2022-09-10T00:00:00.000Z",645
+35223,1866,"VALORANT Champions 2022 - Playoffs",286,"DRX",17,"FunPlus Phoenix",3,2,0,"2022-09-09T00:00:00.000Z",645
+35224,1866,"VALORANT Champions 2022 - Playoffs",738,"Leviatán",6344,"LOUD",3,0,2,"2022-09-09T00:00:00.000Z",645
+35221,1865,"VALORANT Champions 2022 - Group Stage",305,"100 Thieves",1625,"FNATIC",3,0,2,"2022-09-08T00:00:00.000Z",645
+35222,1865,"VALORANT Champions 2022 - Group Stage",17,"FunPlus Phoenix",976,"KRÜ Esports",3,2,0,"2022-09-08T00:00:00.000Z",645
+35215,1865,"VALORANT Champions 2022 - Group Stage",6344,"LOUD",611,"ZETA DIVISION",3,2,0,"2022-09-07T00:00:00.000Z",645
+35216,1865,"VALORANT Champions 2022 - Group Stage",184,"Paper Rex",224,"Team Liquid",3,1,2,"2022-09-07T00:00:00.000Z",645
+35199,1865,"VALORANT Champions 2022 - Group Stage",17,"FunPlus Phoenix",603,"XSET",3,1,2,"2022-09-05T00:00:00.000Z",645
+35157,1865,"VALORANT Champions 2022 - Group Stage",1264,"FURIA",1625,"FNATIC",3,1,2,"2022-09-05T00:00:00.000Z",645
+35200,1865,"VALORANT Champions 2022 - Group Stage",976,"KRÜ Esports",5903,"XERXIA Esports",3,2,1,"2022-09-05T00:00:00.000Z",645
+35123,1865,"VALORANT Champions 2022 - Group Stage",808,"EDward Gaming",224,"Team Liquid",3,0,2,"2022-09-04T00:00:00.000Z",645
+35133,1865,"VALORANT Champions 2022 - Group Stage",15,"BOOM Esports",611,"ZETA DIVISION",3,1,2,"2022-09-04T00:00:00.000Z",645
+35156,1865,"VALORANT Champions 2022 - Group Stage",286,"DRX",305,"100 Thieves",3,2,0,"2022-09-03T00:00:00.000Z",645
+34424,1865,"VALORANT Champions 2022 - Group Stage",17,"FunPlus Phoenix",976,"KRÜ Esports",3,2,0,"2022-09-03T00:00:00.000Z",645
+34425,1865,"VALORANT Champions 2022 - Group Stage",603,"XSET",5903,"XERXIA Esports",3,2,0,"2022-09-03T00:00:00.000Z",645
+35134,1865,"VALORANT Champions 2022 - Group Stage",6344,"LOUD",6426,"OpTic Gaming",3,1,2,"2022-09-02T00:00:00.000Z",645
+34427,1865,"VALORANT Champions 2022 - Group Stage",1625,"FNATIC",305,"100 Thieves",3,1,2,"2022-09-02T00:00:00.000Z",645
+34426,1865,"VALORANT Champions 2022 - Group Stage",286,"DRX",1264,"FURIA",3,2,0,"2022-09-02T00:00:00.000Z",645
+35122,1865,"VALORANT Champions 2022 - Group Stage",184,"Paper Rex",738,"Leviatán",3,0,2,"2022-09-01T00:00:00.000Z",645
+34422,1865,"VALORANT Champions 2022 - Group Stage",6426,"OpTic Gaming",15,"BOOM Esports",3,2,1,"2022-09-01T00:00:00.000Z",645
+34423,1865,"VALORANT Champions 2022 - Group Stage",611,"ZETA DIVISION",6344,"LOUD",3,0,2,"2022-09-01T00:00:00.000Z",645
+34421,1865,"VALORANT Champions 2022 - Group Stage",738,"Leviatán",224,"Team Liquid",3,2,0,"2022-08-31T00:00:00.000Z",645
+34420,1865,"VALORANT Champions 2022 - Group Stage",184,"Paper Rex",808,"EDward Gaming",3,2,1,"2022-08-31T00:00:00.000Z",645
+34293,1740,"VCT 2022 - North America - Last Chance Qualifier",5201,"The Guard",305,"100 Thieves",5,0,3,"2022-08-14T00:00:00.000Z",645
+34310,1741,"VCT 2022 - South America - Last Chance Qualifier",1264,"FURIA",5747,"TBK Esports",5,3,0,"2022-08-14T00:00:00.000Z",645
+34311,1739,"VCT 2022 - EMEA - Last Chance Qualifier",6656,"M3 Champions",224,"Team Liquid",5,1,3,"2022-08-14T00:00:00.000Z",645
+34294,1740,"VCT 2022 - North America - Last Chance Qualifier",617,"FaZe Clan",305,"100 Thieves",5,0,3,"2022-08-13T00:00:00.000Z",645
+34147,1741,"VCT 2022 - South America - Last Chance Qualifier",1264,"FURIA",976,"KRÜ Esports",5,0,3,"2022-08-13T00:00:00.000Z",645
+34309,1739,"VCT 2022 - EMEA - Last Chance Qualifier",224,"Team Liquid",194,"G2 Esports (Inactive)",3,2,1,"2022-08-13T00:00:00.000Z",645
+34221,1741,"VCT 2022 - South America - Last Chance Qualifier",5747,"TBK Esports",600,"Keyd Stars",3,2,1,"2022-08-13T00:00:00.000Z",645
+34256,1739,"VCT 2022 - EMEA - Last Chance Qualifier",194,"G2 Esports (Inactive)",7050,"OG LDN UTD",3,2,0,"2022-08-13T00:00:00.000Z",645
+34251,1739,"VCT 2022 - EMEA - Last Chance Qualifier",6656,"M3 Champions",224,"Team Liquid",3,2,1,"2022-08-13T00:00:00.000Z",645
+34269,1740,"VCT 2022 - North America - Last Chance Qualifier",305,"100 Thieves",141,"Cloud9",3,2,0,"2022-08-12T00:00:00.000Z",645
+34132,1740,"VCT 2022 - North America - Last Chance Qualifier",5201,"The Guard",617,"FaZe Clan",3,2,0,"2022-08-12T00:00:00.000Z",645
+34080,1740,"VCT 2022 - North America - Last Chance Qualifier",141,"Cloud9",116,"NRG Esports",3,2,0,"2022-08-11T00:00:00.000Z",645
+34079,1740,"VCT 2022 - North America - Last Chance Qualifier",305,"100 Thieves",388,"Sentinels",3,2,1,"2022-08-11T00:00:00.000Z",645
+34253,1739,"VCT 2022 - EMEA - Last Chance Qualifier",7050,"OG LDN UTD",386,"Guild Esports",3,2,0,"2022-08-11T00:00:00.000Z",645
+34252,1739,"VCT 2022 - EMEA - Last Chance Qualifier",4220,"Natus Vincere",194,"G2 Esports (Inactive)",3,0,2,"2022-08-11T00:00:00.000Z",645
+34148,1741,"VCT 2022 - South America - Last Chance Qualifier",600,"Keyd Stars",5750,"Ninjas in Pyjamas",3,2,1,"2022-08-10T00:00:00.000Z",645
+34139,1739,"VCT 2022 - EMEA - Last Chance Qualifier",224,"Team Liquid",4220,"Natus Vincere",3,2,0,"2022-08-10T00:00:00.000Z",645
+34149,1741,"VCT 2022 - South America - Last Chance Qualifier",683,"9z Team",5747,"TBK Esports",3,0,2,"2022-08-10T00:00:00.000Z",645
+34123,1739,"VCT 2022 - EMEA - Last Chance Qualifier",7050,"OG LDN UTD",6656,"M3 Champions",3,1,2,"2022-08-10T00:00:00.000Z",645
+34122,1741,"VCT 2022 - South America - Last Chance Qualifier",5747,"TBK Esports",553,"E-Xolos LAZER",3,2,1,"2022-08-09T00:00:00.000Z",645
+34138,1739,"VCT 2022 - EMEA - Last Chance Qualifier",520,"BBL Esports",386,"Guild Esports",3,0,2,"2022-08-09T00:00:00.000Z",645
+34082,1741,"VCT 2022 - South America - Last Chance Qualifier",5750,"Ninjas in Pyjamas",6025,"FUSION",3,2,0,"2022-08-09T00:00:00.000Z",645
+34124,1739,"VCT 2022 - EMEA - Last Chance Qualifier",194,"G2 Esports (Inactive)",2597,"Acend",3,2,1,"2022-08-09T00:00:00.000Z",645
+34121,1741,"VCT 2022 - South America - Last Chance Qualifier",976,"KRÜ Esports",600,"Keyd Stars",3,2,0,"2022-08-08T00:00:00.000Z",645
+33871,1739,"VCT 2022 - EMEA - Last Chance Qualifier",386,"Guild Esports",4220,"Natus Vincere",3,1,2,"2022-08-08T00:00:00.000Z",645
+34081,1741,"VCT 2022 - South America - Last Chance Qualifier",683,"9z Team",1264,"FURIA",3,0,2,"2022-08-08T00:00:00.000Z",645
+33870,1739,"VCT 2022 - EMEA - Last Chance Qualifier",224,"Team Liquid",520,"BBL Esports",3,2,0,"2022-08-08T00:00:00.000Z",645
+34032,1740,"VCT 2022 - North America - Last Chance Qualifier",1448,"Evil Geniuses",116,"NRG Esports",3,0,2,"2022-08-07T00:00:00.000Z",645
+34030,1740,"VCT 2022 - North America - Last Chance Qualifier",617,"FaZe Clan",305,"100 Thieves",3,2,1,"2022-08-07T00:00:00.000Z",645
+33811,1741,"VCT 2022 - South America - Last Chance Qualifier",976,"KRÜ Esports",5747,"TBK Esports",3,2,1,"2022-08-07T00:00:00.000Z",645
+33869,1739,"VCT 2022 - EMEA - Last Chance Qualifier",6656,"M3 Champions",2597,"Acend",3,2,1,"2022-08-07T00:00:00.000Z",645
+33812,1741,"VCT 2022 - South America - Last Chance Qualifier",600,"Keyd Stars",553,"E-Xolos LAZER",3,2,0,"2022-08-07T00:00:00.000Z",645
+33868,1739,"VCT 2022 - EMEA - Last Chance Qualifier",194,"G2 Esports (Inactive)",7050,"OG LDN UTD",3,0,2,"2022-08-07T00:00:00.000Z",645
+34024,1742,"VCT 2022 - APAC - Last Chance Qualifier",15,"BOOM Esports",667,"Onic Esports",5,3,1,"2022-08-07T00:00:00.000Z",645
+34031,1740,"VCT 2022 - North America - Last Chance Qualifier",388,"Sentinels",7510,"Shopify Rebellion",3,2,0,"2022-08-06T00:00:00.000Z",645
+34029,1740,"VCT 2022 - North America - Last Chance Qualifier",5201,"The Guard",141,"Cloud9",3,2,0,"2022-08-06T00:00:00.000Z",645
+33810,1741,"VCT 2022 - South America - Last Chance Qualifier",6025,"FUSION",1264,"FURIA",3,0,2,"2022-08-06T00:00:00.000Z",645
+33809,1741,"VCT 2022 - South America - Last Chance Qualifier",5750,"Ninjas in Pyjamas",683,"9z Team",3,1,2,"2022-08-06T00:00:00.000Z",645
+34023,1742,"VCT 2022 - APAC - Last Chance Qualifier",4838,"Bleed Esports",667,"Onic Esports",3,1,2,"2022-08-06T00:00:00.000Z",645
+34022,1742,"VCT 2022 - APAC - Last Chance Qualifier",4696,"Team Secret",667,"Onic Esports",3,1,2,"2022-08-06T00:00:00.000Z",645
+33622,1740,"VCT 2022 - North America - Last Chance Qualifier",7510,"Shopify Rebellion",141,"Cloud9",3,0,2,"2022-08-05T00:00:00.000Z",645
+33624,1740,"VCT 2022 - North America - Last Chance Qualifier",116,"NRG Esports",305,"100 Thieves",3,1,2,"2022-08-05T00:00:00.000Z",645
+33968,1742,"VCT 2022 - APAC - Last Chance Qualifier",15,"BOOM Esports",4838,"Bleed Esports",3,2,1,"2022-08-05T00:00:00.000Z",645
+34007,1742,"VCT 2022 - APAC - Last Chance Qualifier",667,"Onic Esports",93,"Made in Thailand",3,2,0,"2022-08-05T00:00:00.000Z",645
+34006,1742,"VCT 2022 - APAC - Last Chance Qualifier",4696,"Team Secret",101,"ORDER",3,2,1,"2022-08-05T00:00:00.000Z",645
+33623,1740,"VCT 2022 - North America - Last Chance Qualifier",617,"FaZe Clan",1448,"Evil Geniuses",3,2,1,"2022-08-04T00:00:00.000Z",645
+33621,1740,"VCT 2022 - North America - Last Chance Qualifier",5201,"The Guard",388,"Sentinels",3,2,1,"2022-08-04T00:00:00.000Z",645
+33952,1742,"VCT 2022 - APAC - Last Chance Qualifier",493,"Alter Ego",93,"Made in Thailand",3,1,2,"2022-08-04T00:00:00.000Z",645
+33951,1742,"VCT 2022 - APAC - Last Chance Qualifier",101,"ORDER",225,"CERBERUS Esports",3,2,0,"2022-08-04T00:00:00.000Z",645
+33891,1742,"VCT 2022 - APAC - Last Chance Qualifier",4838,"Bleed Esports",4696,"Team Secret",3,2,0,"2022-08-04T00:00:00.000Z",645
+33890,1742,"VCT 2022 - APAC - Last Chance Qualifier",667,"Onic Esports",15,"BOOM Esports",3,0,2,"2022-08-03T00:00:00.000Z",645
+33889,1742,"VCT 2022 - APAC - Last Chance Qualifier",93,"Made in Thailand",3457,"Fancy United Esports",3,2,1,"2022-08-03T00:00:00.000Z",645
+33867,1742,"VCT 2022 - APAC - Last Chance Qualifier",1643,"Griffin E-Sports",225,"CERBERUS Esports",3,1,2,"2022-08-03T00:00:00.000Z",645
+33458,1742,"VCT 2022 - APAC - Last Chance Qualifier",4838,"Bleed Esports",493,"Alter Ego",3,2,0,"2022-08-02T00:00:00.000Z",645
+33456,1742,"VCT 2022 - APAC - Last Chance Qualifier",667,"Onic Esports",101,"ORDER",3,2,0,"2022-08-02T00:00:00.000Z",645
+33459,1742,"VCT 2022 - APAC - Last Chance Qualifier",93,"Made in Thailand",4696,"Team Secret",3,1,2,"2022-08-02T00:00:00.000Z",645
+33457,1742,"VCT 2022 - APAC - Last Chance Qualifier",1643,"Griffin E-Sports",15,"BOOM Esports",3,1,2,"2022-08-01T00:00:00.000Z",645
+33455,1742,"VCT 2022 - APAC - Last Chance Qualifier",225,"CERBERUS Esports",493,"Alter Ego",3,0,2,"2022-08-01T00:00:00.000Z",645
+33454,1742,"VCT 2022 - APAC - Last Chance Qualifier",101,"ORDER",3457,"Fancy United Esports",3,2,0,"2022-08-01T00:00:00.000Z",645
+33394,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",184,"Paper Rex",17,"FunPlus Phoenix",5,2,3,"2022-07-24T00:00:00.000Z",645
+33393,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",6426,"OpTic Gaming",17,"FunPlus Phoenix",5,1,3,"2022-07-23T00:00:00.000Z",645
+33219,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",17,"FunPlus Phoenix",1625,"FNATIC",3,2,1,"2022-07-22T00:00:00.000Z",645
+33178,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",184,"Paper Rex",6426,"OpTic Gaming",3,2,1,"2022-07-22T00:00:00.000Z",645
+33138,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",286,"DRX",17,"FunPlus Phoenix",3,0,2,"2022-07-18T00:00:00.000Z",645
+33143,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",1625,"FNATIC",738,"Leviatán",3,2,1,"2022-07-18T00:00:00.000Z",645
+33115,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",286,"DRX",6426,"OpTic Gaming",3,1,2,"2022-07-17T00:00:00.000Z",645
+33055,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",184,"Paper Rex",1625,"FNATIC",3,2,0,"2022-07-17T00:00:00.000Z",645
+33116,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",738,"Leviatán",603,"XSET",3,2,1,"2022-07-16T00:00:00.000Z",645
+33056,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",386,"Guild Esports",17,"FunPlus Phoenix",3,1,2,"2022-07-16T00:00:00.000Z",645
+32996,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",603,"XSET",6426,"OpTic Gaming",3,0,2,"2022-07-15T00:00:00.000Z",645
+32997,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",738,"Leviatán",286,"DRX",3,1,2,"2022-07-15T00:00:00.000Z",645
+32998,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",1625,"FNATIC",17,"FunPlus Phoenix",3,2,0,"2022-07-14T00:00:00.000Z",645
+32999,1694,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Playoffs",184,"Paper Rex",386,"Guild Esports",3,2,0,"2022-07-14T00:00:00.000Z",645
+32856,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",976,"KRÜ Esports",6426,"OpTic Gaming",3,0,2,"2022-07-13T00:00:00.000Z",645
+32971,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",17,"FunPlus Phoenix",1840,"NORTHEPTION",3,2,0,"2022-07-13T00:00:00.000Z",645
+32843,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",6426,"OpTic Gaming",6344,"LOUD",3,2,1,"2022-07-12T00:00:00.000Z",645
+32855,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",5903,"XERXIA Esports",1840,"NORTHEPTION",3,1,2,"2022-07-12T00:00:00.000Z",645
+32854,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",17,"FunPlus Phoenix",286,"DRX",3,1,2,"2022-07-12T00:00:00.000Z",645
+32842,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",386,"Guild Esports",976,"KRÜ Esports",3,2,1,"2022-07-11T00:00:00.000Z",645
+32352,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",17,"FunPlus Phoenix",5903,"XERXIA Esports",3,2,1,"2022-07-11T00:00:00.000Z",645
+32350,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",6426,"OpTic Gaming",386,"Guild Esports",3,0,2,"2022-07-10T00:00:00.000Z",645
+32349,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",6344,"LOUD",976,"KRÜ Esports",3,1,2,"2022-07-10T00:00:00.000Z",645
+32351,1687,"VALORANT Champions Tour 2022 - Stage 2 - Masters Copenhagen - Group Stage",286,"DRX",1840,"NORTHEPTION",3,2,0,"2022-07-10T00:00:00.000Z",645
+31921,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",6426,"OpTic Gaming",603,"XSET",5,1,3,"2022-06-26T00:00:00.000Z",645
+31917,1599,"VCT LATAM 2022 - Stage 2 - Playoffs",976,"KRÜ Esports",738,"Leviatán",5,0,3,"2022-06-26T00:00:00.000Z",645
+32016,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",6344,"LOUD",5750,"Ninjas in Pyjamas",5,3,0,"2022-06-26T00:00:00.000Z",645
+31914,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",1625,"FNATIC",17,"FunPlus Phoenix",5,3,0,"2022-06-26T00:00:00.000Z",645
+32046,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",286,"DRX",6366,"Maru Gaming",5,3,0,"2022-06-26T00:00:00.000Z",645
+32076,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",184,"Paper Rex",5903,"XERXIA Esports",5,3,0,"2022-06-26T00:00:00.000Z",645
+32045,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",611,"ZETA DIVISION",1840,"NORTHEPTION",5,1,3,"2022-06-26T00:00:00.000Z",645
+32044,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",4696,"Team Secret",5903,"XERXIA Esports",3,1,2,"2022-06-26T00:00:00.000Z",645
+31922,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",603,"XSET",617,"FaZe Clan",5,3,1,"2022-06-25T00:00:00.000Z",645
+31916,1599,"VCT LATAM 2022 - Stage 2 - Playoffs",6025,"FUSION",738,"Leviatán",5,2,3,"2022-06-25T00:00:00.000Z",645
+31908,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",5750,"Ninjas in Pyjamas",600,"Keyd Stars",5,3,2,"2022-06-25T00:00:00.000Z",645
+31915,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",386,"Guild Esports",17,"FunPlus Phoenix",5,0,3,"2022-06-25T00:00:00.000Z",645
+32002,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",667,"Onic Esports",5903,"XERXIA Esports",3,0,2,"2022-06-25T00:00:00.000Z",645
+31920,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",184,"Paper Rex",4696,"Team Secret",3,2,0,"2022-06-25T00:00:00.000Z",645
+31958,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",997,"DAMWON Gaming",6366,"Maru Gaming",5,1,3,"2022-06-25T00:00:00.000Z",645
+31919,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",4838,"Bleed Esports",5903,"XERXIA Esports",3,1,2,"2022-06-25T00:00:00.000Z",645
+31940,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",444,"Crazy Raccoon",1840,"NORTHEPTION",3,0,2,"2022-06-25T00:00:00.000Z",645
+31918,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",667,"Onic Esports",493,"Alter Ego",3,2,1,"2022-06-25T00:00:00.000Z",645
+31236,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",1840,"NORTHEPTION",611,"ZETA DIVISION",3,0,2,"2022-06-25T00:00:00.000Z",645
+31635,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",116,"NRG Esports",617,"FaZe Clan",3,1,2,"2022-06-25T00:00:00.000Z",645
+31880,1599,"VCT LATAM 2022 - Stage 2 - Playoffs",6025,"FUSION",976,"KRÜ Esports",3,0,2,"2022-06-24T00:00:00.000Z",645
+31634,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",603,"XSET",6426,"OpTic Gaming",5,1,3,"2022-06-24T00:00:00.000Z",645
+31881,1599,"VCT LATAM 2022 - Stage 2 - Playoffs",738,"Leviatán",553,"E-Xolos LAZER",3,2,0,"2022-06-24T00:00:00.000Z",645
+31640,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",17,"FunPlus Phoenix",6656,"M3 Champions",3,2,1,"2022-06-24T00:00:00.000Z",645
+31826,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",6344,"LOUD",5750,"Ninjas in Pyjamas",5,3,0,"2022-06-24T00:00:00.000Z",645
+31594,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",386,"Guild Esports",1625,"FNATIC",3,0,2,"2022-06-24T00:00:00.000Z",645
+31863,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",15,"BOOM Esports",5903,"XERXIA Esports",3,1,2,"2022-06-24T00:00:00.000Z",645
+31862,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",493,"Alter Ego",1643,"Griffin E-Sports",3,2,0,"2022-06-24T00:00:00.000Z",645
+31861,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",667,"Onic Esports",4696,"Team Secret",3,0,2,"2022-06-24T00:00:00.000Z",645
+31860,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",184,"Paper Rex",4838,"Bleed Esports",3,2,1,"2022-06-24T00:00:00.000Z",645
+31872,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",600,"Keyd Stars",5748,"Los Grandes",3,2,0,"2022-06-23T00:00:00.000Z",645
+31487,1599,"VCT LATAM 2022 - Stage 2 - Playoffs",976,"KRÜ Esports",553,"E-Xolos LAZER",3,2,0,"2022-06-23T00:00:00.000Z",645
+31486,1599,"VCT LATAM 2022 - Stage 2 - Playoffs",6025,"FUSION",738,"Leviatán",3,2,1,"2022-06-23T00:00:00.000Z",645
+31798,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",5748,"Los Grandes",1264,"FURIA",3,2,1,"2022-06-23T00:00:00.000Z",645
+31787,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",600,"Keyd Stars",5675,"MIBR",3,2,0,"2022-06-23T00:00:00.000Z",645
+31633,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",5903,"XERXIA Esports",4696,"Team Secret",3,1,2,"2022-06-23T00:00:00.000Z",645
+31632,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",667,"Onic Esports",15,"BOOM Esports",3,2,1,"2022-06-23T00:00:00.000Z",645
+31631,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",4838,"Bleed Esports",1643,"Griffin E-Sports",3,2,0,"2022-06-23T00:00:00.000Z",645
+31630,1612,"VCT 2022: APAC Stage 2 Challengers - Playoffs",184,"Paper Rex",493,"Alter Ego",3,2,1,"2022-06-23T00:00:00.000Z",645
+31639,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",5750,"Ninjas in Pyjamas",600,"Keyd Stars",3,2,0,"2022-06-22T00:00:00.000Z",645
+31638,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",6344,"LOUD",5748,"Los Grandes",3,2,0,"2022-06-22T00:00:00.000Z",645
+31637,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",1264,"FURIA",600,"Keyd Stars",3,1,2,"2022-06-21T00:00:00.000Z",645
+31636,1444,"VCT Brazil 2022 - Stage 2 Challengers - Playoffs",5675,"MIBR",5748,"Los Grandes",3,1,2,"2022-06-21T00:00:00.000Z",645
+31713,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",6366,"Maru Gaming",1515,"World Game Star",3,2,0,"2022-06-21T00:00:00.000Z",645
+31712,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",286,"DRX",997,"DAMWON Gaming",3,2,0,"2022-06-21T00:00:00.000Z",645
+31614,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",1515,"World Game Star",1267,"Spear Gaming",3,2,1,"2022-06-20T00:00:00.000Z",645
+31612,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",3457,"Fancy United Esports",4696,"Team Secret",3,0,2,"2022-06-20T00:00:00.000Z",645
+31613,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",5373,"On Sla2ers",6366,"Maru Gaming",3,0,2,"2022-06-20T00:00:00.000Z",645
+31611,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",101,"ORDER",15,"BOOM Esports",3,1,2,"2022-06-20T00:00:00.000Z",645
+31610,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",493,"Alter Ego",516,"Rex Regum Qeon",3,2,1,"2022-06-20T00:00:00.000Z",645
+31598,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",1448,"Evil Geniuses",116,"NRG Esports",3,1,2,"2022-06-19T00:00:00.000Z",645
+31599,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",305,"100 Thieves",617,"FaZe Clan",3,1,2,"2022-06-19T00:00:00.000Z",645
+31592,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",17,"FunPlus Phoenix",2597,"Acend",3,2,1,"2022-06-19T00:00:00.000Z",645
+31593,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",6656,"M3 Champions",224,"Team Liquid",3,2,1,"2022-06-19T00:00:00.000Z",645
+31596,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",5373,"On Sla2ers",997,"DAMWON Gaming",3,1,2,"2022-06-19T00:00:00.000Z",645
+31597,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",7294,"Gaimin Gladiators",1643,"Griffin E-Sports",3,0,2,"2022-06-19T00:00:00.000Z",645
+31595,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",286,"DRX",1515,"World Game Star",3,2,0,"2022-06-19T00:00:00.000Z",645
+31581,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",4838,"Bleed Esports",3457,"Fancy United Esports",3,2,1,"2022-06-19T00:00:00.000Z",645
+31580,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",184,"Paper Rex",101,"ORDER",3,2,0,"2022-06-19T00:00:00.000Z",645
+31285,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",6426,"OpTic Gaming",1448,"Evil Geniuses",3,2,0,"2022-06-18T00:00:00.000Z",645
+31284,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",603,"XSET",305,"100 Thieves",3,2,0,"2022-06-18T00:00:00.000Z",645
+31291,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",1625,"FNATIC",17,"FunPlus Phoenix",3,2,1,"2022-06-18T00:00:00.000Z",645
+31290,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",386,"Guild Esports",6656,"M3 Champions",3,2,0,"2022-06-18T00:00:00.000Z",645
+31579,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",5903,"XERXIA Esports",493,"Alter Ego",3,2,0,"2022-06-18T00:00:00.000Z",645
+31561,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",997,"DAMWON Gaming",1267,"Spear Gaming",3,2,0,"2022-06-18T00:00:00.000Z",645
+31560,1605,"VCT Korea 2022 - Stage 2 Challengers - Playoffs",6366,"Maru Gaming",1515,"World Game Star",3,1,2,"2022-06-18T00:00:00.000Z",645
+31578,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",667,"Onic Esports",7294,"Gaimin Gladiators",3,2,0,"2022-06-18T00:00:00.000Z",645
+31549,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",4696,"Team Secret",4232,"FW Esports",3,2,0,"2022-06-18T00:00:00.000Z",645
+31287,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",617,"FaZe Clan",279,"Luminosity Gaming",3,2,1,"2022-06-17T00:00:00.000Z",645
+31286,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",978,"Ghost Gaming",116,"NRG Esports",3,0,2,"2022-06-17T00:00:00.000Z",645
+31289,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",224,"Team Liquid",17,"FunPlus Phoenix",3,1,2,"2022-06-17T00:00:00.000Z",645
+31288,1468,"VCT EMEA 2022 - Stage 2 Challengers - Playoffs",2597,"Acend",6656,"M3 Champions",3,0,2,"2022-06-17T00:00:00.000Z",645
+31548,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",15,"BOOM Esports",2600,"Oasis Gaming",3,2,0,"2022-06-17T00:00:00.000Z",645
+31547,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",516,"Rex Regum Qeon",363,"Global Esports",3,2,1,"2022-06-17T00:00:00.000Z",645
+31546,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",93,"Made in Thailand",1643,"Griffin E-Sports",3,0,2,"2022-06-17T00:00:00.000Z",645
+31283,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",978,"Ghost Gaming",1448,"Evil Geniuses",3,0,2,"2022-06-16T00:00:00.000Z",645
+31282,1490,"VCT North America 2022 - Stage 2 Challengers - Playoffs",617,"FaZe Clan",305,"100 Thieves",3,1,2,"2022-06-16T00:00:00.000Z",645
+31475,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",4838,"Bleed Esports",4696,"Team Secret",3,2,0,"2022-06-16T00:00:00.000Z",645
+31473,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",184,"Paper Rex",15,"BOOM Esports",3,2,0,"2022-06-16T00:00:00.000Z",645
+31471,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",5903,"XERXIA Esports",516,"Rex Regum Qeon",3,2,0,"2022-06-16T00:00:00.000Z",645
+31469,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",667,"Onic Esports",93,"Made in Thailand",3,2,0,"2022-06-16T00:00:00.000Z",645
+31476,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",4232,"FW Esports",3457,"Fancy United Esports",3,1,2,"2022-06-15T00:00:00.000Z",645
+31474,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",2600,"Oasis Gaming",101,"ORDER",3,0,2,"2022-06-15T00:00:00.000Z",645
+31472,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",493,"Alter Ego",363,"Global Esports",3,2,0,"2022-06-15T00:00:00.000Z",645
+31470,1549,"VCT 2022: APAC Stage 2 Challengers - Group Stage",7294,"Gaimin Gladiators",1643,"Griffin E-Sports",3,2,0,"2022-06-15T00:00:00.000Z",645
+29234,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6366,"Maru Gaming",6406,"CNJ Esports",3,1,2,"2022-06-13T00:00:00.000Z",645
+29233,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",286,"DRX",1267,"Spear Gaming",3,2,0,"2022-06-13T00:00:00.000Z",645
+30850,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5750,"Ninjas in Pyjamas",5675,"MIBR",3,2,1,"2022-06-12T00:00:00.000Z",645
+31088,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",6426,"OpTic Gaming",279,"Luminosity Gaming",3,2,0,"2022-06-12T00:00:00.000Z",645
+31086,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",141,"Cloud9",388,"Sentinels",3,2,0,"2022-06-12T00:00:00.000Z",645
+30849,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5747,"TBK Esports",319,"Liberty",3,2,1,"2022-06-12T00:00:00.000Z",645
+31244,1574,"VCT LATAM South 2022 - Stage 2 Challengers - Play-In",738,"Leviatán",683,"9z Team",3,2,0,"2022-06-12T00:00:00.000Z",645
+31083,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",1625,"FNATIC",194,"G2 Esports (Inactive)",3,2,1,"2022-06-12T00:00:00.000Z",645
+31082,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",329,"BIG",520,"BBL Esports",3,0,2,"2022-06-12T00:00:00.000Z",645
+31234,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",444,"Crazy Raccoon",334,"REJECT",3,2,0,"2022-06-12T00:00:00.000Z",645
+29232,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",5373,"On Sla2ers",1515,"World Game Star",3,1,2,"2022-06-12T00:00:00.000Z",645
+31232,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",444,"Crazy Raccoon",740,"BLUE BEES.ESP",3,2,0,"2022-06-12T00:00:00.000Z",645
+29231,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",997,"DAMWON Gaming",7156,"Tartarus",3,2,0,"2022-06-12T00:00:00.000Z",645
+31189,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",488,"FAV gaming",334,"REJECT",3,0,2,"2022-06-12T00:00:00.000Z",645
+30764,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",580,"Gamelanders Blue",6344,"LOUD",3,0,2,"2022-06-11T00:00:00.000Z",645
+31087,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",305,"100 Thieves",978,"Ghost Gaming",3,0,2,"2022-06-11T00:00:00.000Z",645
+30930,1574,"VCT LATAM South 2022 - Stage 2 Challengers - Play-In",976,"KRÜ Esports",738,"Leviatán",3,2,0,"2022-06-11T00:00:00.000Z",645
+31085,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",116,"NRG Esports",5201,"The Guard",3,2,1,"2022-06-11T00:00:00.000Z",645
+30847,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",1380,"Stars Horizon",5748,"Los Grandes",3,0,2,"2022-06-11T00:00:00.000Z",645
+30931,1574,"VCT LATAM South 2022 - Stage 2 Challengers - Play-In",1503,"Movistar Optix",683,"9z Team",3,0,2,"2022-06-11T00:00:00.000Z",645
+31080,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",5439,"FOKUS",7050,"OG LDN UTD",3,2,1,"2022-06-11T00:00:00.000Z",645
+31081,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",4220,"Natus Vincere",386,"Guild Esports",3,2,1,"2022-06-11T00:00:00.000Z",645
+31127,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",611,"ZETA DIVISION",488,"FAV gaming",3,2,0,"2022-06-11T00:00:00.000Z",645
+29230,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6366,"Maru Gaming",1267,"Spear Gaming",3,2,1,"2022-06-11T00:00:00.000Z",645
+31126,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",1840,"NORTHEPTION",444,"Crazy Raccoon",3,2,1,"2022-06-11T00:00:00.000Z",645
+29229,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",286,"DRX",6406,"CNJ Esports",3,2,0,"2022-06-11T00:00:00.000Z",645
+31125,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",740,"BLUE BEES.ESP",206,"Sengoku Gaming",3,2,0,"2022-06-11T00:00:00.000Z",645
+31121,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",5218,"Jadeite",334,"REJECT",3,1,2,"2022-06-11T00:00:00.000Z",645
+30852,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",617,"FaZe Clan",1448,"Evil Geniuses",3,2,0,"2022-06-10T00:00:00.000Z",645
+30851,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",603,"XSET",278,"TSM",3,2,0,"2022-06-10T00:00:00.000Z",645
+31079,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",6656,"M3 Champions",224,"Team Liquid",3,0,2,"2022-06-10T00:00:00.000Z",645
+31078,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",2597,"Acend",17,"FunPlus Phoenix",3,2,1,"2022-06-10T00:00:00.000Z",645
+30977,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",206,"Sengoku Gaming",488,"FAV gaming",3,0,2,"2022-06-10T00:00:00.000Z",645
+30976,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",611,"ZETA DIVISION",740,"BLUE BEES.ESP",3,2,0,"2022-06-10T00:00:00.000Z",645
+30975,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",444,"Crazy Raccoon",334,"REJECT",3,2,0,"2022-06-10T00:00:00.000Z",645
+30974,1576,"VCT Japan 2022 - Stage 2 Challengers - Main Event",1840,"NORTHEPTION",5218,"Jadeite",3,2,1,"2022-06-10T00:00:00.000Z",645
+29228,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",997,"DAMWON Gaming",1515,"World Game Star",3,2,1,"2022-06-06T00:00:00.000Z",645
+29227,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",5373,"On Sla2ers",7156,"Tartarus",3,2,0,"2022-06-06T00:00:00.000Z",645
+30840,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",1380,"Stars Horizon",6344,"LOUD",3,0,2,"2022-06-05T00:00:00.000Z",645
+30633,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",141,"Cloud9",279,"Luminosity Gaming",3,0,2,"2022-06-05T00:00:00.000Z",645
+30839,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",1264,"FURIA",580,"Gamelanders Blue",3,2,0,"2022-06-05T00:00:00.000Z",645
+30632,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",116,"NRG Esports",305,"100 Thieves",3,0,2,"2022-06-05T00:00:00.000Z",645
+30768,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",1503,"Movistar Optix",976,"KRÜ Esports",3,0,2,"2022-06-05T00:00:00.000Z",645
+30639,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",5439,"FOKUS",1625,"FNATIC",3,0,2,"2022-06-05T00:00:00.000Z",645
+30638,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",520,"BBL Esports",386,"Guild Esports",3,0,2,"2022-06-05T00:00:00.000Z",645
+29226,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6406,"CNJ Esports",1267,"Spear Gaming",3,1,2,"2022-06-05T00:00:00.000Z",645
+29225,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",286,"DRX",6366,"Maru Gaming",3,2,0,"2022-06-05T00:00:00.000Z",645
+30641,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",600,"Keyd Stars",5747,"TBK Esports",3,2,0,"2022-06-04T00:00:00.000Z",645
+30631,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",278,"TSM",978,"Ghost Gaming",3,0,2,"2022-06-04T00:00:00.000Z",645
+30394,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",683,"9z Team",738,"Leviatán",3,0,2,"2022-06-04T00:00:00.000Z",645
+30640,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",319,"Liberty",5675,"MIBR",3,1,2,"2022-06-04T00:00:00.000Z",645
+30630,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",388,"Sentinels",617,"FaZe Clan",3,0,2,"2022-06-04T00:00:00.000Z",645
+30393,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",5106,"PAMPAS",976,"KRÜ Esports",3,1,2,"2022-06-04T00:00:00.000Z",645
+30637,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",7050,"OG LDN UTD",17,"FunPlus Phoenix",3,0,2,"2022-06-04T00:00:00.000Z",645
+30636,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",329,"BIG",6656,"M3 Champions",3,2,0,"2022-06-04T00:00:00.000Z",645
+29224,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",997,"DAMWON Gaming",5373,"On Sla2ers",3,1,2,"2022-06-04T00:00:00.000Z",645
+29223,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1515,"World Game Star",7156,"Tartarus",3,2,0,"2022-06-04T00:00:00.000Z",645
+30629,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",1448,"Evil Geniuses",6426,"OpTic Gaming",3,2,1,"2022-06-03T00:00:00.000Z",645
+30628,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",5201,"The Guard",603,"XSET",3,1,2,"2022-06-03T00:00:00.000Z",645
+30635,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",4220,"Natus Vincere",224,"Team Liquid",3,1,2,"2022-06-03T00:00:00.000Z",645
+30634,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",2597,"Acend",194,"G2 Esports (Inactive)",3,2,1,"2022-06-03T00:00:00.000Z",645
+30517,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",7156,"Tartarus",286,"DRX",3,0,2,"2022-05-31T00:00:00.000Z",645
+29221,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1515,"World Game Star",6366,"Maru Gaming",3,1,2,"2022-05-31T00:00:00.000Z",645
+29220,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6406,"CNJ Esports",5373,"On Sla2ers",3,0,2,"2022-05-30T00:00:00.000Z",645
+29219,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1267,"Spear Gaming",997,"DAMWON Gaming",3,0,2,"2022-05-30T00:00:00.000Z",645
+29785,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",600,"Keyd Stars",319,"Liberty",3,2,1,"2022-05-29T00:00:00.000Z",645
+29865,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",978,"Ghost Gaming",116,"NRG Esports",3,2,0,"2022-05-29T00:00:00.000Z",645
+30261,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",738,"Leviatán",976,"KRÜ Esports",3,1,2,"2022-05-29T00:00:00.000Z",645
+29784,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5747,"TBK Esports",5750,"Ninjas in Pyjamas",3,1,2,"2022-05-29T00:00:00.000Z",645
+29866,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",617,"FaZe Clan",141,"Cloud9",3,2,0,"2022-05-29T00:00:00.000Z",645
+30260,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",5106,"PAMPAS",1503,"Movistar Optix",3,0,2,"2022-05-29T00:00:00.000Z",645
+30094,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",5439,"FOKUS",17,"FunPlus Phoenix",3,0,2,"2022-05-29T00:00:00.000Z",645
+30093,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",520,"BBL Esports",6656,"M3 Champions",3,0,2,"2022-05-29T00:00:00.000Z",645
+29218,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",7156,"Tartarus",6366,"Maru Gaming",3,0,2,"2022-05-29T00:00:00.000Z",645
+29217,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1515,"World Game Star",286,"DRX",3,0,2,"2022-05-29T00:00:00.000Z",645
+29783,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",1264,"FURIA",5748,"Los Grandes",3,2,0,"2022-05-28T00:00:00.000Z",645
+29863,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",305,"100 Thieves",603,"XSET",3,2,0,"2022-05-28T00:00:00.000Z",645
+29787,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",7014,"SunXet Club",738,"Leviatán",3,0,2,"2022-05-28T00:00:00.000Z",645
+29864,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",388,"Sentinels",6426,"OpTic Gaming",3,0,2,"2022-05-28T00:00:00.000Z",645
+29782,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",1380,"Stars Horizon",580,"Gamelanders Blue",3,2,0,"2022-05-28T00:00:00.000Z",645
+29786,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",5106,"PAMPAS",683,"9z Team",3,0,2,"2022-05-28T00:00:00.000Z",645
+30092,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",2597,"Acend",1625,"FNATIC",3,0,2,"2022-05-28T00:00:00.000Z",645
+30091,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",329,"BIG",4220,"Natus Vincere",3,1,2,"2022-05-28T00:00:00.000Z",645
+29216,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6406,"CNJ Esports",997,"DAMWON Gaming",3,0,2,"2022-05-28T00:00:00.000Z",645
+29215,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",5373,"On Sla2ers",1267,"Spear Gaming",3,2,0,"2022-05-28T00:00:00.000Z",645
+29862,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",279,"Luminosity Gaming",1448,"Evil Geniuses",3,0,2,"2022-05-27T00:00:00.000Z",645
+29861,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",5201,"The Guard",278,"TSM",3,2,0,"2022-05-27T00:00:00.000Z",645
+30090,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",7050,"OG LDN UTD",194,"G2 Esports (Inactive)",3,2,1,"2022-05-27T00:00:00.000Z",645
+30089,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",224,"Team Liquid",386,"Guild Esports",3,1,2,"2022-05-27T00:00:00.000Z",645
+29214,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1267,"Spear Gaming",1515,"World Game Star",3,2,1,"2022-05-24T00:00:00.000Z",645
+29213,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",7156,"Tartarus",6406,"CNJ Esports",3,2,1,"2022-05-24T00:00:00.000Z",645
+29212,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",5373,"On Sla2ers",286,"DRX",3,0,2,"2022-05-23T00:00:00.000Z",645
+29211,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6366,"Maru Gaming",997,"DAMWON Gaming",3,1,2,"2022-05-23T00:00:00.000Z",645
+29390,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",603,"XSET",116,"NRG Esports",3,2,0,"2022-05-22T00:00:00.000Z",645
+29387,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",1264,"FURIA",1380,"Stars Horizon",3,2,0,"2022-05-22T00:00:00.000Z",645
+29760,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",683,"9z Team",976,"KRÜ Esports",3,0,2,"2022-05-22T00:00:00.000Z",645
+29384,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5748,"Los Grandes",6344,"LOUD",3,0,2,"2022-05-22T00:00:00.000Z",645
+29393,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",6426,"OpTic Gaming",141,"Cloud9",3,2,1,"2022-05-22T00:00:00.000Z",645
+29759,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",7014,"SunXet Club",5106,"PAMPAS",3,0,2,"2022-05-22T00:00:00.000Z",645
+29681,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",5439,"FOKUS",2597,"Acend",3,1,2,"2022-05-22T00:00:00.000Z",645
+29682,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",4220,"Natus Vincere",6656,"M3 Champions",3,1,2,"2022-05-22T00:00:00.000Z",645
+30180,1532,"VCT Japan 2022 - Stage 2 Challengers - Main Event",611,"ZETA DIVISION",334,"REJECT",3,2,1,"2022-05-22T00:00:00.000Z",645
+29210,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1267,"Spear Gaming",7156,"Tartarus",3,2,1,"2022-05-22T00:00:00.000Z",645
+30178,1532,"VCT Japan 2022 - Stage 2 Challengers - Main Event",483,"Crest Gaming ZST",334,"REJECT",3,1,2,"2022-05-22T00:00:00.000Z",645
+29209,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",1515,"World Game Star",6406,"CNJ Esports",3,2,1,"2022-05-22T00:00:00.000Z",645
+30176,1532,"VCT Japan 2022 - Stage 2 Challengers - Main Event",5219,"Reignite",611,"ZETA DIVISION",3,0,2,"2022-05-22T00:00:00.000Z",645
+29386,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5747,"TBK Esports",5675,"MIBR",3,1,2,"2022-05-21T00:00:00.000Z",645
+29392,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",1448,"Evil Geniuses",388,"Sentinels",3,2,0,"2022-05-21T00:00:00.000Z",645
+29395,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",1503,"Movistar Optix",738,"Leviatán",3,1,2,"2022-05-21T00:00:00.000Z",645
+29385,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5750,"Ninjas in Pyjamas",600,"Keyd Stars",3,2,1,"2022-05-21T00:00:00.000Z",645
+29389,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",278,"TSM",305,"100 Thieves",3,2,0,"2022-05-21T00:00:00.000Z",645
+29394,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",7014,"SunXet Club",683,"9z Team",3,1,2,"2022-05-21T00:00:00.000Z",645
+29679,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",329,"BIG",386,"Guild Esports",3,1,2,"2022-05-21T00:00:00.000Z",645
+29680,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",17,"FunPlus Phoenix",194,"G2 Esports (Inactive)",3,2,0,"2022-05-21T00:00:00.000Z",645
+30175,1532,"VCT Japan 2022 - Stage 2 Challengers - Main Event",1840,"NORTHEPTION",488,"FAV gaming",3,2,0,"2022-05-21T00:00:00.000Z",645
+29208,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",997,"DAMWON Gaming",286,"DRX",3,0,2,"2022-05-21T00:00:00.000Z",645
+30174,1532,"VCT Japan 2022 - Stage 2 Challengers - Main Event",488,"FAV gaming",5218,"Jadeite",3,2,0,"2022-05-21T00:00:00.000Z",645
+29207,1489,"VCT Korea 2022 - Stage 2 Challengers - Group Stage",6366,"Maru Gaming",5373,"On Sla2ers",3,0,2,"2022-05-21T00:00:00.000Z",645
+30173,1532,"VCT Japan 2022 - Stage 2 Challengers - Main Event",1840,"NORTHEPTION",444,"Crazy Raccoon",3,2,1,"2022-05-21T00:00:00.000Z",645
+29388,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",978,"Ghost Gaming",5201,"The Guard",3,2,1,"2022-05-20T00:00:00.000Z",645
+29391,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",617,"FaZe Clan",279,"Luminosity Gaming",3,0,2,"2022-05-20T00:00:00.000Z",645
+29368,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",7050,"OG LDN UTD",1625,"FNATIC",3,0,2,"2022-05-20T00:00:00.000Z",645
+29367,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",520,"BBL Esports",224,"Team Liquid",3,0,2,"2022-05-20T00:00:00.000Z",645
+28811,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5750,"Ninjas in Pyjamas",319,"Liberty",3,2,0,"2022-05-15T00:00:00.000Z",645
+29013,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",141,"Cloud9",1448,"Evil Geniuses",3,2,0,"2022-05-15T00:00:00.000Z",645
+28868,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",7014,"SunXet Club",1503,"Movistar Optix",3,2,0,"2022-05-15T00:00:00.000Z",645
+29012,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",116,"NRG Esports",278,"TSM",3,2,0,"2022-05-15T00:00:00.000Z",645
+28810,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5675,"MIBR",600,"Keyd Stars",3,2,1,"2022-05-15T00:00:00.000Z",645
+28867,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",5106,"PAMPAS",738,"Leviatán",3,0,2,"2022-05-15T00:00:00.000Z",645
+29003,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",194,"G2 Esports (Inactive)",5439,"FOKUS",3,2,0,"2022-05-15T00:00:00.000Z",645
+29004,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",386,"Guild Esports",6656,"M3 Champions",3,2,0,"2022-05-15T00:00:00.000Z",645
+29010,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",603,"XSET",978,"Ghost Gaming",3,2,0,"2022-05-14T00:00:00.000Z",645
+28809,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",5748,"Los Grandes",580,"Gamelanders Blue",3,2,1,"2022-05-14T00:00:00.000Z",645
+28866,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",1503,"Movistar Optix",683,"9z Team",3,2,1,"2022-05-14T00:00:00.000Z",645
+29011,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",6426,"OpTic Gaming",617,"FaZe Clan",3,2,0,"2022-05-14T00:00:00.000Z",645
+28808,1443,"VCT Brazil 2022 - Stage 2 Challengers 1 - Group Stage",6344,"LOUD",1264,"FURIA",3,2,0,"2022-05-14T00:00:00.000Z",645
+28865,1446,"VCT LATAM South 2022 - Stage 2 Challengers - Group Stage",7014,"SunXet Club",976,"KRÜ Esports",3,0,2,"2022-05-14T00:00:00.000Z",645
+29002,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",224,"Team Liquid",329,"BIG",3,2,0,"2022-05-14T00:00:00.000Z",645
+29001,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",1625,"FNATIC",17,"FunPlus Phoenix",3,2,1,"2022-05-14T00:00:00.000Z",645
+29009,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",279,"Luminosity Gaming",388,"Sentinels",3,2,1,"2022-05-13T00:00:00.000Z",645
+29008,1461,"VCT North America 2022 - Stage 2 Challengers - Group Stage",5201,"The Guard",305,"100 Thieves",3,0,2,"2022-05-13T00:00:00.000Z",645
+28999,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",7050,"OG LDN UTD",2597,"Acend",3,0,2,"2022-05-13T00:00:00.000Z",645
+29000,1467,"VCT EMEA 2022 - Stage 2 Challengers - Group Stage",520,"BBL Esports",4220,"Natus Vincere",3,2,1,"2022-05-13T00:00:00.000Z",645
+27670,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",6344,"LOUD",6426,"OpTic Gaming",5,0,3,"2022-04-24T00:00:00.000Z",645
+27669,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",6426,"OpTic Gaming",611,"ZETA DIVISION",5,3,0,"2022-04-23T00:00:00.000Z",645
+27456,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",611,"ZETA DIVISION",184,"Paper Rex",3,2,1,"2022-04-22T00:00:00.000Z",645
+27431,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",6344,"LOUD",6426,"OpTic Gaming",3,2,1,"2022-04-22T00:00:00.000Z",645
+27374,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",194,"G2 Esports (Inactive)",184,"Paper Rex",3,0,2,"2022-04-18T00:00:00.000Z",645
+27373,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",286,"DRX",611,"ZETA DIVISION",3,1,2,"2022-04-18T00:00:00.000Z",645
+27323,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",194,"G2 Esports (Inactive)",6344,"LOUD",3,0,2,"2022-04-17T00:00:00.000Z",645
+27339,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",286,"DRX",6426,"OpTic Gaming",3,1,2,"2022-04-17T00:00:00.000Z",645
+27340,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",184,"Paper Rex",5201,"The Guard",3,2,0,"2022-04-16T00:00:00.000Z",645
+27324,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",611,"ZETA DIVISION",224,"Team Liquid",3,2,1,"2022-04-16T00:00:00.000Z",645
+27292,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",5201,"The Guard",6426,"OpTic Gaming",3,1,2,"2022-04-15T00:00:00.000Z",645
+27291,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",184,"Paper Rex",286,"DRX",3,1,2,"2022-04-15T00:00:00.000Z",645
+27290,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",6344,"LOUD",224,"Team Liquid",3,2,1,"2022-04-14T00:00:00.000Z",645
+27289,1351,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Playoffs",194,"G2 Esports (Inactive)",611,"ZETA DIVISION",3,2,0,"2022-04-14T00:00:00.000Z",645
+27281,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",5750,"Ninjas in Pyjamas",611,"ZETA DIVISION",3,1,2,"2022-04-13T00:00:00.000Z",645
+27282,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",5903,"XERXIA Esports",6426,"OpTic Gaming",3,0,2,"2022-04-13T00:00:00.000Z",645
+27143,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",1625,"FNATIC",611,"ZETA DIVISION",3,0,2,"2022-04-12T00:00:00.000Z",645
+27142,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",6426,"OpTic Gaming",976,"KRÜ Esports",3,2,0,"2022-04-12T00:00:00.000Z",645
+27144,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",5750,"Ninjas in Pyjamas",286,"DRX",3,0,2,"2022-04-12T00:00:00.000Z",645
+27141,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",5903,"XERXIA Esports",224,"Team Liquid",3,1,2,"2022-04-11T00:00:00.000Z",645
+26965,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",1625,"FNATIC",5750,"Ninjas in Pyjamas",3,0,2,"2022-04-11T00:00:00.000Z",645
+26967,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",6426,"OpTic Gaming",5903,"XERXIA Esports",3,0,2,"2022-04-10T00:00:00.000Z",645
+26968,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",976,"KRÜ Esports",224,"Team Liquid",3,0,2,"2022-04-10T00:00:00.000Z",645
+26966,1346,"Valorant Champions Tour 2022: Stage 1 Masters - Reykjavík - Group Stage",286,"DRX",611,"ZETA DIVISION",3,2,0,"2022-04-10T00:00:00.000Z",645
+26700,1317,"VCT South America 2022 - Stage 1: Last Chance Qualifier",5750,"Ninjas in Pyjamas",738,"Leviatán",5,3,0,"2022-04-01T00:00:00.000Z",645
+26674,1311,"VCT Latin America Stage 1 Stage 1: Playoffs",738,"Leviatán",976,"KRÜ Esports",5,2,3,"2022-03-28T00:00:00.000Z",645
+26673,1311,"VCT Latin America Stage 1 Stage 1: Playoffs",553,"E-Xolos LAZER",976,"KRÜ Esports",3,0,2,"2022-03-27T00:00:00.000Z",645
+26670,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",6426,"OpTic Gaming",5201,"The Guard",5,2,3,"2022-03-27T00:00:00.000Z",645
+26668,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",6344,"LOUD",5750,"Ninjas in Pyjamas",5,3,0,"2022-03-27T00:00:00.000Z",645
+26662,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",17,"FunPlus Phoenix",194,"G2 Esports (Inactive)",5,3,1,"2022-03-27T00:00:00.000Z",645
+26681,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",611,"ZETA DIVISION",444,"Crazy Raccoon",5,3,1,"2022-03-27T00:00:00.000Z",645
+26683,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",5903,"XERXIA Esports",184,"Paper Rex",5,2,3,"2022-03-27T00:00:00.000Z",645
+26682,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",5373,"On Sla2ers",286,"DRX",5,0,3,"2022-03-27T00:00:00.000Z",645
+26680,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",5294,"IGZIST",444,"Crazy Raccoon",3,0,2,"2022-03-27T00:00:00.000Z",645
+26679,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",4838,"Bleed Esports",5903,"XERXIA Esports",3,1,2,"2022-03-27T00:00:00.000Z",645
+26665,1311,"VCT Latin America Stage 1 Stage 1: Playoffs",553,"E-Xolos LAZER",738,"Leviatán",3,1,2,"2022-03-26T00:00:00.000Z",645
+26666,1311,"VCT Latin America Stage 1 Stage 1: Playoffs",976,"KRÜ Esports",6025,"FUSION",3,2,0,"2022-03-26T00:00:00.000Z",645
+26669,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",5201,"The Guard",141,"Cloud9",5,3,0,"2022-03-26T00:00:00.000Z",645
+26667,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",5750,"Ninjas in Pyjamas",600,"Keyd Stars",5,3,2,"2022-03-26T00:00:00.000Z",645
+26663,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",1625,"FNATIC",194,"G2 Esports (Inactive)",5,0,3,"2022-03-26T00:00:00.000Z",645
+26672,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",488,"FAV gaming",444,"Crazy Raccoon",3,0,2,"2022-03-26T00:00:00.000Z",645
+26671,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",5903,"XERXIA Esports",15,"BOOM Esports",3,2,1,"2022-03-26T00:00:00.000Z",645
+26656,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",4838,"Bleed Esports",184,"Paper Rex",3,0,2,"2022-03-26T00:00:00.000Z",645
+26659,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",611,"ZETA DIVISION",5294,"IGZIST",3,2,0,"2022-03-26T00:00:00.000Z",645
+26480,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",5373,"On Sla2ers",6510,"HolyMolly",5,3,0,"2022-03-26T00:00:00.000Z",645
+26658,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",227,"FULL SENSE",15,"BOOM Esports",3,0,2,"2022-03-26T00:00:00.000Z",645
+26661,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",444,"Crazy Raccoon",334,"REJECT",3,2,1,"2022-03-26T00:00:00.000Z",645
+26660,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",488,"FAV gaming",1840,"NORTHEPTION",3,2,0,"2022-03-26T00:00:00.000Z",645
+26657,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",5903,"XERXIA Esports",6635,"Persija Esports",3,2,0,"2022-03-26T00:00:00.000Z",645
+26654,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",603,"XSET",141,"Cloud9",3,1,2,"2022-03-25T00:00:00.000Z",645
+26664,1311,"VCT Latin America Stage 1 Stage 1: Playoffs",738,"Leviatán",6025,"FUSION",3,2,0,"2022-03-25T00:00:00.000Z",645
+26469,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",6426,"OpTic Gaming",5201,"The Guard",3,2,0,"2022-03-25T00:00:00.000Z",645
+26645,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",224,"Team Liquid",194,"G2 Esports (Inactive)",3,0,2,"2022-03-25T00:00:00.000Z",645
+26641,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",6344,"LOUD",5750,"Ninjas in Pyjamas",5,3,0,"2022-03-25T00:00:00.000Z",645
+26633,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",1625,"FNATIC",17,"FunPlus Phoenix",3,0,2,"2022-03-25T00:00:00.000Z",645
+26650,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",15,"BOOM Esports",3390,"South Built Esports",3,2,1,"2022-03-25T00:00:00.000Z",645
+26651,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",488,"FAV gaming",5294,"IGZIST",3,1,2,"2022-03-25T00:00:00.000Z",645
+26649,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",6635,"Persija Esports",93,"Made in Thailand",3,2,1,"2022-03-25T00:00:00.000Z",645
+26642,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",611,"ZETA DIVISION",444,"Crazy Raccoon",3,2,1,"2022-03-25T00:00:00.000Z",645
+26648,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",5903,"XERXIA Esports",184,"Paper Rex",3,0,2,"2022-03-25T00:00:00.000Z",645
+26653,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",334,"REJECT",483,"Crest Gaming ZST",3,2,0,"2022-03-25T00:00:00.000Z",645
+26647,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",227,"FULL SENSE",4838,"Bleed Esports",3,1,2,"2022-03-25T00:00:00.000Z",645
+26652,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",5219,"Reignite",1840,"NORTHEPTION",3,0,2,"2022-03-25T00:00:00.000Z",645
+26475,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",141,"Cloud9",1931,"Version1 (Inactive)",3,2,1,"2022-03-24T00:00:00.000Z",645
+26646,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",1264,"FURIA",600,"Keyd Stars",3,0,2,"2022-03-24T00:00:00.000Z",645
+26655,1311,"VCT Latin America Stage 1 Stage 1: Playoffs",553,"E-Xolos LAZER",976,"KRÜ Esports",3,2,0,"2022-03-24T00:00:00.000Z",645
+26474,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",279,"Luminosity Gaming",603,"XSET",3,0,2,"2022-03-24T00:00:00.000Z",645
+26615,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",600,"Keyd Stars",5747,"TBK Esports",3,2,0,"2022-03-24T00:00:00.000Z",645
+26612,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",224,"Team Liquid",386,"Guild Esports",3,2,0,"2022-03-24T00:00:00.000Z",645
+26613,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",1264,"FURIA",580,"Gamelanders Blue",3,2,1,"2022-03-24T00:00:00.000Z",645
+26614,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",6656,"M3 Champions",194,"G2 Esports (Inactive)",3,0,2,"2022-03-24T00:00:00.000Z",645
+26634,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",184,"Paper Rex",3390,"South Built Esports",3,2,0,"2022-03-24T00:00:00.000Z",645
+26638,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",483,"Crest Gaming ZST",5294,"IGZIST",3,0,2,"2022-03-24T00:00:00.000Z",645
+26632,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",15,"BOOM Esports",5903,"XERXIA Esports",3,0,2,"2022-03-24T00:00:00.000Z",645
+26637,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",334,"REJECT",488,"FAV gaming",3,0,2,"2022-03-24T00:00:00.000Z",645
+26631,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",4838,"Bleed Esports",93,"Made in Thailand",3,2,1,"2022-03-24T00:00:00.000Z",645
+26636,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",444,"Crazy Raccoon",1840,"NORTHEPTION",3,2,1,"2022-03-24T00:00:00.000Z",645
+26630,1309,"VCT 2022: APAC Stage 1 Challengers - Playoffs",227,"FULL SENSE",6635,"Persija Esports",3,2,0,"2022-03-24T00:00:00.000Z",645
+26635,1310,"VCT Japan 2022 - Stage 1 Challengers 1 - Playoffs",611,"ZETA DIVISION",5219,"Reignite",3,2,0,"2022-03-24T00:00:00.000Z",645
+26507,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",17,"FunPlus Phoenix",224,"Team Liquid",3,2,0,"2022-03-23T00:00:00.000Z",645
+26252,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",5750,"Ninjas in Pyjamas",1264,"FURIA",3,2,1,"2022-03-23T00:00:00.000Z",645
+26251,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",6344,"LOUD",600,"Keyd Stars",3,2,0,"2022-03-23T00:00:00.000Z",645
+26506,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",1625,"FNATIC",6656,"M3 Champions",3,2,1,"2022-03-23T00:00:00.000Z",645
+26250,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",5747,"TBK Esports",1264,"FURIA",3,0,2,"2022-03-22T00:00:00.000Z",645
+26505,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",194,"G2 Esports (Inactive)",224,"Team Liquid",3,1,2,"2022-03-22T00:00:00.000Z",645
+26249,1287,"VCT Brazil 2022 - Stage 1 Challengers 1 - Playoffs",600,"Keyd Stars",580,"Gamelanders Blue",3,2,0,"2022-03-22T00:00:00.000Z",645
+26504,1190,"VCT EMEA 2022 - Stage 1 Challengers - Playoffs",6656,"M3 Champions",386,"Guild Esports",3,2,0,"2022-03-22T00:00:00.000Z",645
+26479,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",212,"Velocity Gaming",3390,"South Built Esports",3,0,2,"2022-03-21T00:00:00.000Z",645
+26478,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",5903,"XERXIA Esports",667,"Onic Esports",3,2,0,"2022-03-21T00:00:00.000Z",645
+26477,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",93,"Made in Thailand",225,"CERBERUS Esports",3,2,0,"2022-03-21T00:00:00.000Z",645
+26446,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",1931,"Version1 (Inactive)",388,"Sentinels",3,2,1,"2022-03-20T00:00:00.000Z",645
+26433,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",588,"Knights",603,"XSET",3,0,2,"2022-03-20T00:00:00.000Z",645
+26472,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",227,"FULL SENSE",212,"Velocity Gaming",3,2,0,"2022-03-20T00:00:00.000Z",645
+26473,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",6510,"HolyMolly",997,"DAMWON Gaming",3,2,0,"2022-03-20T00:00:00.000Z",645
+26471,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",5903,"XERXIA Esports",4838,"Bleed Esports",3,0,2,"2022-03-20T00:00:00.000Z",645
+26463,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",286,"DRX",5373,"On Sla2ers",3,2,0,"2022-03-20T00:00:00.000Z",645
+26470,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",6635,"Persija Esports",5916,"Bonkers(OCE)",3,2,1,"2022-03-20T00:00:00.000Z",645
+26447,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",279,"Luminosity Gaming",5201,"The Guard",3,0,2,"2022-03-19T00:00:00.000Z",645
+26432,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",141,"Cloud9",6426,"OpTic Gaming",3,1,2,"2022-03-19T00:00:00.000Z",645
+26465,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",1515,"World Game Star",6510,"HolyMolly",3,0,2,"2022-03-19T00:00:00.000Z",645
+26431,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",3390,"South Built Esports",679,"Oblivion Force",3,2,0,"2022-03-19T00:00:00.000Z",645
+26464,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",997,"DAMWON Gaming",6366,"Maru Gaming",3,2,1,"2022-03-19T00:00:00.000Z",645
+26466,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",184,"Paper Rex",6635,"Persija Esports",3,2,1,"2022-03-19T00:00:00.000Z",645
+26462,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",93,"Made in Thailand",15,"BOOM Esports",3,0,2,"2022-03-19T00:00:00.000Z",645
+26247,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",5201,"The Guard",388,"Sentinels",3,2,0,"2022-03-18T00:00:00.000Z",645
+26246,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",1931,"Version1 (Inactive)",279,"Luminosity Gaming",3,1,2,"2022-03-18T00:00:00.000Z",645
+26390,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",6656,"M3 Champions",2654,"LDN UTD",3,2,0,"2022-03-18T00:00:00.000Z",645
+26389,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",4220,"Natus Vincere",17,"FunPlus Phoenix",3,1,2,"2022-03-18T00:00:00.000Z",645
+26412,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",5373,"On Sla2ers",997,"DAMWON Gaming",3,2,1,"2022-03-18T00:00:00.000Z",645
+26430,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",667,"Onic Esports",5665,"NAOS Esports",3,2,1,"2022-03-18T00:00:00.000Z",645
+26411,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",286,"DRX",1515,"World Game Star",3,2,1,"2022-03-18T00:00:00.000Z",645
+26429,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",3457,"Fancy United Esports",5916,"Bonkers(OCE)",3,0,2,"2022-03-18T00:00:00.000Z",645
+26428,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",6474,"No Namers",225,"CERBERUS Esports",3,1,2,"2022-03-18T00:00:00.000Z",645
+26245,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",6426,"OpTic Gaming",603,"XSET",3,2,1,"2022-03-17T00:00:00.000Z",645
+26244,1286,"VCT North America 2022 - Stage 1 Challengers - Main Event",141,"Cloud9",588,"Knights",3,2,1,"2022-03-17T00:00:00.000Z",645
+26388,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",329,"BIG",6656,"M3 Champions",3,0,2,"2022-03-17T00:00:00.000Z",645
+26380,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",227,"FULL SENSE",3390,"South Built Esports",3,2,0,"2022-03-17T00:00:00.000Z",645
+26382,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",997,"DAMWON Gaming",6510,"HolyMolly",3,2,0,"2022-03-17T00:00:00.000Z",645
+26379,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",5903,"XERXIA Esports",667,"Onic Esports",3,2,1,"2022-03-17T00:00:00.000Z",645
+26381,1296,"VCT Korea 2022 - Stage 1 Challengers - Playoffs",1515,"World Game Star",6366,"Maru Gaming",3,2,0,"2022-03-17T00:00:00.000Z",645
+26378,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",184,"Paper Rex",3457,"Fancy United Esports",3,2,0,"2022-03-17T00:00:00.000Z",645
+26377,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",15,"BOOM Esports",6474,"No Namers",3,2,0,"2022-03-17T00:00:00.000Z",645
+26367,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",386,"Guild Esports",1625,"FNATIC",3,1,2,"2022-03-16T00:00:00.000Z",645
+26366,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",4220,"Natus Vincere",6656,"M3 Champions",3,0,2,"2022-03-16T00:00:00.000Z",645
+26363,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",212,"Velocity Gaming",679,"Oblivion Force",3,2,0,"2022-03-16T00:00:00.000Z",645
+26362,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",5665,"NAOS Esports",4838,"Bleed Esports",3,1,2,"2022-03-16T00:00:00.000Z",645
+26313,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",6635,"Persija Esports",5916,"Bonkers(OCE)",3,2,1,"2022-03-16T00:00:00.000Z",645
+26312,1293,"VCT 2022: APAC Stage 1 Challengers - Group Stage",93,"Made in Thailand",225,"CERBERUS Esports",3,2,1,"2022-03-16T00:00:00.000Z",645
+25982,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",72,"INGAMING Esports",5750,"Ninjas in Pyjamas",3,0,2,"2022-03-14T00:00:00.000Z",645
+26200,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",6426,"OpTic Gaming",588,"Knights",3,2,0,"2022-03-13T00:00:00.000Z",645
+25980,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",1264,"FURIA",600,"Keyd Stars",3,1,2,"2022-03-13T00:00:00.000Z",645
+26199,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",388,"Sentinels",1931,"Version1 (Inactive)",3,0,2,"2022-03-13T00:00:00.000Z",645
+26298,1278,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Play In",976,"KRÜ Esports",683,"9z Team",3,2,0,"2022-03-13T00:00:00.000Z",645
+26241,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",329,"BIG",224,"Team Liquid",3,0,2,"2022-03-13T00:00:00.000Z",645
+26243,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",520,"BBL Esports",2597,"Acend",3,2,1,"2022-03-13T00:00:00.000Z",645
+26240,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",2654,"LDN UTD",17,"FunPlus Phoenix",3,2,1,"2022-03-13T00:00:00.000Z",645
+26242,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",194,"G2 Esports (Inactive)",386,"Guild Esports",3,2,0,"2022-03-13T00:00:00.000Z",645
+26239,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6368,"Team T5",6366,"Maru Gaming",3,0,2,"2022-03-13T00:00:00.000Z",645
+26238,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",5373,"On Sla2ers",3,2,0,"2022-03-13T00:00:00.000Z",645
+26198,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",603,"XSET",279,"Luminosity Gaming",3,2,0,"2022-03-13T00:00:00.000Z",645
+25981,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",53,"Team Vikings",6344,"LOUD",3,0,2,"2022-03-12T00:00:00.000Z",645
+26197,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",305,"100 Thieves",1448,"Evil Geniuses",3,2,0,"2022-03-12T00:00:00.000Z",645
+26144,1278,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Play In",976,"KRÜ Esports",738,"Leviatán",3,0,2,"2022-03-12T00:00:00.000Z",645
+25979,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",5747,"TBK Esports",319,"Liberty",3,2,0,"2022-03-12T00:00:00.000Z",645
+26145,1278,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Play In",1503,"Movistar Optix",683,"9z Team",3,0,2,"2022-03-12T00:00:00.000Z",645
+26162,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",4220,"Natus Vincere",329,"BIG",3,2,1,"2022-03-12T00:00:00.000Z",645
+26164,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",2597,"Acend",1625,"FNATIC",3,0,2,"2022-03-12T00:00:00.000Z",645
+26161,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",17,"FunPlus Phoenix",224,"Team Liquid",3,2,0,"2022-03-12T00:00:00.000Z",645
+26163,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",386,"Guild Esports",3540,"SuperMassive",3,2,1,"2022-03-12T00:00:00.000Z",645
+26237,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6510,"HolyMolly",6360,"Desperado",3,2,0,"2022-03-12T00:00:00.000Z",645
+26236,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",997,"DAMWON Gaming",286,"DRX",3,0,2,"2022-03-12T00:00:00.000Z",645
+25978,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",116,"NRG Esports",281,"Rise",3,2,0,"2022-03-12T00:00:00.000Z",645
+25977,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",141,"Cloud9",5201,"The Guard",3,2,1,"2022-03-11T00:00:00.000Z",645
+26160,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",194,"G2 Esports (Inactive)",520,"BBL Esports",3,2,0,"2022-03-11T00:00:00.000Z",645
+26159,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",3540,"SuperMassive",1625,"FNATIC",3,0,2,"2022-03-11T00:00:00.000Z",645
+26235,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",6366,"Maru Gaming",3,2,1,"2022-03-11T00:00:00.000Z",645
+26233,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6368,"Team T5",5373,"On Sla2ers",3,1,2,"2022-03-11T00:00:00.000Z",645
+26232,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6510,"HolyMolly",286,"DRX",3,0,2,"2022-03-10T00:00:00.000Z",645
+26231,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",997,"DAMWON Gaming",6360,"Desperado",3,2,1,"2022-03-10T00:00:00.000Z",645
+25946,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",6426,"OpTic Gaming",1931,"Version1 (Inactive)",3,1,2,"2022-03-07T00:00:00.000Z",645
+25961,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",5747,"TBK Esports",53,"Team Vikings",3,2,0,"2022-03-06T00:00:00.000Z",645
+25945,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",305,"100 Thieves",603,"XSET",3,1,2,"2022-03-06T00:00:00.000Z",645
+25963,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",319,"Liberty",580,"Gamelanders Blue",3,0,2,"2022-03-06T00:00:00.000Z",645
+25944,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",976,"KRÜ Esports",738,"Leviatán",3,2,0,"2022-03-06T00:00:00.000Z",645
+25899,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",386,"Guild Esports",1625,"FNATIC",3,0,0,"2022-03-06T00:00:00.000Z",645
+25967,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",2654,"LDN UTD",224,"Team Liquid",3,0,2,"2022-03-06T00:00:00.000Z",645
+25938,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6366,"Maru Gaming",6360,"Desperado",3,2,0,"2022-03-06T00:00:00.000Z",645
+25937,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",5373,"On Sla2ers",286,"DRX",3,2,0,"2022-03-06T00:00:00.000Z",645
+25915,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",116,"NRG Esports",588,"Knights",3,1,2,"2022-03-05T00:00:00.000Z",645
+25943,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",1264,"FURIA",2564,"Sharks Esports",3,0,2,"2022-03-05T00:00:00.000Z",645
+25914,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",279,"Luminosity Gaming",141,"Cloud9",3,0,2,"2022-03-05T00:00:00.000Z",645
+25679,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",738,"Leviatán",1503,"Movistar Optix",3,2,0,"2022-03-05T00:00:00.000Z",645
+25942,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",72,"INGAMING Esports",600,"Keyd Stars",3,1,2,"2022-03-05T00:00:00.000Z",645
+25678,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",1052,"Meta Gaming",683,"9z Team",3,2,0,"2022-03-05T00:00:00.000Z",645
+25898,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",194,"G2 Esports (Inactive)",2597,"Acend",3,1,2,"2022-03-05T00:00:00.000Z",645
+25821,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",520,"BBL Esports",3540,"SuperMassive",3,2,0,"2022-03-05T00:00:00.000Z",645
+25936,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",6510,"HolyMolly",3,1,2,"2022-03-05T00:00:00.000Z",645
+25930,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6368,"Team T5",997,"DAMWON Gaming",3,0,2,"2022-03-05T00:00:00.000Z",645
+25624,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",1448,"Evil Geniuses",5201,"The Guard",3,0,2,"2022-03-05T00:00:00.000Z",645
+25625,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",281,"Rise",388,"Sentinels",3,1,2,"2022-03-04T00:00:00.000Z",645
+25786,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6360,"Desperado",5373,"On Sla2ers",3,0,2,"2022-03-04T00:00:00.000Z",645
+25785,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6366,"Maru Gaming",286,"DRX",3,0,2,"2022-03-04T00:00:00.000Z",645
+25784,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",997,"DAMWON Gaming",3,1,2,"2022-03-03T00:00:00.000Z",645
+25783,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6368,"Team T5",6510,"HolyMolly",3,2,0,"2022-03-03T00:00:00.000Z",645
+25782,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",997,"DAMWON Gaming",5373,"On Sla2ers",3,0,2,"2022-03-02T00:00:00.000Z",645
+25781,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6366,"Maru Gaming",6510,"HolyMolly",3,2,1,"2022-03-02T00:00:00.000Z",645
+25569,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",1931,"Version1 (Inactive)",116,"NRG Esports",3,2,1,"2022-02-28T00:00:00.000Z",645
+25275,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",600,"Keyd Stars",5750,"Ninjas in Pyjamas",3,1,2,"2022-02-27T00:00:00.000Z",645
+25677,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",976,"KRÜ Esports",683,"9z Team",3,2,0,"2022-02-27T00:00:00.000Z",645
+25568,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",279,"Luminosity Gaming",305,"100 Thieves",3,2,1,"2022-02-27T00:00:00.000Z",645
+25274,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",72,"INGAMING Esports",2564,"Sharks Esports",3,2,0,"2022-02-27T00:00:00.000Z",645
+25676,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",1503,"Movistar Optix",5305,"EBRO Gaming",3,2,0,"2022-02-27T00:00:00.000Z",645
+25645,1248,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Main Event",611,"ZETA DIVISION",444,"Crazy Raccoon",3,2,0,"2022-02-27T00:00:00.000Z",645
+25641,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",286,"DRX",6368,"Team T5",3,2,0,"2022-02-27T00:00:00.000Z",645
+25619,1248,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Main Event",1840,"NORTHEPTION",611,"ZETA DIVISION",3,1,2,"2022-02-27T00:00:00.000Z",645
+25709,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",6360,"Desperado",3,2,0,"2022-02-27T00:00:00.000Z",645
+25614,1248,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Main Event",444,"Crazy Raccoon",206,"Sengoku Gaming",3,2,0,"2022-02-27T00:00:00.000Z",645
+25278,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",5201,"The Guard",603,"XSET",3,2,1,"2022-02-27T00:00:00.000Z",645
+25273,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",5747,"TBK Esports",6344,"LOUD",3,0,2,"2022-02-26T00:00:00.000Z",645
+25279,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",388,"Sentinels",6426,"OpTic Gaming",3,1,2,"2022-02-26T00:00:00.000Z",645
+25271,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",976,"KRÜ Esports",1052,"Meta Gaming",3,2,0,"2022-02-26T00:00:00.000Z",645
+25272,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",53,"Team Vikings",580,"Gamelanders Blue",3,1,2,"2022-02-26T00:00:00.000Z",645
+25270,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",738,"Leviatán",5305,"EBRO Gaming",3,2,0,"2022-02-26T00:00:00.000Z",645
+25587,1248,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Main Event",5294,"IGZIST",334,"REJECT",3,1,2,"2022-02-26T00:00:00.000Z",645
+25574,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6366,"Maru Gaming",997,"DAMWON Gaming",3,0,2,"2022-02-26T00:00:00.000Z",645
+25576,1248,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Main Event",740,"BLUE BEES.ESP",334,"REJECT",3,1,2,"2022-02-26T00:00:00.000Z",645
+25571,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",5373,"On Sla2ers",6510,"HolyMolly",3,2,1,"2022-02-26T00:00:00.000Z",645
+25570,1248,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Main Event",5294,"IGZIST",2062,"FENNEL",3,2,1,"2022-02-26T00:00:00.000Z",645
+25277,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",588,"Knights",281,"Rise",3,2,0,"2022-02-26T00:00:00.000Z",645
+25276,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",141,"Cloud9",1448,"Evil Geniuses",3,2,1,"2022-02-25T00:00:00.000Z",645
+25390,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6368,"Team T5",6360,"Desperado",3,0,2,"2022-02-25T00:00:00.000Z",645
+25389,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",286,"DRX",3,0,2,"2022-02-25T00:00:00.000Z",645
+25388,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",5373,"On Sla2ers",6366,"Maru Gaming",3,2,1,"2022-02-24T00:00:00.000Z",645
+25387,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",6510,"HolyMolly",997,"DAMWON Gaming",3,0,2,"2022-02-24T00:00:00.000Z",645
+25386,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",286,"DRX",6360,"Desperado",3,2,0,"2022-02-23T00:00:00.000Z",645
+25385,1242,"VCT Korea 2022 - Stage 1 Challengers : Group Stage",1515,"World Game Star",6368,"Team T5",3,2,1,"2022-02-23T00:00:00.000Z",645
+25210,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",305,"100 Thieves",5201,"The Guard",3,1,2,"2022-02-20T00:00:00.000Z",645
+25003,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",5747,"TBK Esports",580,"Gamelanders Blue",3,2,1,"2022-02-20T00:00:00.000Z",645
+25211,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",116,"NRG Esports",6426,"OpTic Gaming",3,0,2,"2022-02-20T00:00:00.000Z",645
+25221,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",738,"Leviatán",683,"9z Team",3,2,0,"2022-02-20T00:00:00.000Z",645
+25002,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",319,"Liberty",6344,"LOUD",3,1,2,"2022-02-20T00:00:00.000Z",645
+25220,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",5305,"EBRO Gaming",1052,"Meta Gaming",3,2,0,"2022-02-20T00:00:00.000Z",645
+24952,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",4220,"Natus Vincere",224,"Team Liquid",3,1,2,"2022-02-20T00:00:00.000Z",645
+24953,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",194,"G2 Esports (Inactive)",3540,"SuperMassive",3,2,0,"2022-02-20T00:00:00.000Z",645
+25009,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",281,"Rise",1931,"Version1 (Inactive)",3,0,2,"2022-02-20T00:00:00.000Z",645
+25005,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",1264,"FURIA",72,"INGAMING Esports",3,2,0,"2022-02-19T00:00:00.000Z",645
+25007,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",603,"XSET",141,"Cloud9",3,1,2,"2022-02-19T00:00:00.000Z",645
+25001,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",1503,"Movistar Optix",1052,"Meta Gaming",3,2,0,"2022-02-19T00:00:00.000Z",645
+25004,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",2564,"Sharks Esports",5750,"Ninjas in Pyjamas",3,0,2,"2022-02-19T00:00:00.000Z",645
+25000,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",976,"KRÜ Esports",5305,"EBRO Gaming",3,2,0,"2022-02-19T00:00:00.000Z",645
+24951,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",520,"BBL Esports",1625,"FNATIC",3,0,2,"2022-02-19T00:00:00.000Z",645
+24950,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",2654,"LDN UTD",329,"BIG",3,2,1,"2022-02-19T00:00:00.000Z",645
+25380,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",628,"SCARZ",740,"BLUE BEES.ESP",3,0,2,"2022-02-19T00:00:00.000Z",645
+25379,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",444,"Crazy Raccoon",5218,"Jadeite",3,2,0,"2022-02-19T00:00:00.000Z",645
+25381,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6465,"DetonatioN Gaming White",5294,"IGZIST",3,0,2,"2022-02-19T00:00:00.000Z",645
+25375,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",611,"ZETA DIVISION",5219,"Reignite",3,2,0,"2022-02-19T00:00:00.000Z",645
+25376,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",1840,"NORTHEPTION",488,"FAV gaming",3,2,0,"2022-02-19T00:00:00.000Z",645
+25382,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",2304,"Hexad",206,"Sengoku Gaming",3,1,2,"2022-02-19T00:00:00.000Z",645
+25378,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",2062,"FENNEL",4081,"Storks Phalanx",3,2,0,"2022-02-19T00:00:00.000Z",645
+25377,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",2227,"IXA",334,"REJECT",3,0,2,"2022-02-19T00:00:00.000Z",645
+25006,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",1448,"Evil Geniuses",279,"Luminosity Gaming",3,1,2,"2022-02-19T00:00:00.000Z",645
+25008,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",588,"Knights",388,"Sentinels",3,1,2,"2022-02-18T00:00:00.000Z",645
+24949,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",386,"Guild Esports",2597,"Acend",3,2,1,"2022-02-18T00:00:00.000Z",645
+24948,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",17,"FunPlus Phoenix",255,"Gambit Esports",3,2,1,"2022-02-18T00:00:00.000Z",645
+25067,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6462,"K2 eSports",5218,"Jadeite",3,0,2,"2022-02-17T00:00:00.000Z",645
+25070,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",5294,"IGZIST",6464,"SYSTEM e-Sports",3,2,0,"2022-02-17T00:00:00.000Z",645
+25069,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",740,"BLUE BEES.ESP",6463,"looking for a name",3,2,0,"2022-02-17T00:00:00.000Z",645
+25066,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",444,"Crazy Raccoon",4061,"Insomnia",3,2,1,"2022-02-17T00:00:00.000Z",645
+25077,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",1840,"NORTHEPTION",4076,"SchwarzerLand",3,2,0,"2022-02-17T00:00:00.000Z",645
+25063,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",4200,"Rebellion Arts",334,"REJECT",3,0,2,"2022-02-17T00:00:00.000Z",645
+25072,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6509,"GyoGun",206,"Sengoku Gaming",3,0,2,"2022-02-17T00:00:00.000Z",645
+25065,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6460,"ややーず",4081,"Storks Phalanx",3,0,2,"2022-02-17T00:00:00.000Z",645
+25064,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6461,"TRIDENT",2062,"FENNEL",3,0,2,"2022-02-17T00:00:00.000Z",645
+25062,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6459,"EVA:e",2227,"IXA",3,1,2,"2022-02-17T00:00:00.000Z",645
+25068,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",449,"DeToNator",628,"SCARZ",3,1,2,"2022-02-17T00:00:00.000Z",645
+25075,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",2229,"SETOUCHI ENLIFE",611,"ZETA DIVISION",3,0,2,"2022-02-17T00:00:00.000Z",645
+25074,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",5219,"Reignite",6468,"Focus e-Sports",3,2,0,"2022-02-17T00:00:00.000Z",645
+25071,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6465,"DetonatioN Gaming White",6466,"Mariner",3,2,0,"2022-02-17T00:00:00.000Z",645
+25073,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",2304,"Hexad",483,"Crest Gaming ZST",3,2,1,"2022-02-17T00:00:00.000Z",645
+25076,1225,"VCT Japan 2022 - Stage 1 Challengers 1 : Week 1 - Open Qualifier",6469,"AWS",488,"FAV gaming",3,0,2,"2022-02-17T00:00:00.000Z",645
+24961,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",603,"XSET",1448,"Evil Geniuses",3,2,0,"2022-02-14T00:00:00.000Z",645
+24837,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",2564,"Sharks Esports",600,"Keyd Stars",3,1,2,"2022-02-13T00:00:00.000Z",645
+24962,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",6426,"OpTic Gaming",281,"Rise",3,1,2,"2022-02-13T00:00:00.000Z",645
+24900,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",1503,"Movistar Optix",683,"9z Team",3,1,2,"2022-02-13T00:00:00.000Z",645
+24838,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",1264,"FURIA",5750,"Ninjas in Pyjamas",3,2,1,"2022-02-13T00:00:00.000Z",645
+24899,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",738,"Leviatán",1052,"Meta Gaming",3,2,0,"2022-02-13T00:00:00.000Z",645
+24662,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",520,"BBL Esports",386,"Guild Esports",3,0,2,"2022-02-13T00:00:00.000Z",645
+24661,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",4220,"Natus Vincere",2654,"LDN UTD",3,2,0,"2022-02-13T00:00:00.000Z",645
+24829,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",5201,"The Guard",279,"Luminosity Gaming",3,2,0,"2022-02-13T00:00:00.000Z",645
+24836,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",53,"Team Vikings",319,"Liberty",3,0,2,"2022-02-12T00:00:00.000Z",645
+24828,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",388,"Sentinels",116,"NRG Esports",3,2,1,"2022-02-12T00:00:00.000Z",645
+24898,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",683,"9z Team",5305,"EBRO Gaming",3,2,1,"2022-02-12T00:00:00.000Z",645
+24835,1132,"VCT Brazil 2022 - Stage 1 Challengers 1 - Group Stage",580,"Gamelanders Blue",6344,"LOUD",3,0,2,"2022-02-12T00:00:00.000Z",645
+24897,1203,"VCT LATAM South 2022 - Stage 1 Challengers 1 - Group Stage",976,"KRÜ Esports",1503,"Movistar Optix",3,2,0,"2022-02-12T00:00:00.000Z",645
+24660,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",3540,"SuperMassive",2597,"Acend",3,0,2,"2022-02-12T00:00:00.000Z",645
+24659,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",17,"FunPlus Phoenix",329,"BIG",3,2,1,"2022-02-12T00:00:00.000Z",645
+24827,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",1931,"Version1 (Inactive)",588,"Knights",3,2,0,"2022-02-11T00:00:00.000Z",645
+24826,1199,"VCT North America 2022 - Stage 1 Challengers - Group Stage",141,"Cloud9",305,"100 Thieves",3,2,0,"2022-02-11T00:00:00.000Z",645
+24658,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",194,"G2 Esports (Inactive)",1625,"FNATIC",3,1,2,"2022-02-11T00:00:00.000Z",645
+24657,1189,"VCT EMEA 2022 - Stage 1 Challengers - Group Stage",224,"Team Liquid",255,"Gambit Esports",3,0,2,"2022-02-11T00:00:00.000Z",645
+24924,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",3043,"GoNGo Prince",6368,"Team T5",3,0,2,"2022-02-06T00:00:00.000Z",645
+24936,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6406,"CNJ Esports",6348,"Brimstone",3,0,2,"2022-02-06T00:00:00.000Z",645
+24911,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6396,"Team GP",6360,"Desperado",3,0,2,"2022-02-06T00:00:00.000Z",645
+24915,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",1267,"Spear Gaming",5373,"On Sla2ers",3,0,2,"2022-02-06T00:00:00.000Z",645
+24928,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",1515,"World Game Star",6348,"Brimstone",3,2,1,"2022-02-06T00:00:00.000Z",645
+24918,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",3043,"GoNGo Prince",6366,"Maru Gaming",3,0,2,"2022-02-06T00:00:00.000Z",645
+24910,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6360,"Desperado",6359,"VPZ",3,2,0,"2022-02-06T00:00:00.000Z",645
+24922,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6368,"Team T5",6388,"Pentagon",3,2,0,"2022-02-06T00:00:00.000Z",645
+24935,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6406,"CNJ Esports",6394,"Next eSports",3,2,0,"2022-02-06T00:00:00.000Z",645
+24913,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",997,"DAMWON Gaming",5373,"On Sla2ers",3,2,0,"2022-02-06T00:00:00.000Z",645
+24908,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",286,"DRX",6396,"Team GP",3,2,0,"2022-02-06T00:00:00.000Z",645
+24914,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",1267,"Spear Gaming",6413,"Veronica7",3,2,1,"2022-02-06T00:00:00.000Z",645
+24921,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6368,"Team T5",6366,"Maru Gaming",3,0,2,"2022-02-06T00:00:00.000Z",645
+24917,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",3043,"GoNGo Prince",6388,"Pentagon",3,2,1,"2022-02-06T00:00:00.000Z",645
+24907,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",286,"DRX",6359,"VPZ",3,2,0,"2022-02-06T00:00:00.000Z",645
+24912,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",997,"DAMWON Gaming",1267,"Spear Gaming",3,2,0,"2022-02-06T00:00:00.000Z",645
+24934,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6406,"CNJ Esports",6348,"Brimstone",3,0,2,"2022-02-06T00:00:00.000Z",645
+24916,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",5373,"On Sla2ers",6413,"Veronica7",3,2,0,"2022-02-06T00:00:00.000Z",645
+24925,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",1515,"World Game Star",6394,"Next eSports",3,2,0,"2022-02-06T00:00:00.000Z",645
+24909,1204,"VCT Korea 2022 - Stage 1 Challengers - Open Qualifier : Ro16",6396,"Team GP",6360,"Desperado",3,2,0,"2022-02-06T00:00:00.000Z",645
